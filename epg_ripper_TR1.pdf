@@ -9,7 +9,7 @@ q
 BT
   18 745.884 Td
   105.522 Tz
-  /FN00 11.333 Tf <00150013001500130013001c001400170013001400160017> Tj
+  /FN00 11.333 Tf <00150013001500130013001c001400170013001400180019> Tj
 ET
 0 g
 BT
@@ -1175,7 +1175,7 @@ endobj
 endobj
 15 0 obj
 <</Type /FontDescriptor
-  /FontName /NFVUWY+DejaVuSansMono
+  /FontName /IQPBZR+DejaVuSansMono
   /Flags 7
   /ItalicAngle 0
   /FontBBox [-557 -374 717 1027]
@@ -1191,7 +1191,7 @@ endobj
 16 0 obj
 <</Type /Font
   /Subtype /CIDFontType2
-  /BaseFont /NFVUWY+DejaVuSansMono
+  /BaseFont /IQPBZR+DejaVuSansMono
   /FontDescriptor 15 0 R
   /CIDSystemInfo <<
     /Registry (Adobe)
@@ -1204,7 +1204,7 @@ endobj
 17 0 obj
 <</Type /Font
   /Subtype /Type0
-  /BaseFont /NFVUWY+DejaVuSansMono
+  /BaseFont /IQPBZR+DejaVuSansMono
   /Encoding /Identity-H
   /DescendantFonts [16 0 R]
 >>
@@ -1230,7 +1230,7 @@ endobj
 19 0 obj
 <<
   /Creator (texttopdf/1.21.6)
-  /CreationDate (D:20200914013422-05'05')
+  /CreationDate (D:20200914015613-05'05')
   /Title (epg_ripper_TR1.txt)
   /Author (root)
 >>

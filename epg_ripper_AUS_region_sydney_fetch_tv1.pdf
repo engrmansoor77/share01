@@ -9,7 +9,7 @@ q
 BT
   18 745.884 Td
   105.522 Tz
-  /FN00 11.333 Tf <00150013001500130013001c001400170013001400160016> Tj
+  /FN00 11.333 Tf <00150013001500130013001c001400170013001400180018> Tj
 ET
 0 g
 BT
@@ -839,7 +839,7 @@ endobj
 endobj
 12 0 obj
 <</Type /FontDescriptor
-  /FontName /QQAFCL+DejaVuSansMono
+  /FontName /RUEKXC+DejaVuSansMono
   /Flags 7
   /ItalicAngle 0
   /FontBBox [-557 -374 717 1027]
@@ -855,7 +855,7 @@ endobj
 13 0 obj
 <</Type /Font
   /Subtype /CIDFontType2
-  /BaseFont /QQAFCL+DejaVuSansMono
+  /BaseFont /RUEKXC+DejaVuSansMono
   /FontDescriptor 12 0 R
   /CIDSystemInfo <<
     /Registry (Adobe)
@@ -868,7 +868,7 @@ endobj
 14 0 obj
 <</Type /Font
   /Subtype /Type0
-  /BaseFont /QQAFCL+DejaVuSansMono
+  /BaseFont /RUEKXC+DejaVuSansMono
   /Encoding /Identity-H
   /DescendantFonts [13 0 R]
 >>
@@ -894,7 +894,7 @@ endobj
 16 0 obj
 <<
   /Creator (texttopdf/1.21.6)
-  /CreationDate (D:20200914013400-05'05')
+  /CreationDate (D:20200914015552-05'05')
   /Title (epg_ripper_AUS_region_sydney_fetch_tv1.txt)
   /Author (root)
 >>

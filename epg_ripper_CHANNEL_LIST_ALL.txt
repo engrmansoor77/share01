@@ -1,7 +1,7 @@
-202009140108
+202009140116
 
 
--- Kevev - epg_ripper_AL1 --
+-- epg_ripper_AL1 --
 
 Radio.Televizioni.i.Kosoves.al
 Klan.Kosova.al
@@ -88,7 +88,7 @@ Al.Jazeera.al
 Peace.TV.al
 
 
--- Kevev - epg_ripper_AR1 --
+-- epg_ripper_AR1 --
 
 América.TV.Internacional.ar
 TV.Pública.HDTV.ar
@@ -378,7 +378,7 @@ Antena.3.HDTV.[Internacional].ar
 DirecTV.4K.ar
 
 
--- Kevev - epg_ripper_AUS_region_national --
+-- epg_ripper_AUS_region_national --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -393,7 +393,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_nsw_canberra --
+-- epg_ripper_AUS_region_nsw_canberra --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -408,7 +408,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_nsw_newcastle --
+-- epg_ripper_AUS_region_nsw_newcastle --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -423,7 +423,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_nsw_northern_rivers --
+-- epg_ripper_AUS_region_nsw_northern_rivers --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -438,7 +438,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_nsw_orange_dubbo_wagga --
+-- epg_ripper_AUS_region_nsw_orange_dubbo_wagga --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -453,7 +453,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_nsw_sydney --
+-- epg_ripper_AUS_region_nsw_sydney --
 
 24.freeview.com.au
 2.freeview.com.au
@@ -480,7 +480,7 @@ DirecTV.4K.ar
 96.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_nsw_tamworth --
+-- epg_ripper_AUS_region_nsw_tamworth --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -495,7 +495,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_nsw_taree --
+-- epg_ripper_AUS_region_nsw_taree --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -510,7 +510,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_nsw_wollongong --
+-- epg_ripper_AUS_region_nsw_wollongong --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -525,7 +525,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_nt_regional --
+-- epg_ripper_AUS_region_nt_regional --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -540,7 +540,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_qld_brisbane --
+-- epg_ripper_AUS_region_qld_brisbane --
 
 92.freeview.com.au
 24.freeview.com.au
@@ -567,7 +567,7 @@ DirecTV.4K.ar
 96.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_qld_cairns --
+-- epg_ripper_AUS_region_qld_cairns --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -585,7 +585,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_qld_goldcoast --
+-- epg_ripper_AUS_region_qld_goldcoast --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -602,7 +602,7 @@ DirecTV.4K.ar
 96.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_qld_mackay --
+-- epg_ripper_AUS_region_qld_mackay --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -620,7 +620,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_qld_maryborough --
+-- epg_ripper_AUS_region_qld_maryborough --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -639,7 +639,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_qld_rockhampton --
+-- epg_ripper_AUS_region_qld_rockhampton --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -657,7 +657,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_qld_toowoomba --
+-- epg_ripper_AUS_region_qld_toowoomba --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -675,7 +675,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_qld_townsville --
+-- epg_ripper_AUS_region_qld_townsville --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -693,7 +693,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_qld_widebay --
+-- epg_ripper_AUS_region_qld_widebay --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -711,7 +711,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_sa_adelaide --
+-- epg_ripper_AUS_region_sa_adelaide --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -738,7 +738,7 @@ DirecTV.4K.ar
 96.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_sa_regional --
+-- epg_ripper_AUS_region_sa_regional --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -753,7 +753,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_sydney_fetch_tv1 --
+-- epg_ripper_AUS_region_sydney_fetch_tv1 --
 
 9.yourtv.com.au
 90.yourtv.com.au
@@ -848,7 +848,7 @@ DirecTV.4K.ar
 291.yourtv.com.au
 
 
--- Kevev - epg_ripper_AUS_region_sydney_foxtel_tv1 --
+-- epg_ripper_AUS_region_sydney_foxtel_tv1 --
 
 9.yourtv.com.au
 90.yourtv.com.au
@@ -1068,7 +1068,7 @@ DirecTV.4K.ar
 942.yourtv.com.au
 
 
--- Kevev - epg_ripper_AUS_region_tas_hobart --
+-- epg_ripper_AUS_region_tas_hobart --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -1084,7 +1084,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_tas_launceston --
+-- epg_ripper_AUS_region_tas_launceston --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -1099,7 +1099,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_vic_albury --
+-- epg_ripper_AUS_region_vic_albury --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -1114,7 +1114,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_vic_ballarat --
+-- epg_ripper_AUS_region_vic_ballarat --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -1129,7 +1129,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_vic_bendigo --
+-- epg_ripper_AUS_region_vic_bendigo --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -1144,7 +1144,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_vic_gippsland --
+-- epg_ripper_AUS_region_vic_gippsland --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -1159,7 +1159,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_vic_melbourne --
+-- epg_ripper_AUS_region_vic_melbourne --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -1186,7 +1186,7 @@ DirecTV.4K.ar
 96.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_vic_shepparton --
+-- epg_ripper_AUS_region_vic_shepparton --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -1201,7 +1201,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_wa_perth --
+-- epg_ripper_AUS_region_wa_perth --
 
 2.freeview.com.au
 24.freeview.com.au
@@ -1228,7 +1228,7 @@ DirecTV.4K.ar
 96.freeview.com.au
 
 
--- Kevev - epg_ripper_AUS_region_wa_regional_wa --
+-- epg_ripper_AUS_region_wa_regional_wa --
 
 24.freeview.com.au
 22.freeview.com.au
@@ -1243,7 +1243,7 @@ DirecTV.4K.ar
 31.freeview.com.au
 
 
--- Kevev - epg_ripper_IE1 --
+-- epg_ripper_IE1 --
 
 Eir-Sport-1.ie
 Eir-Sport-2.ie
@@ -1253,7 +1253,7 @@ ESPN.Ireland.ie
 BoxNation.ie
 
 
--- Kevev - epg_ripper_IN1 --
+-- epg_ripper_IN1 --
 
 Multiplex.in
 ETV.Life.in
@@ -1805,7 +1805,7 @@ Zee.Punjab.Haryana.Himachal.in
 Ten.3.in
 
 
--- Kevev - epg_ripper_IN2 --
+-- epg_ripper_IN2 --
 
 Nat.Geo.Wild.in
 Peppers.TV.in
@@ -2483,7 +2483,7 @@ DD.Bangla.in
 SVBC2.in
 
 
--- Kevev - epg_ripper_IT1 --
+-- epg_ripper_IT1 --
 
 Blaze.HD.it
 NationalGeo.it
@@ -2718,7 +2718,7 @@ RTL.102.5.HD.it
 Emilia.Romagna.24.it
 
 
--- Kevev - epg_ripper_MX1 --
+-- epg_ripper_MX1 --
 
 Discovery.Home.and.Health.HDTV.[Mexico].us
 Canal.Once.XEIPN.us
@@ -3057,7 +3057,7 @@ Stingray:.Himnos.del.Rock.us
 XEQ.NU9VE.HDTV.9.Nacional.DF.us
 
 
--- Kevev - epg_ripper_MY1 --
+-- epg_ripper_MY1 --
 
 HBO.my
 Astro.Prima.my
@@ -3302,7 +3302,7 @@ TVB.News.my
 Astro.Best.HD.my
 
 
--- Kevev - epg_ripper_PA1 --
+-- epg_ripper_PA1 --
 
 Televisora.Nacional.de.Panamá.S.A.Canal.2.HDTV.pa
 RPC.Televisión.Canal.4.pa
@@ -3557,7 +3557,7 @@ Telemedellín.HDTV.pa
 Tu.Deportes.Network.[TUDN].México.pa
 
 
--- Kevev - epg_ripper_PT1 --
+-- epg_ripper_PT1 --
 
 RTP.1.ar
 RTP.2.ar
@@ -3798,12 +3798,12 @@ Ativação.NOS.ar
 Canal.NOS.Madeira.ar
 
 
--- Kevev - epg_ripper_REDBULL1 --
+-- epg_ripper_REDBULL1 --
 
 RedBull.TV.us
 
 
--- Kevev - epg_ripper_TR1 --
+-- epg_ripper_TR1 --
 
 beIN.MOVIES.FANTASTIC.HD.tr
 beIN.SERIES.SCI-FI.HD.tr
@@ -3950,7 +3950,7 @@ TRT.Spor.tr
 A.Spor.HD.tr
 
 
--- Kevev - epg_ripper_UK1 --
+-- epg_ripper_UK1 --
 
 Disc.History+1.uk
 Noor.TV.uk
@@ -4471,7 +4471,7 @@ Xpanded.TV.uk
 Nick.Jr..HD.uk
 
 
--- Kevev - epg_ripper_US1 --
+-- epg_ripper_US1 --
 
 (Hawaiian)The.Disney.Channel.(Hawaii).us
 (Mountain)ESPN.us
@@ -5008,7 +5008,7 @@ Antenna.TV.EAST.us
 (Alaskan)Lifetime.Television.(West).us
 
 
--- Kevev - epg_ripper_US_LOCALS1 --
+-- epg_ripper_US_LOCALS1 --
 
 Daystar.(WKOB-LD2).New.York,.NY.us
 NBC.25.WEEK.PEORIA.IL.us
@@ -7210,7 +7210,7 @@ Fusion.us
 HSN.(KFTL-DT2).San.Francisco,.CA.us
 
 
--- Kevev - epg_ripper_ZA1 --
+-- epg_ripper_ZA1 --
 
 M-Net.HD.za
 1.Magic.HD.za

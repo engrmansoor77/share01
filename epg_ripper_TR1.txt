@@ -1,7 +1,7 @@
-202009140108
+202009140116
 
 
--- Kevev - epg_ripper_TR1 --
+-- epg_ripper_TR1 --
 
 beIN.MOVIES.FANTASTIC.HD.tr
 beIN.SERIES.SCI-FI.HD.tr

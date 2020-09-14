@@ -1,7 +1,7 @@
-202009140108
+202009140116
 
 
--- Kevev - epg_ripper_AUS_region_tas_launceston --
+-- epg_ripper_AUS_region_tas_launceston --
 
 24.freeview.com.au
 22.freeview.com.au

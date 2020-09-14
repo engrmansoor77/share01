@@ -1,0 +1,16 @@
+202009140108
+
+
+-- Kevev - epg_ripper_AUS_region_sa_regional --
+
+24.freeview.com.au
+22.freeview.com.au
+23.freeview.com.au
+90.freeview.com.au
+93.freeview.com.au
+78.freeview.com.au
+3.freeview.com.au
+33.freeview.com.au
+34.freeview.com.au
+32.freeview.com.au
+31.freeview.com.au

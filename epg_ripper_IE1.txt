@@ -1,0 +1,11 @@
+202009140108
+
+
+-- Kevev - epg_ripper_IE1 --
+
+Eir-Sport-1.ie
+Eir-Sport-2.ie
+BT-Sports-2.ie
+BT-Europe.ie
+ESPN.Ireland.ie
+BoxNation.ie

@@ -1,20 +1,20 @@
-202009140155
+202009142230
 
 
 -- epg_ripper_AUS_region_qld_maryborough --
 
-24.freeview.com.au
 22.freeview.com.au
 23.freeview.com.au
-90.freeview.com.au
-93.freeview.com.au
-78.freeview.com.au
-76.freeview.com.au
-6.freeview.com.au
-62.freeview.com.au
-63.freeview.com.au
-3.freeview.com.au
+24.freeview.com.au
+31.freeview.com.au
+32.freeview.com.au
 33.freeview.com.au
 34.freeview.com.au
-32.freeview.com.au
-31.freeview.com.au
+3.freeview.com.au
+62.freeview.com.au
+63.freeview.com.au
+6.freeview.com.au
+76.freeview.com.au
+78.freeview.com.au
+90.freeview.com.au
+93.freeview.com.au

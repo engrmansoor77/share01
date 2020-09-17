@@ -1,4 +1,4 @@
-202009152230
+202009162230
 
 
 -- epg_ripper_US1 --
@@ -180,6 +180,7 @@ Antenna.TV.EAST.us
 (Central)VH1.(East).us
 (Central)WGN.America.us
 (Central)Women&apos;s.Entertainment.Network.(East).us
+Cleo.Television.HDTV.us
 (Eastern)A&amp;E.Network.(East).us
 (Eastern)ABC.Family.Channel.(East).us
 (Eastern)ABC.us
@@ -536,3 +537,5 @@ Antenna.TV.EAST.us
 (Pacific)VH1.(West).us
 (Pacific)WGN.America.us
 (Pacific)Women&apos;s.Entertainment.Network.(East).us
+People.TV.us
+W20DD.Start.TV.EAST.us

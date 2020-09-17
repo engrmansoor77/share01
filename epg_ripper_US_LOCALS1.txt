@@ -1,4 +1,4 @@
-202009152230
+202009162230
 
 
 -- epg_ripper_US_LOCALS1 --
@@ -439,6 +439,7 @@ CBS.(WMDN).Meridian,.MS.us
 CBS.(WNCN).Raleigh-Durham,.NC.us
 CBS.(WNCT).Greenville,.NC.us
 CBS.(WNEM).Flint,.MI.us
+CBS.(WOHL-TV).Lima,.OH.us
 CBS.WOIO.CLA.us
 CBS.(WOWK).Huntington,.WV.us
 CBS.WPEC.WPB.us
@@ -603,6 +604,7 @@ CW.(WDCW).District.of.Columbia.us
 CW.(WKBD-TV).Detroit,.MI.us
 CW.(WLFL-TV).Raleigh,.NC.us
 CW.(WLVI-TV).Boston,.MA.us
+CW.(WNAB-TV).Nashville,.TN.us
 CW.(WNUV-TV).Baltimore,.MD.us
 CW.(WPCW).Pittsburgh,.PA.HD.us
 CW.(WPSG).Philadelphia,.PA.us

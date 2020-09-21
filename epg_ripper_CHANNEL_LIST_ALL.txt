@@ -1,4 +1,4 @@
-202009192230
+202009202230
 
 
 -- epg_ripper_AL1 --
@@ -5609,6 +5609,7 @@ CBS.(WTKR).Norfolk,.VA.us
 CBS.WTOC.SAVANNAH.GA.us
 CBS.WTOL.TOLEDO.OH.us
 CBS.WTSP.TAM.us
+CBS.(WTTV-TV).Indianapolis,.IN.us
 CBS.WTVF.NAS.us
 CBS.(WTVH).Syracuse,.NY.us
 CBS.WTVY.DOTHAN.AL.us

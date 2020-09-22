@@ -1,4 +1,4 @@
-202009202230
+202009212316
 
 
 -- epg_ripper_US_LOCALS1 --
@@ -611,6 +611,7 @@ CW.(WPCW).Pittsburgh,.PA.HD.us
 CW.(WPSG).Philadelphia,.PA.us
 CW.(WTOG-TV).Tampa,.FL.us
 CW.(WTTO-TV).Birmingham,.AL.us
+CW.(WTVX-TV).West.Palm.Beach,.FL.us
 CW.(WUPA-TV).Atlanta,.GA.us
 CW.(WXCW).Fort.Myers,.FL.us
 DABL.(WCBS-DT3).New.York,.NY.us
@@ -1478,6 +1479,7 @@ MY12.(CHAR.NC).Local.us
 My50.Chicago,.IL.us
 MY64.(CINCI).Local.us
 MyDestination.TV.us
+MY.(WBFS-TV).Miami,.FL.us
 MY.(WNYO-TV).Buffalo,.NY.us
 MY.(WSBK-TV).Boston,.MA.us
 NASA.4K.us
@@ -1817,6 +1819,7 @@ PBS.(KLVX).Las.Vegas,.NV.us
 PBS.(KOED).Tulsa,.OK.us
 PBS.(KRMA).Denver,.CO.HD.us
 PBS.(KRMA).Denver,.CO.us
+PBS.(KTCA-DT3-TV).Saint.Paul,.MN.us
 PBS.(KUED).Salt.Lake.City,.UT.us
 PBS.(KUFM).Missoula,.MT.us
 PBS.(KVCR).San.Bernardino,.CA.us
@@ -1830,6 +1833,7 @@ PBS.(WGBY-TV).Springfield,.MA.us
 PBS.(WGCU).Southwest.Florida,.FL.us
 PBS.(WHUT).Howard.University.us
 PBS.(WLIW).Long.Island,.NY.us
+PBS.(WLRN-TV).Miami,.FL.us
 PBS.(WMPB).Baltimore,.MD.HD.us
 PBS.(WMPT).Annapolis,.MD.us
 PBS.(WNET).New.York,.NY.us

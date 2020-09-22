@@ -1,4 +1,4 @@
-202009212316
+202009220049
 
 
 -- epg_ripper_AL1 --
@@ -626,6 +626,840 @@ UniversalTV.au.au
 WINBoldHobart.au.au
 WINHobart.au.au
 WINPeachHobart.au.au
+
+
+-- epg_ripper_CA1 --
+
+2M Maroc
+4E
+5 Kanal Ukrainian TV
+94.9 National Public Radio
+AAJ TAK
+A&amp;EHD Network Canada
+A&amp;E Network Canada
+Aapka Colors
+Aastha
+ABC Spark
+ABC Spark HDTV
+A Bola TV [Portugal]
+Aboriginal Peoples Television Network HDTV [East]
+ABP News
+ABP Sanjha
+Abu Dhabi TV
+Accessibilité Média Inc. [AMItv] East
+Accessible Media Inc. [AMItv] East
+Addik TV
+Addik TV HDTV
+Adult Channel
+Adult Movies
+Adult On Demand
+Adult Only Video - Gay Movies
+Adult Only Video - Movies
+Adult Swim
+Adult Swim HDTV
+Africa 24
+Africa Box Office
+Afroglobal Television
+Afrotainment
+Al Arabiya
+Al Jazeera [English - North America]
+All TV
+All TV [Ontario]
+Al Nahar
+Al Nahar Drama
+Alpha Sat
+Al Resalah
+AMC [Canada]
+AMC HDTV [Canada]
+American Heroes Channel
+American Heroes Channel HDTV
+AMI audio [East]
+Animal Planet Canada
+Animal Planet Canada HDTV
+Antena 3 HDTV [Internacional]
+Apna Channel
+Apna Classic Radio
+Apna Hindi Radio
+Apna Punjabi Radio
+Apna Sports Radio
+Apps Channel
+Aquarium Channel HDTV
+ARY Musik
+ARY News
+ARY Qtv
+A.Side
+A.Side HDTV
+Assemblée Nationale
+ATN ARY Digital
+ATN Ary Zauq
+ATN B4U Hindi Movies
+ATN Bangla
+ATN Colors Marathi
+ATN Cricket Plus Channel
+ATN DD Bharati
+ATN DD India
+ATN DD News
+ATN HDTV
+ATN Jaya
+ATN Life
+ATN Max 2
+ATN News
+ATN News 18
+ATN Punjabi
+ATN Punjabi 5
+ATN Punjabi News
+ATN Punjabi Plus
+ATN Sikh Channel
+ATN Sports
+ATN Tamil Plus
+ATN Times Now
+ATN TV 18
+ATN ZOOM
+B4U Music
+Barker
+BBC Arabic [Canada] HDTV
+BBC Canada
+BBC Earth
+BBC World News HDTV
+BBC World News North America
+Beijing TV
+beIN Sports Canada [Spanish]
+beIN Sports HDTV Canada [English]
+beIN Sports HDTV Canada [Spanish]
+Bell 4K
+Benfica TV
+BIG MAGIC International
+Black Entertainment Television [Canada East]
+Black Entertainment Television HDTV [Canada East]
+BNN Business News Network Bloomberg
+BNN Business News Network Bloomberg HDTV
+Book Television
+Cable News Network
+Cable News Network HDTV
+Cable News Network International
+Cable Public Affairs [French]
+Cable Public Affairs TV
+Canal Algérie
+Canal D
+Canal D HDTV
+Canal + International
+Canal + International HDTV
+Canal M
+Canal Sur
+Canal VIE
+Canal VIE HDTV
+Caracol TV Internacional
+Caribbean Everyday Entertainment Network
+Caribbean Radio
+CaribVision
+Cartoon Network [Canada]
+Cartoon Network HDTV [Canada]
+CASA
+CASA HDTV
+CBAFT ICI Radio-Canada HDTV [Moncton]
+CBAFT ICI Radio-Canada [Moncton]
+CBC Calgary
+CBC Calgary HDTV
+CBC Edmonton
+CBC Edmonton HDTV
+CBC Manitoba
+CBC Manitoba HDTV
+CBC News Network
+CBC News Network HDTV
+CBC Quebec
+CBC Quebec HDTV
+CBC Toronto HDTV
+CBC Vancouver
+CBC Vancouver HDTV
+CBF FM 95.1
+CBFT ICI Radio-Canada HDTV [Montreal]
+CBFX FM 100.7 Espace Musique
+CBHT
+CBHT HDTV
+CBLA Radio
+CBLFT ICI Radio-Canada HDTV [Toronto]
+CBLFT ICI Radio-Canada [Toronto]
+CBL Radio
+CBME FM 88.5
+CBM FM 93.5
+CBOFT ICI Radio-Canada HDTV [Ottawa]
+CBOT
+CBOT HDTV
+CBS Sports Network [Canada]
+CBS Sports Network [Canada] HDTV
+CBUFT ICI Radio-Canada [Vancouver]
+CBVT ICI Radio-Canada HDTV [Québec]
+CCTV Entertainment
+CCTV News HDTV
+CFTM TVA HDTV [Montreal]
+CGTN Documentary HDTV
+Channel I Bangla
+Channel One Russia
+Channel Punjabi East
+Chardikla Time TV India
+CHCH HDTV
+CHEK
+CHEX CTV Global Peterborough HDTV
+CHEX Global Durham HDTV
+China TV
+Chinese Programming
+CHIR FM Toronto
+CHOQ FM Toronto
+CHRGD [HD East]
+CHRGD [SD East]
+CHRY FM Toronto
+CHUM AM Radio
+CHUM Radio
+CICA TVOntario HDTV
+CIIT FaithTV HDTV
+Cine Bangla
+Cine Latino [Mexico City]
+Cinema One Global
+Cinépop
+Cinépop HDTV
+CITSDT YES TV HDTV
+City Montreal
+City Pulse 24
+City Pulse 24 HDTV
+Citytv Montreal HDTV
+Citytv Toronto HDTV
+Citytv Vancouver
+Citytv Vancouver HDTV
+CIUT Radio
+CJBC FM Toronto
+CJOH CTV Ottawa
+CJOH CTV Ottawa HDTV
+CKGM Radio
+CKWS CTV Global Kingston HDTV
+CNV TV HD
+Commonwealth Broadcasting Network
+Consumer News &amp; Business Channel Canada
+Cottage Life
+Country Music Television Canada
+Country Music Television Canada HDTV
+CPWA FM Toronto
+Crave 1 [East]
+Crave 1 HDTV [East]
+Crave 2 [East]
+Crave 2 HDTV [East]
+Crave 3 [East]
+Crave 3 HDTV [East]
+Crave 4 [East]
+Crave 4 HDTV [East]
+Crave Movies &amp; HBO On Demand
+Crave TV On Demand
+Crime + Investigation
+Crime + Investigation HDTV
+CTV Atlantic HDTV [Halifax, NS]
+CTV Atlantic HDTV [Moncton, NS]
+CTV Atlantic HDTV [Sydney, NS]
+CTV Calgary HDTV
+CTV Comedy [East] Channel
+CTV COMEDY [East] Channel HDTV
+CTV COMEDY [West] Channel
+CTV COMEDY [West] Channel HDTV
+CTV DRAMA Channel HDTV
+CTV DRAMA Channel SD
+CTV Kitchener
+CTV Kitchener HDTV
+CTV LIFE Channel HDTV
+CTV LIFE Channel SD
+CTV Montreal HDTV
+CTV News Channel
+CTV News Channel HDTV
+CTV Northern Ontario [North Bay] HDTV
+CTV Northern Ontario\/ Sudbury HDTV
+CTV Northern Ontario\/ Timmins
+CTV Nothern Ontario\/ Sault Ste. Marie HDTV
+CTV Regina HDTV
+CTV -- Réseau des Sports 2
+CTV -- Réseau des Sports 2 HDTV
+CTV SCI-FI Channel HDTV
+CTV SCI-FI Channel SD
+CTV Toronto HDTV
+CTV Two Atlantic
+CTV Two Atlantic HDTV
+CTV Two Barrie\/Toronto\/CKVR HDTV
+CTV Two Vancouver Island\/CIVI
+CTV Two Vancouver Island\/CIVI HDTV
+CTV Two Windsor\/CHWI
+CTV Two Windsor\/CHWI HDTV
+CTV Vancouver, British Columbia
+CTV Vancouver, British Columbia HDTV
+CTV Winnipeg HDTV
+Daystar Television Network Canada
+DejaView TV
+Detsky Kids
+Digital Video Recorder
+Discovery Science [Canada]
+Discovery Science [Canada] HDTV
+Discovery Velocity HDTV
+Disney Canada HD
+Disney Junior Canada HD
+Disney XD Canada HD
+Documentary Canada
+Documentary Canada HDTV
+Do It Yourself Canada
+Do It Yourself HDTV Canada
+Dorcel TV [French] HDTV
+Dragon TV Network
+Dream [Arabic]
+DTour
+DTOUR HDTV
+DW Deutsch+
+E! Entertainment Television Canada
+E! Entertainment Television Canada HDTV
+ELLE Fictions
+ELLE Fictions HDTV
+Entertainment Television On Demand
+ERT World
+ESPN Classic Canada
+Eternal Word Television Canada
+euronews
+Évasion
+Évasion HDTV
+Exxxtasy
+Fairchild TV 2 HDTV
+Fairchild TV [East]
+Fairchild TV [West]
+Family Jr. [HD]
+Family Jr. [SD]
+Family On Demand
+Fashion Television Canada
+Festival Portuguese TV
+FEVA
+Fibe TV1
+Filipino TV
+Fireplace HDTV
+Food Network [Canada]
+Food Network HDTV [Canada]
+Fox Life [USA &amp; Canada]
+Fox News Channel
+Fox News Channel HDTV
+Fox Sports Racing
+France 24 [North America - French]
+French Channel
+Frissons TV
+Frissons TV HDTV
+Fujian Straits TV [SETV]
+Future TV [Arabic]
+FX [Canada]
+FX HDTV [Canada]
+FXX Canada
+FXX HDTV Canada
+GAME+ HDTV
+Game Show Network HDTV [Canada]
+GameTV
+GameTV HDTV
+GEO TV [Canada]
+German Kino Plus
+Global BC
+Global BC HDTV
+Global Maritimes
+Global Ontario\/CIII HDTV
+Global Quebec HDTV
+GMA Life TV
+GMA News TV
+GMA Pinoy TV [East]
+Greek Programming
+GSN [Canada]
+Gujarati TV
+Halla Bol! Kids TV
+HBO 1
+HBO 1 HD
+HBO 2 HD
+HBO Canada On Demand
+HIFI HDTV
+Hindi
+HiSToRiA
+HiSToRiA HDTV
+History2 Canada
+History2 HDTV Canada
+History Television [East]
+History Television HDTV [East]
+HLN
+HLN HDTV
+Hollywood Suite 2000s
+Hollywood Suite 70s HDTV
+Hollywood Suite 80s
+Hollywood Suite 90s
+Hollywood Suite On Demand
+Home &amp; Garden Television Canada
+Home &amp; Garden Television Canada HDTV
+HorsePlayer Interactive TV
+How To On Demand
+HPItv Canada
+HPItv International
+HPItv West
+HRT 1
+Hum TV
+Hunan Satellite TV [HTV] [Chinese-Mandarin]
+Hustler TV Canada
+IBC TAMIL RADIO
+ICI ARTV
+ICI ARTV HDTV
+ICI Explora
+ICI Explora HDTV
+ICI Réseau de l&apos;Information
+ICI Réseau de l&apos;Information HDTV
+India Today
+Information Channel [Generic]
+International Channel ICI
+Investigation
+Investigation Discovery [Canada]
+Investigation Discovery [Canada] HDTV
+Investigation HDTV
+Iranian Television Network
+Jewish Life TV
+Jiangsu International TV Channel [Chinese-Mandarin]
+JOYTV 10 HDTV
+Kapatid TV5
+KCPQ
+KCPQ HDTV
+KCTS
+KCTS HDTV
+Kids On Demand
+KING
+KING HDTV
+KIRO [Canadian Feed]
+KIRO HDTV [Canadian Feed]
+KOMO
+KOMO HDTV
+KTLA
+KTLA HDTV
+K TV [S. Asian - Tamil]
+La chaîne Disney
+La chaîne Disney HDTV
+Las Estrellas [Canada]
+Leafs Nation Network
+Leafs Nation Network HDTV
+Le Canal Nouvelles
+Le Canal Nouvelles HDTV
+Lifestyle Network
+Lifestyle On Demand
+Lifetime Canada
+Lifetime Canada HDTV
+Ligue Nationale de Hockey 1 HD
+Ligue Nationale de Hockey 2
+Local Origination Programming
+Love Nature
+LS Times TV
+Makeful
+Masala TV
+MavTV
+MAX
+MAX HDTV
+MBC
+MBC Drama HDTV [U.S]
+Mediaset Italia Canada
+Mega Cosmos
+Melody Aflam
+Melody Drama
+Melody Hits
+Météo Média
+Mezzo Live HD
+MH One
+MLB Extra Innings HDTV 1
+MLB Extra Innings HDTV 10
+MLB Extra Innings HDTV 11
+MLB Extra Innings HDTV 12
+MLB Extra Innings HDTV 13
+MLB Extra Innings HDTV 14
+MLB Extra Innings HDTV 2
+MLB Extra Innings HDTV 3
+MLB Extra Innings HDTV 4
+MLB Extra Innings HDTV 5
+MLB Extra Innings HDTV 6
+MLB Extra Innings HDTV 7
+MLB Extra Innings HDTV 8
+MLB Extra Innings HDTV 9
+MLB Network
+MLB Network HDTV
+Moi&amp;Cie
+Moi&amp;Cie HDTV
+Movies On Demand
+MovieTime
+MovieTime HDTV
+MSNBC HDTV Canada
+MTV2
+MTV India
+Much
+Much HDTV
+Mundo
+Music &amp; Entertainment
+Music Television Canada
+Music Television Canada HDTV
+NatGeo WILD Canada HDTV
+National Geographic Canada HDTV
+National Geographic Channel [Canada]
+National Greek Television
+NBA League Pass HDTV 1
+NBA League Pass HDTV 10
+NBA League Pass HDTV 2
+NBA League Pass HDTV 3
+NBA League Pass HDTV 4
+NBA League Pass HDTV 5
+NBA League Pass HDTV 6
+NBA League Pass HDTV 7
+NBA League Pass HDTV 8
+NBA League Pass HDTV 9
+NBA TV Canada
+NBA TV Canada HDTV
+NCAA Sports Package
+NCAA Sports Package HDTV
+NDTV Good Times
+Newfoundland Television HDTV
+New Tang Dynasty TV [East]
+NFL Sunday Ticket NFL10 [HDTVTV]
+NFL Sunday Ticket NFL1 [HDTVTV]
+NFL Sunday Ticket NFL2 [HDTVTV]
+NFL Sunday Ticket NFL3 [HDTVTV]
+NFL Sunday Ticket NFL4 [HDTVTV]
+NFL Sunday Ticket NFL5 [HDTVTV]
+NFL Sunday Ticket NFL6 [HDTVTV]
+NFL Sunday Ticket NFL7 [HDTVTV]
+NFL Sunday Ticket NFL8 [HDTVTV]
+NFL Sunday Ticket NFL9 [HDTVTV]
+NHL Centre Ice 10 HDTV
+NHL Centre Ice 11 HDTV
+NHL Centre Ice 12 HDTV
+NHL Centre Ice 1 HDTV
+NHL Centre Ice 2 HDTV
+NHL Centre Ice 3 HDTV
+NHL Centre Ice 4 HDTV
+NHL Centre Ice 5 HDTV
+NHL Centre Ice 6 HDTV
+NHL Centre Ice 7 HDTV
+NHL Centre Ice 8 HDTV
+NHL Centre Ice 9 HDTV
+Nickelodeon Canada
+Nickelodeon Canada HDTV
+Nigerian Television Authority
+Noovo Montreal HD
+Noovo Montreal SD
+NOVATV
+NTV Bangla
+Nuestra Tele Noticias 24
+Odyssey [OTN1]
+Omni.1 HDTV
+Omni2 HDTV
+OMNI British Columbia
+OMNI British Columbia HDTV
+OMNI East HDTV
+On Demand
+On Demand Barker
+One Caribbean Television
+ONE: GET FIT
+ONE: GET FIT HDTV
+Ontario Provincial Legislature
+OSN Yahala
+Outdoor Life Canada
+Outdoor Life Canada HDTV
+Out TV
+Out TV HDTV
+PalmarèsADISQ par Stingray
+Paramount Network Canada [East]
+Paramount Network Canada HDTV [East]
+Peachtree TV
+Penthouse TV Canada [PPV]
+Phoenix North American Chinese Channel
+Planète + HDTV [Canada]
+Playboy Digital [Canada]
+Playboy HDTV [Canada]
+Prise 2
+Prise 2 HDTV
+ProSiebenSat.1
+PTC Punjabi
+PTV Global
+Punjab TV
+Radio France International 1
+Radio Herz
+Radiotelevisão Portuguesa Int&apos;l
+Rai Italia Nord America
+RaiNews 24
+RCN Nuestra Tele
+RDS Info
+RDS Info HDTV
+Record [Rede]
+Rede Brasil [Canada]
+Red Hot TV
+Réseau des sports
+Réseau des Sports HDTV
+REV TV HDTV [Canada]
+Ride TV
+RIK
+Rogers Sportsnet East
+Rogers Sportsnet Ontario
+Rogers Sportsnet Ontario HDTV
+Rogers SportsNet World
+Rogers SportsNet World HDTV
+Rotana Cinema
+Rotana Drama
+Rotana Moussica
+RTL Living
+RTR Planeta
+RTS Sat
+RTV International
+Russian TV
+Russia Today [North America]
+Sahara Filmy
+Sahara One
+Salt + Light Television
+Sanjha [Sling]
+Savoir média
+Savoir média HDTV
+Schlager
+SEASONS HDTV
+Séries+
+Séries+ HDTV
+SÉ Sur Demande
+SET MAX
+Showcase Television [East]
+Showcase Television HDTV [East]
+SIC Notícias
+Silver Screen Classics
+Silver Screen Classics in HD
+Sky News Arabia
+SKY TG24
+Slice TV
+Slice TV HDTV
+Smithsonian Channel Canada
+SONY AATH
+Sony Entertainment Television, Hindi – Canada
+Sports
+Sportsman Channel [Canada]
+Sportsman Channel HDTV [Canada]
+Sportsnet 360
+Sportsnet 360 HDTV
+Sportsnet One
+Sportsnet One 4K
+Sportsnet One HDTV
+Sports Plus
+Sports Radio 1290
+STAR
+STARZ 1 [EAST]
+STARZ 1 HD [EAST]
+STARZ 2 [EAST]
+STARZ 2 HDTV [EAST]
+STARZ On Demand
+Stingray Adult Alternative
+Stingray Alternative
+Stingray Around the World
+Stingray Baroque
+Stingray Big Band
+Stingray Chamber Music\/ Musique de chambre
+Stingray Christian Pop &amp; Rock
+Stingray Classica Canada HD
+Stingray Classic Masters\/Grands Classiques
+Stingray Classic Rock
+Stingray Country Classics
+Stingray Dance Clubbin&apos;
+Stingray Easy Listening
+Stingray Eclectic Electronic
+Stingray En Marge
+Stingray Éxitos Tropicales
+Stingray Flashback &apos;70&apos;s
+Stingray Folk Roots
+Stingray Franco Country
+Stingray Franco Pop
+Stingray Franco Rétro
+Stingray Hip-Hop\/R&amp;B
+Stingray Hit List
+Stingray Hits!
+Stingray Holiday Favourites
+Stingray Hot Country
+Stingray Jammin&apos;
+Stingray Jazz Masters \/ Géants du Jazz
+Stingray Jazz Now \/ Jazz d&apos;aujourd&apos;hui
+Stingray JUICEBOX HDTV
+Stingray Jukebox Oldies
+Stingray Karaoke On Demand
+Stingray Kids&apos; Stuff
+Stingray Le Palmarès
+Stingray LOUD HDTV
+Stingray Mousses Musique
+Stingray Music Videos On Demand
+Stingray Nature
+Stingray Naturescape HDTV
+Stingray Nostalgie
+Stingray Nothin&apos; But &apos;90&apos;s
+Stingray Opera Plus
+Stingray Pop Adult
+Stingray Popular Classical\/Classiques populaires
+Stingray Qello
+Stingray Remember the &apos;80&apos;s
+Stingray RETRO HDTV
+Stingray Rock
+Stingray Smooth Jazz
+Stingray Soul&apos;n R&amp;B
+Stingray Souvenirs
+Stingray Swinging Standards
+Stingray The Blues
+Stingray The Chill Lounge
+Stingray The Spa
+Stingray VIBE HDTV
+Sun TV Tamil
+Super Channel Fuse [Canada]
+Super Channel Fuse [Canada] HDTV
+Super Channel Heart &amp; Home [Canada]
+Super Channel Heart &amp; Home [Canada] HDTV
+Super Channel On Demand
+Super Channel Vault
+Super Channel Vault HDTV
+Super Ecran
+Super Ecran 2
+Super Ecran 2 HDTV
+Super Ecran 3
+Super Écran 3 HDTV
+Super Ecran 4
+Super Écran 4 HDTV
+Super Ecran HDTV
+Super Écran Sur Demande
+SurSagar Television
+SVBC
+Talent Vision TV
+Tamil Entertainment Television
+Tamil One
+T+E
+T+E HDTV
+Telebimbi
+Telefe Internacional de Argentina
+Telehit Urbano US
+Tele Latino HDTV [East]
+Télé-Mag
+Télé-Mag HD
+Télémagino
+TeleNiños
+Télé-Québec HDTV [CIVM]
+TeleRitmo
+Teletoon [East]
+Télétoon [East]
+Teletoon HDTV [East]
+Télétoon HDTV [East]
+Teletoon [West]
+Télévision Nationale d&apos;Haiti
+TFO HDTV [TV Ontario]
+TFO [TV Ontario]
+The Arabic Channel
+The Cooking Channel [Canada]
+The Cooking Channel HDTV [Canada]
+The Discovery Channel Canada
+The Discovery Channel Canada HDTV
+The Family Channel [East]
+The Family Channel HDTV [East]
+The Family Channel [West]
+The Fight Network [Canada] SDTV
+The Fight Network HDTV [Canada]
+The Filipino Channel [West]
+The Golf Channel Canada
+The Golf Channel Canada HDTV
+The Israeli Network Canada
+The Learning Channel Canada
+The Learning Channel Canada HDTV
+The NFL Network Canada]
+The NFL Network HDTV [Canada]
+The Oprah Winfrey Network Canada [East]
+The Oprah Winfrey Network Canada HDTV
+The Sports Network
+The Sports Network 2
+The Sports Network 2 HDTV
+The Sports Network 3
+The Sports Network 3 HDTV
+The Sports Network 4
+The Sports Network 4 HDTV
+The Sports Network 5
+The Sports Network 5 HDTV
+The Sports Network HDTV
+The Weather Network
+The Weather Network [National] HDTV
+TLN Soccer
+Today&apos;s Shopping Choice
+Toon-A-Vision [Bell TV]
+Toon-A-Vision HD
+Travelxp HD Canada
+Treehouse On Demand
+Treehouse TV
+Treehouse TV HDTV
+TSN 2 4K
+TSN 4K - Leafs
+Tumblebooks Application
+Turner Classic Movies [Canada]
+Turner Classic Movies HDTV [Canada]
+TV5 Québec Canada
+TV5 Québec Canada HDTV
+TVA Networks [CFTM]
+TVA Networks West [CFTM]
+TVA Sports
+TVA Sports 2
+TVA Sports 2 HD
+TV Center International
+TV Chile [TVN Internacional]
+TVE Internacional [North &amp; South America]
+TV Globo Internacional [LATAM &amp; United States]
+TVI Internacional
+TV Japan HDTV
+TVP Info
+TV RAIN
+TVS Guangdong
+UNIS TV
+UNIS TV HDTV
+Univision Canada HDTV
+Univisión tlnovelas
+UTV Movies
+Vertical TV
+Video Sur Demande
+Viet Global Network TV
+Vietnamese Programming
+Vision TV Canada HDTV
+VRAK-TV
+VRAK-TV HDTV
+Vu! PPV French Events
+Vu! PPV French Events HDTV
+WGN9 Chicago
+WGN Local Chicago HDTV
+WGRZ HDTV
+WILD Pursuit Network
+WILD Pursuit Network HDTV
+Willow Cricket
+WIN HDTV
+WIVB HDTV
+WKBW HDTV
+WNED PBS HDTV
+W Network [East]
+W Network HDTV [East]
+WNYO
+WNYO HDTV
+WOWTV HDTV [Canada]
+WPCH HDTV [Canadian Feed]
+WPIX
+WPIX HDTV
+WSBK
+WSBK HDTV
+WUTV HDTV
+WWE Network
+Y Channel
+YES TV
+Yoopa
+Yoopa HDTV
+YTV [East]
+YTV HDTV
+YTV On Demand
+YTV [West]
+Z
+Zee 24 Taas India
+Zee Bangla India
+Zee Bollywood HDTV [Canada]
+Zee Cinema [Canada]
+Zee Marathi
+Zee Punjabi
+Zee Salaam
+Zee Talkies India
+Zee Tamil
+Zee TV Canada HDTV
+Zeste
+Zeste HDTV
+Z HDTV
+Zing [Canada]
 
 
 -- epg_ripper_GR1 --

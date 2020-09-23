@@ -1,4 +1,4 @@
-202009220049
+202009222230
 
 
 -- epg_ripper_US1 --
@@ -538,4 +538,5 @@ Cleo.Television.HDTV.us
 (Pacific)WGN.America.us
 (Pacific)Women&apos;s.Entertainment.Network.(East).us
 People.TV.us
+Sportsnet.(West).us
 W20DD.Start.TV.EAST.us

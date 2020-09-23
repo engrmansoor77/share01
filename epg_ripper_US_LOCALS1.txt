@@ -1,4 +1,4 @@
-202009220049
+202009222230
 
 
 -- epg_ripper_US_LOCALS1 --
@@ -132,6 +132,7 @@ ABC.(WABC).New.York,.NY.us
 ABC.WABG.GREENWOOD.MS.us
 ABC.WAPT.JACKSON.MS.us
 ABC.WATE.KNOXVILLE.TN.us
+ABC.(WATN-TV).Memphos,.TN.us
 ABC.WBAY.GREEN.BAY.WI.us
 ABC.WBBJ.JACKSON.TN.us
 ABC.WBKO.BOWLING.GREEN.KY.us
@@ -344,6 +345,7 @@ CBS.KION.MONTEREY.CA.us
 CBS.KIRO.SEA.us
 CBS.KKTV.COLORADO.SPRINGS.CO.us
 CBS.(KLAS).Las.Vegas,.NV.us
+CBS.(KLFY-TV).Lafayette,.LA.us
 CBS.KMOV.STL.us
 CBS.KMTV.OMAHA.NE.us
 CBS.KMVT.TWIN.FALLS.ID.us
@@ -410,6 +412,7 @@ CBS.WFOR.MIA.us
 CBS.(WFRV).Green.Bay,.WI.us
 CBS.WFSB.HAR.us
 CBS.WGCL.ATL.us
+CBS.(WGFL-TV).Gainesville,.FL.us
 CBS.WGME.PORTLAND.ME.us
 CBS.(WHBF).Rock.Island,.Il.us
 CBS.WHIO.DAYTON.OH.us
@@ -427,6 +430,7 @@ CBS.WJZ.BAL.us
 CBS.(WKBN).Youngstown,.OH.us
 CBS.(WKBT).La.Crosse,.WI.HD.us
 CBS.WKMG.ORL.us
+CBS.(WKRC-TV).Cincinnati,.OH.us
 CBS.(WKRG).Mobile,.AL.us
 CBS.(WKYT).Lexington,.KY.us
 CBS.(WLKY).Louisville,.KY.us
@@ -601,6 +605,8 @@ CW.(MY50).Local.us
 CW.Network.Eastern.us
 CW.Plus.Mountain.us
 CW.(WCCT).Hartford,.CT.us
+CW.(WCWF-TV).Green.Bay,.WI.us
+CW.(WCWN-TV).Albany,.NY.us
 CW.(WDCW).District.of.Columbia.us
 CW.(WKBD-TV).Detroit,.MI.us
 CW.(WLFL-TV).Raleigh,.NC.us
@@ -609,10 +615,14 @@ CW.(WNAB-TV).Nashville,.TN.us
 CW.(WNUV-TV).Baltimore,.MD.us
 CW.(WPCW).Pittsburgh,.PA.HD.us
 CW.(WPSG).Philadelphia,.PA.us
+CW.(WSWB-TV).Scranton,.PA.us
 CW.(WTOG-TV).Tampa,.FL.us
 CW.(WTTO-TV).Birmingham,.AL.us
 CW.(WTVX-TV).West.Palm.Beach,.FL.us
+CW.(WUCW-TV).Saint.Paul,.MN.us
 CW.(WUPA-TV).Atlanta,.GA.us
+CW.(WVTV-TV).Milwaukee,.WI.us
+CW.(WWHO-TV).Columbus,.OH.us
 CW.(WXCW).Fort.Myers,.FL.us
 DABL.(WCBS-DT3).New.York,.NY.us
 Daystar.(KDPH-LD2).Phoenix,.AZ.us
@@ -1074,6 +1084,7 @@ FOX.WJBK.DET.us
 FOX.WJZY.CHA.us
 FOX.WLOV.WEST.POINT.MS.us
 FOX.WLUK.GBA.us
+FOX.(WMSN-TV).Madison,.WI.us
 FOX.(WNYW).New.York,.NY.us
 FOX.WOFL.ORL.us
 FOX.WOGX.GAI.us
@@ -1081,6 +1092,8 @@ FOX.WOLF.HAZELTON.PA.us
 FOX.WPBI.LAFAYETTE.IN.us
 FOX.(WPGH).Pittsburgh,.PA.us
 FOX.WRBW.ORL.us
+FOX.(WRGT-TV).Dayton,.OH.us
+FOX.(WRLH-TV).Richmond,.VA.us
 FOX.WRSP.SPRINGFIELD.IL.us
 FOX.WSFX.WILMINGTON.NC.us
 FOX.WSVN.MIA.us
@@ -1095,6 +1108,7 @@ FOX.WTVT.TAM.us
 FOX.WTXF.PHI.us
 FOX.WUPW.TOLEDO.OH.us
 FOX.(WUTV-TV).Buffalo,.NY.us
+FOX.(WVAH-TV).Huricane,.WV.us
 FOX.WVUE.NEO.us
 FOX.WWCP.JOHNSTOWN.PA.us
 FOX.WXTX.COLUMBUS.GA.us
@@ -1479,9 +1493,15 @@ MY12.(CHAR.NC).Local.us
 My50.Chicago,.IL.us
 MY64.(CINCI).Local.us
 MyDestination.TV.us
+MY.(KSMO-TV).Kansas.City,.MO.us
 MY.(WBFS-TV).Miami,.FL.us
+MY.(WFGX-TV).Fort.Walton,.FL.us
+MY.(WMYV-TV).Winston-Salem,.NC.us
 MY.(WNYO-TV).Buffalo,.NY.us
 MY.(WSBK-TV).Boston,.MA.us
+MY.(WTVZ-TV).Hampton.Roads,.VA.us
+MY.(WUXP-TV).Nashville,.TN.us
+MY.(WVTV-DT2-TV).Milwaukee,.WI.us
 NASA.4K.us
 NASA.Public.Educational.Channel.us
 National.Geographic.Mundo.us
@@ -1581,6 +1601,7 @@ NBC.9.KTSM.EL.PASO.TX.us
 NBC.9.WNBW.GAINESVILLE.FL.us
 NBC.9.WTOV-TV.WHEELING.WV.us
 NBC.EAST.Local.us
+NBC.(KAGS-TV).Bryan,.TX.us
 NBC.KAIT.JONESBORO.AR.us
 NBC.KALB.ALEXANDRIA.LA.us
 NBC.KARE.MIN.us
@@ -1640,6 +1661,7 @@ NBC.KWQC.DAVENPORT.IA.us
 NBC.(KXAS).Fort.Worth,.TX.us
 NBC.KYTV.SPRINGFIELD.MO.us
 NBC.Mountain.us
+NBC.MY.(WNBJ-TV).Jackson,.TN.us
 NBCSN.NORTH.WEST.Local.us
 NBCSN.PHILLY.Local.us
 NBCSN.PHILLY.+.us
@@ -1664,6 +1686,7 @@ NBC.WAVE.LOUISVILLE.KY.us
 NBC.WBAL.BAL.us
 NBC.(WBBH).Fort.Myers,.FL.us
 NBC.WBTS.BOS.us
+NBC.(WCMH-TV).Columbus,.OH.us
 NBC.WCNC.CHA.us
 NBC.WDAM.HATTIESBURG.MS.us
 NBC.WDIV.DET.us
@@ -1709,6 +1732,7 @@ NBC.(WRC).District.of.Columbia.us
 NBC.WRDE.SALISBURY.MD.us
 NBC.WRDW.AUGUSTA.GA.us
 NBC.WRGX.DOTHAN.AL.us
+NBC.(WSAV-TV).Savannah,.GA.us
 NBC.WSAZ.HUNTINGTON.WV.us
 NBC.WSCV.MIA.us
 NBC.WSFA.MONTGOMERY.AL.us
@@ -2064,6 +2088,7 @@ Telemundo.(WZDC).Washington,.DC.us
 Tele.N.us
 Teleritmo.us
 Television.Dominicana.us
+TELE.(WTMO-TV).kissimmee,.FL.us
 TeleXitos.(KDEN-DT2).Denver,.CO.us
 TeleXitos.(KTAZ-DT2).Phoenix,.AZ.us
 TeleXitos.(KTMW-DT2).Salt.Lake.City,.UT.us

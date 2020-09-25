@@ -1,4 +1,4 @@
-202009222230
+202009242357
 
 
 -- epg_ripper_US_LOCALS1 --
@@ -192,6 +192,7 @@ Action.(K38IZ-D5).Phoenix,.AZ.us
 ActionMax.us
 ActionMax.west.us
 Adult.On.Demand.us
+(Alaskan)ESPN.Classic.us
 Aliento.Vision.(WMBC-DT7).Newton,.NJ.us
 All.Arts.(WLIW-DT4).Long.Island,.NY.us
 Almavision.(KTVP-LD5).Phoenix,.AZ.us
@@ -478,6 +479,7 @@ CCTV-4.America.us
 CCTV-4.(WNXY-LD2).New.York,.NY.us
 CCTV-4.(WNYX-LD2).New.York,.NY.us
 CCTV-4.(WXNY-LD2).New.York,.NY.us
+(Central)ESPN.Classic.us
 CentroAmérica.TV.us
 CGTN.(CCTV4).us
 CGTN.Spanish.(WNXY-LD3).New.York,.NY.us
@@ -785,6 +787,7 @@ Disney.XD.USA.west.us
 Do.It.Yourself.Network.(USA).us
 Do.It.Yourself.Network.(USA).west.us
 DW.English.(KBDI-DT3).Denver,.CO.us
+(Eastern)ESPN.Classic.us
 Educational.Access.us
 Education.Channel.us
 E!.Entertainment.USA.us
@@ -811,7 +814,6 @@ ESPN2.west.us
 ESPN.Alternate.us
 ESPN.Bases.Loaded.us
 ESPN.Buzzer.Beater.us
-ESPN.Classics.USA.us
 ESPN.College.Extra.1.us
 ESPN.College.Extra.2.us
 ESPN.College.Extra.3.us
@@ -1189,6 +1191,7 @@ HandI.on.MeToo.(WCIU-DT4).Chicago,.IL.us
 HandI.(WBBH-DT2).Fort.Myers,.FL.us
 HandI.(WDCA-DT3).Washington,.DC.us
 HandI.(WWOR-DT4).New.York,.NY.us
+(Hawaiian)ESPN.Classic.us
 HBO.2.us
 HBO.2.west.us
 HBO.Comedy.us
@@ -1459,6 +1462,7 @@ MNT.(WWOR).New.York,.NY.us
 MoreMax..Eastern.us
 MoreMax.west.us
 Motor.Trend.us
+(Mountain)ESPN.Classic.us
 MovieMax.us
 MovieMax.west.us
 MOVIEplex.Mountain.us
@@ -1823,6 +1827,7 @@ Pac-12.Mountain.us
 Pac-12.Network.us
 Pac-12.Oregon.us
 Pac-12.Washington.us
+(Pacific)ESPN.Classic.us
 Paramount.Network.USA.us
 Paramount.Network.USA.west.us
 PBS12.(KBDI).Denver,.CO.us

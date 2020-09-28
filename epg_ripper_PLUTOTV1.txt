@@ -1,4 +1,4 @@
-202009262339
+202009272337
 
 
 -- epg_ripper_PLUTOTV1 --
@@ -9,9 +9,9 @@ Adventure.TV.us
 After.School.Cartoons.us
 AFV.TV.us
 All.Reality.by.WE.tv.us
-America&apos;s.Test.Kitchen.us
-America&apos;s.Voice.News.us
 American.Gladiators.us
+Americas.Test.Kitchen.us
+Americas.Voice.News.us
 Andromeda.us
 Anime.All.Ages.us
 Anime.All.Day.us
@@ -82,7 +82,7 @@ Fuse.XL.us
 Gameplay:.Roblox.us
 Game.Show.Central.us
 GLORY.Kickboxing.us
-Gordon.Ramsay&apos;s.Kitchen.us
+Gordon.Ramsays.Kitchen.us
 grvty.us
 Hillsong.Channel.us
 IGN.us
@@ -96,7 +96,7 @@ Lively.Place.us
 Live.Music.Replay.us
 Logo.Pluto.TV.us
 Lucha.Libre.AAA.us
-McLeod&apos;s.Daughters.us
+McLeods.Daughters.us
 Midsomer.Murders.us
 MinecrafTV.us
 MLS.us
@@ -110,11 +110,11 @@ MTV.Dating.us
 MTV.Guy.Code.us
 MTV.Latino.us
 MTV.Pluto.TV.us
-MTV.Spankin&apos;.New.us
+MTV.Spankin.New.us
 MTV.Teen.us
 MTV.The.Challenge.us
 MTV.The.Hills.us
-MTV.Wild.&apos;N.Out.us
+MTV.Wild.N.Out.us
 Narco.Novelas.us
 Naruto.us
 NASA.TV.us
@@ -242,7 +242,7 @@ VH1.Black.Ink.Crew.us
 VH1.Hip.Hop.Family.us
 VH1.I.Love.Reality.us
 VH1.Love.\u0026.Hip.Hop.us
-VH1.RuPaul&apos;s.Drag.Race.us
+VH1.RuPauls.Drag.Race.us
 Voyager.Documentaries.us
 WatchFree.Adventure.us
 WatchFree.Film.Festival.us

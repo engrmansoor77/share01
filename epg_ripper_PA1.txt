@@ -1,4 +1,4 @@
-202009262339
+202009272337
 
 
 -- epg_ripper_PA1 --
@@ -178,7 +178,7 @@ Stingray:.Classic.Masters.pa
 Stingray:.Classic.RnB.and.Soul.pa
 Stingray:.Cocktail.Lounge.pa
 Stingray:.Dance.Classics.pa
-Stingray:.Dance.Clubbin'.pa
+Stingray:.Dance.Clubbin.pa
 Stingray:.Dancefloor.Fillers.pa
 Stingray:.Easy.Listening.pa
 Stingray:.Euro.Hits.pa
@@ -189,7 +189,7 @@ Stingray:.Hard.Rock.pa
 Stingray:.Hit.List.pa
 Stingray:.Holiday.Hits.pa
 Stingray:.Indie.Classics.pa
-Stingray:.Jammin'.Reggae.pa
+Stingray:.Jammin.Reggae.pa
 Stingray:.Jazz.Latino.pa
 Stingray:.Jukebox.Oldies.pa
 Stingray:.Mariachi.Para.Siempre.pa

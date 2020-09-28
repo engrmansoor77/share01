@@ -1,4 +1,4 @@
-202009262339
+202009272337
 
 
 -- epg_ripper_MX1 --
@@ -232,7 +232,7 @@ Stingray.Éxitos.Tropicales.mx
 Stingray:.Fiesta.Continua.mx
 Stingray:.Hard.Rock.mx
 Stingray:.Himnos.del.Rock.mx
-Stingray:.Jammin&apos;.Reggae.mx
+Stingray:.Jammin.Reggae.mx
 Stingray:.Jazz.Latino.mx
 Stingray:.Latin.Lounge.mx
 Stingray:.Maestros.del.Clásico.mx

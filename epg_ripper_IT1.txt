@@ -1,4 +1,4 @@
-202009262339
+202009272337
 
 
 -- epg_ripper_IT1 --
@@ -41,7 +41,7 @@ Discovery.Sci.it
 DMAX+1.it
 DMAX.HD.it
 DMAX.it
-Doctor&apos;s.Life.it
+Doctors.Life.it
 DoveTv.it
 Emilia.Romagna.24.it
 Euronews.it

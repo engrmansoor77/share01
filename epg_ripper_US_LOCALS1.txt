@@ -1,4 +1,4 @@
-202009262339
+202009272337
 
 
 -- epg_ripper_US_LOCALS1 --
@@ -202,8 +202,8 @@ Amazing.Facts.TV.(K18JL-D).Phoenix,.AZ.us
 AMC.On.Demand.us
 AMC.us
 AMC.west.us
-America&apos;s.Auction.Channel.us
 American.Heroes.Channel.us
+Americas.Auction.Channel.us
 América.TeVé.(WPXO-LD).East.Orange,.NJ.us
 Animal.Planet.US.us
 Animal.Planet.US.west.us
@@ -998,7 +998,7 @@ FOX.(KTTV).Los.Angeles,.CA.us
 FOX.KTTW.SIOUX.FALLS.SD.us
 FOX.(KTVU-TV).San.Francisco,.CA.us
 FOX.KTXH.HOU.us
-FOX.(KUTP2).&apos;Fox.10.Xtra&apos;.Phoenix,.AZ.us
+FOX.(KUTP2).Fox.10.Xtra.Phoenix,.AZ.us
 FOX.KUTP.PHX.us
 FOX.KVCT.VICTORIA.TX.us
 FOX.KVHP.LAKE.CHARLES.LA.us
@@ -1351,9 +1351,9 @@ Marquee.Sports.Network.us
 MavTV.USA.us
 MBC.America.(Korean).us
 MBC.Drama.(Korean).us
-MC.70&apos;s.us
-MC.80&apos;s.us
-MC.90&apos;s.us
+MC.70s.us
+MC.80s.us
+MC.90s.us
 MC.Adult.Alternative.us
 MC.Alternative.us
 MC.Blues.us
@@ -1398,7 +1398,7 @@ MC.Sounds.of.The.Seasons.us
 MC.Stage.and.Screen.us
 MC.Teen.Beats.us
 MC.Throwback.Jamz.us
-MC.Today&apos;s.Country.us
+MC.Todays.Country.us
 MC.Toddler.Tunes.us
 MC.Tropicales.us
 MC.Y2K.us
@@ -1930,8 +1930,8 @@ Retro.TV.(WKOB-DT7).New.York,.NY.us
 Retro.TV.(WNYX-DT5).New.York,.NY.us
 Retro.TV.(WXNY-DT5).New.York,.NY.us
 Retro.TV.(WXNY-LD4).New.York,.NY.us
-REV&apos;N.(KPHE-LD3).Phoenix,.AZ.us
-REV&apos;N.(WNYX-LD4).New.York,.NY.us
+REVN.(KPHE-LD3).Phoenix,.AZ.us
+REVN.(WNYX-LD4).New.York,.NY.us
 RFD-TV.us
 Ride.TV.us
 RNN.(WRNN).Kingston,.NY.us
@@ -1953,7 +1953,7 @@ SEC.Network.Alternate.us
 SEC.Network.us
 SET.(Sony.Entertainment.Television.Asia).us
 SET.TV.International.us
-Shepherd&apos;s.Chapel.Network.us
+Shepherds.Chapel.Network.us
 SHOPHQ.us
 SHOPHQ.(WMBC-DT4).Newton,.NJ.us
 Shop.LC.(WZME).Bridgeport,.CT.us
@@ -2216,8 +2216,8 @@ V-Me.(WNET-DT3).New.York,.NY.us
 Wapa.America.us
 WeatherNation.us
 Weather.Plus.(KPNX-DT2).Phoenix,.AZ.us
-WE.(Women&apos;s.Entertainment).us
-WE.(Women&apos;s.Entertainment).west.us
+WE.(Womens.Entertainment).us
+WE.(Womens.Entertainment).west.us
 WGN.America.us
 WGN.America.west.us
 WGN.Chicago.(LOCAL).us

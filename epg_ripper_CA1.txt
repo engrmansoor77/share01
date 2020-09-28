@@ -1,4 +1,4 @@
-202009262339
+202009272337
 
 
 -- epg_ripper_CA1 --
@@ -374,8 +374,8 @@ ICI.ARTV.ca
 ICI.ARTV.HDTV.ca
 ICI.Explora.ca
 ICI.Explora.HDTV.ca
-ICI.Réseau.de.l&apos;Information.ca
-ICI.Réseau.de.l&apos;Information.HDTV.ca
+ICI.Réseau.de.lInformation.ca
+ICI.Réseau.de.lInformation.HDTV.ca
 India.Today.ca
 Information.Channel.[Generic].ca
 International.Channel.ICI.ca
@@ -548,7 +548,7 @@ PTV.Global.ca
 Punjab.TV.ca
 Radio.France.International.1.ca
 Radio.Herz.ca
-Radiotelevisão.Portuguesa.Int&apos;l.ca
+Radiotelevisão.Portuguesa.Intl.ca
 Rai.Italia.Nord.America.ca
 RaiNews.24.ca
 RCN.Nuestra.Tele.ca
@@ -627,12 +627,12 @@ Stingray.Classica.Canada.HD.ca
 Stingray.Classic.Masters\/Grands.Classiques.ca
 Stingray.Classic.Rock.ca
 Stingray.Country.Classics.ca
-Stingray.Dance.Clubbin&apos;.ca
+Stingray.Dance.Clubbin.ca
 Stingray.Easy.Listening.ca
 Stingray.Eclectic.Electronic.ca
 Stingray.En.Marge.ca
 Stingray.Éxitos.Tropicales.ca
-Stingray.Flashback.&apos;70&apos;s.ca
+Stingray.Flashback.70s.ca
 Stingray.Folk.Roots.ca
 Stingray.Franco.Country.ca
 Stingray.Franco.Pop.ca
@@ -642,13 +642,13 @@ Stingray.Hit.List.ca
 Stingray.Hits!.ca
 Stingray.Holiday.Favourites.ca
 Stingray.Hot.Country.ca
-Stingray.Jammin&apos;.ca
+Stingray.Jammin.ca
 Stingray.Jazz.Masters.\/.Géants.du.Jazz.ca
-Stingray.Jazz.Now.\/.Jazz.d&apos;aujourd&apos;hui.ca
+Stingray.Jazz.Now.\/.Jazz.daujourdhui.ca
 Stingray.JUICEBOX.HDTV.ca
 Stingray.Jukebox.Oldies.ca
 Stingray.Karaoke.On.Demand.ca
-Stingray.Kids&apos;.Stuff.ca
+Stingray.Kids.Stuff.ca
 Stingray.Le.Palmarès.ca
 Stingray.LOUD.HDTV.ca
 Stingray.Mousses.Musique.ca
@@ -656,16 +656,16 @@ Stingray.Music.Videos.On.Demand.ca
 Stingray.Nature.ca
 Stingray.Naturescape.HDTV.ca
 Stingray.Nostalgie.ca
-Stingray.Nothin&apos;.But.&apos;90&apos;s.ca
+Stingray.Nothin.But.90s.ca
 Stingray.Opera.Plus.ca
 Stingray.Pop.Adult.ca
 Stingray.Popular.Classical\/Classiques.populaires.ca
 Stingray.Qello.ca
-Stingray.Remember.the.&apos;80&apos;s.ca
+Stingray.Remember.the.80s.ca
 Stingray.RETRO.HDTV.ca
 Stingray.Rock.ca
 Stingray.Smooth.Jazz.ca
-Stingray.Soul&apos;n.R&amp;B.ca
+Stingray.Souln.R&amp;B.ca
 Stingray.Souvenirs.ca
 Stingray.Swinging.Standards.ca
 Stingray.The.Blues.ca
@@ -711,7 +711,7 @@ Télétoon.[East].ca
 Teletoon.HDTV.[East].ca
 Télétoon.HDTV.[East].ca
 Teletoon.[West].ca
-Télévision.Nationale.d&apos;Haiti.ca
+Télévision.Nationale.dHaiti.ca
 TFO.HDTV.[TV.Ontario].ca
 TFO.[TV.Ontario].ca
 The.Arabic.Channel.ca
@@ -747,7 +747,7 @@ The.Sports.Network.HDTV.ca
 The.Weather.Network.ca
 The.Weather.Network.[National].HDTV.ca
 TLN.Soccer.ca
-Today&apos;s.Shopping.Choice.ca
+Todays.Shopping.Choice.ca
 Toon-A-Vision.[Bell.TV].ca
 Toon-A-Vision.HD.ca
 Travelxp.HD.Canada.ca

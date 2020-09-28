@@ -1,4 +1,4 @@
-202009262339
+202009272337
 
 
 -- epg_ripper_US1 --
@@ -89,7 +89,7 @@
 (Alaskan)USA.Network.(West).us
 (Alaskan)VH1.(West).us
 (Alaskan)WGN.America.us
-(Alaskan)Women&apos;s.Entertainment.Network.(East).us
+(Alaskan)Womens.Entertainment.Network.(East).us
 Antenna.TV.EAST.us
 (Central)A&amp;E.Network.(East).us
 (Central)ABC.Family.Channel.(East).us
@@ -179,7 +179,7 @@ Antenna.TV.EAST.us
 (Central)USA.Network.(East).us
 (Central)VH1.(East).us
 (Central)WGN.America.us
-(Central)Women&apos;s.Entertainment.Network.(East).us
+(Central)Womens.Entertainment.Network.(East).us
 Cleo.Television.HDTV.us
 (Eastern)A&amp;E.Network.(East).us
 (Eastern)ABC.Family.Channel.(East).us
@@ -270,7 +270,7 @@ Cleo.Television.HDTV.us
 (Eastern)USA.Network.(East).us
 (Eastern)VH1.(East).us
 (Eastern)WGN.America.us
-(Eastern)Women&apos;s.Entertainment.Network.(East).us
+(Eastern)Womens.Entertainment.Network.(East).us
 (Hawaiian)A&amp;E.Network.(West).us
 (Hawaiian)ABC.Family.Channel.(Hawaii).us
 (Hawaiian)ABC.us
@@ -357,7 +357,7 @@ Cleo.Television.HDTV.us
 (Hawaiian)USA.Network.(Hawaii).us
 (Hawaiian)VH1.(Hawaii).us
 (Hawaiian)WGN.America.us
-(Hawaiian)Women&apos;s.Entertainment.Network.(East).us
+(Hawaiian)Womens.Entertainment.Network.(East).us
 (Mountain)A&amp;E.Network.(West).us
 (Mountain)ABC.Family.Channel.(West).us
 (Mountain)ABC.us
@@ -446,7 +446,7 @@ Cleo.Television.HDTV.us
 (Mountain)USA.Network.(West).us
 (Mountain)VH1.(West).us
 (Mountain)WGN.America.us
-(Mountain)Women&apos;s.Entertainment.Network.(East).us
+(Mountain)Womens.Entertainment.Network.(East).us
 (Pacific)A&amp;E.Network.(West).us
 (Pacific)ABC.Family.Channel.(West).us
 (Pacific)ABC.us
@@ -536,7 +536,7 @@ Cleo.Television.HDTV.us
 (Pacific)USA.Network.(West).us
 (Pacific)VH1.(West).us
 (Pacific)WGN.America.us
-(Pacific)Women&apos;s.Entertainment.Network.(East).us
+(Pacific)Womens.Entertainment.Network.(East).us
 People.TV.us
 Sportsnet.(West).us
 W20DD.Start.TV.EAST.us

@@ -1,4 +1,4 @@
-202009262339
+202009272337
 
 
 -- epg_ripper_AR1 --
@@ -205,7 +205,7 @@ Radio.Caracol.ar
 Radio.Del.Plata.AM.1030.ar
 Radio.Disney.[XM.Satellite.Radio].ar
 Radio.France.International.1.ar
-Radiotelevisão.Portuguesa.Int'l.ar
+Radiotelevisão.Portuguesa.Intl.ar
 Rai.Italia.Nord.America.ar
 RCN.Nuestra.Tele.ar
 Smithsonian.Channel.HDTV.[Latin.America].ar
@@ -229,7 +229,7 @@ Stingray:.Felices.Fiestas.ar
 Stingray:.Hard.Rock.ar
 Stingray:.Himnos.del.Rock.ar
 Stingray.Hip-Hop\/RandB.ar
-Stingray:.Jammin'.Reggae.ar
+Stingray:.Jammin.Reggae.ar
 Stingray:.Jazz.Now.ar
 Stingray:.Maestros.del.Clásico.ar
 Stingray:.Mix.750.ar

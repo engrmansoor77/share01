@@ -1,4 +1,4 @@
-202009272337
+202009282346
 
 
 -- epg_ripper_AU1 --
@@ -17,6 +17,11 @@
 10PeachPerth.au.au
 10PeachSydney.au.au
 10Perth.au.au
+10ShakeAdelaide.au.au
+10ShakeBrisbane.au.au
+10ShakeMelbourne.au.au
+10ShakePerth.au.au
+10ShakeSydney.au.au
 10Sydney.au.au
 7Adelaide.au.au
 7Brisbane.au.au

@@ -1,4 +1,4 @@
-202009302355
+202010020004
 
 
 -- epg_ripper_ALL_SOURCES1 --
@@ -25,6 +25,8 @@
 10Sydney.au.au
 10.TV.in
 1+1.pt
+1.KZN.za
+1.Magic.HD.za
 1sports.in
 24.Ghante.in
 24.HD.tr
@@ -399,6 +401,10 @@ Afizzionados.mx
 AFN.vn
 Africa.24.ca
 Africa.Box.Office.ca
+Africa.Magic.Epic.za
+Africa.Magic.Family.za
+Africa.Magic.Urban.za
+African.Easter.za
 Afroglobal.Television.ca
 Afro.Music.Channel.pt
 Afrotainment.ca
@@ -520,6 +526,7 @@ Al.Jazeera.gr
 Al.Jazeera.HD.uk
 Al.Jazeera.Intl..HD.it
 Al.Jazeera.pt
+Al.Jazeera.za
 All.Arts.(WLIW-DT4).Long.Island,.NY.us
 All.Reality.by.WE.tv.us
 All.TV.ca
@@ -825,6 +832,7 @@ B4U.Kadak.in
 B4U.Movies.in
 B4U.Movies.North.America.us
 B4U.Movies.uk
+B4U.Movies.za
 B4U.Music.ca
 B4U.Music.in
 B4U.Music.North.America.us
@@ -850,6 +858,7 @@ Bangla.Bharat.in
 Bangla.Cinema.Promo.in
 Bansal.News.in
 Barker.ca
+Bay.TV.za
 BAYU.my
 Baywatch.us
 BBC.6.Music.uk
@@ -858,20 +867,24 @@ BBC.America.us
 BBC.America.west.us
 BBC.Arabic.[Canada].HDTV.ca
 BBC.Asian.uk
+BBC.Brit.HD.za
 BBC.Canada.ca
 BBC.Cymru.2.uk
 BBC.Earth.au
 BBC.Earth.ca
 BBC.Earth.HD.gr
 BBC.EARTH.HD.tr
+BBC.Earth.HD.za
 BBC.earth.vn
 BBC.Entertainment.pt
 BBC.Entertainment.tr
 BBCFirst.au.au
+BBC.First.HD.za
 BBC.Four.HD.uk
 BBC.Four.uk
 BBC.HD.tr
 BBC.Lifestyle.vn
+BBC.Lifestyle.za
 BBC.NEWS.HD.uk
 BBC.NEWS.uk
 BBC.One.CI.uk
@@ -935,6 +948,7 @@ BBC.World.News.my
 BBC.World.News.North.America.ca
 BBC.World.News.pt
 BBC.World.News.vn
+BBC.World.News.za
 BBC.World.North.America.us
 BBC.WS.uk
 Beauty.and.Fashion.Tips.in
@@ -980,6 +994,7 @@ Benfica.TV.ca
 BEN.uk
 BERNAMA.my
 Best.Direct.uk
+Beste.Van.Nederlands.za
 Best.FM.tr
 Best.TV.gr
 BET:BlackEntTv.uk
@@ -991,6 +1006,7 @@ BET.Pluto.TV.us
 BET.Soul.us
 BET.us
 BET.west.us
+BET.za
 Beyaz.TV.HD.tr
 BEYAZ.TV.HD.tr
 BFBS.Radio.uk
@@ -1000,6 +1016,7 @@ BFlix.Movies.in
 Bhakti.TV.in
 Bharat.Samachar.in
 Bhojpuri.Cinema.in
+Big.Brother.Naija.S5.za
 Big.Ganga.in
 Biggs.pt
 Big.Magic.Ganga.in
@@ -1033,6 +1050,7 @@ Bloomberg.it
 Bloomberg.pt
 BloombergTelevision.au.au
 Bloomberg.Television.my
+Bloomberg.Television.za
 Bloomberg.TV.ar
 Bloomberg.TV.us
 Bloomberg.TV.USA.us
@@ -1063,6 +1081,7 @@ Boomerang.Latin.America.us
 Boomerang.[Mexico].mx
 Boomerang.On.Demand.us
 Boomerang.us
+Boomerang.za
 Bounce.(KCEC-DT2).Denver,.CO.us
 Bounce.(KTVW-DT4).Phoenix,.AZ.us
 Bounce.Network.us
@@ -1101,6 +1120,7 @@ BTV5.HD.vn
 BTVi.in
 BTV.News.in
 BuenaVision.TV.(WBQM-LD).us
+Business.Day.za
 Buzzr.TV.(KDFI-DT3).Dallas,.TX.us
 Buzzr.TV.us
 Buzzr.TV.(WFLD3).Chicago,.IL.us
@@ -1213,6 +1233,7 @@ Cartoon.Network.Espanol.us
 Cartoon.Network.HD.in
 Cartoon.Network.HD.my
 Cartoon.Network.HDTV.[Canada].ca
+Cartoon.Network.HD.za
 Cartoon.Network.in
 Cartoon.Network.it
 Cartoon.Network.[Latin.America.-.Argentina].ar
@@ -1255,6 +1276,7 @@ CBEEBIES.HD.tr
 CBeebies.HD.uk
 CBeeBies.in
 CBeebies.uk
+Cbeebies.za
 CBF.FM.95.1.ca
 CBFT.ICI.Radio-Canada.HDTV.[Montreal].ca
 CBFX.FM.100.7.Espace.Musique.ca
@@ -1277,6 +1299,7 @@ CBS.5.KPIX.SAN.FRANCISCO.CA.us
 CBS.6.KOIN.PORTLAND.OR.us
 CBS.Drama.uk
 CBS.EAST.us
+CBS.Justice.HD.za
 CBS.Justice.uk
 CBS.KALB.ALEXANDRIA.LA.us
 CBS.KAUZ.WICHITA.FALLS.TX.us
@@ -1351,6 +1374,7 @@ CBS.NVLY.FARGO.VALLEY.CT.us
 CBS.Reality+1.uk
 CBS.Reality.gr
 CBS.Reality.uk
+CBS.Reality.za
 CBS.Sports.HQ.us
 CBS.Sports.Network.[Canada].ca
 CBS.Sports.Network.[Canada].HDTV.ca
@@ -1457,6 +1481,7 @@ CCTV.4.pt
 CCTV-4.(WNXY-LD2).New.York,.NY.us
 CCTV-4.(WNYX-LD2).New.York,.NY.us
 CCTV-4.(WXNY-LD2).New.York,.NY.us
+CCTV.4.za
 CCTV9.in
 CCTV.en.Español.mx
 CCTV.Entertainment.ca
@@ -1591,6 +1616,7 @@ Channel.7.uk
 Channel.I.Bangla.ca
 Channel.i.(Bangladesh).us
 Channel.NewsAsia.in
+Channel.O.HD.za
 Channel.One.in
 Channel.One.Russia.ca
 Channel.Promos.in
@@ -1710,6 +1736,7 @@ CMTV.pt
 CMT.Westerns.us
 CN+1.uk
 CNA.HD.my
+CNBC.Africa.za
 CNBC.Asia.my
 CNBC.au.au
 CNBC.Awaaz.in
@@ -1731,6 +1758,7 @@ CNN.Español.us
 CNN.gr
 CNN.HD.my
 CNN.HD.uk
+CNN.International.HD.za
 CNN.International.in
 CNN.International.North.America.us
 CNN.INTERNATIONAL.tr
@@ -1775,6 +1803,7 @@ Colors.SUPER.in
 Colors.Tamil.HD.in
 Colors.Tamil.HD.my
 Colors.Tamil.in
+Colors.za
 Combate.World.us
 Comcast.Sportsnet.New.York.(SNY).us
 Comedy.+1.it
@@ -1796,6 +1825,7 @@ Comedy.Central.Stand-Up.us
 ComedyCentral.uk
 Comedy.Central.(US).us
 Comedy.Central.(US).west.us
+Comedy.Central.za
 Comedy.TV.HD.us
 Comedy.TV.us
 ComedyXtra+1.uk
@@ -1968,6 +1998,7 @@ Cuba.Visión.Internacional.pa
 Cubavisión.Internacional.pt
 CUNY.NYC.TV.HD.us
 CUNY.(WNYE-DT3).New.York,.NY.us
+Curiosity.Stream.za
 Cutting.Edge.on.Demand.us
 CVR.News.in
 CVR.Spiritual.OM.in
@@ -2028,6 +2059,7 @@ Daystar.Network.us
 Daystar.Television.Network.Canada.ca
 Daystar.(WDCI-LD1).Chicago,.IL.us
 Daystar.(WKOB-LD2).New.York,.NY.us
+Day.Star.za
 DAZN1.it
 DD.Arunprabha.in
 DD.Bangla.in
@@ -2088,6 +2120,7 @@ Detsky.Kids.ca
 Deutsche.Welle.gr
 Deutsche.Welle.TV.Español.ar
 Deutsche.Welle.TV.Español.pa
+Deutsche.Welle.za
 Dhoom.Music.in
 Dighvijay.News.in
 Digital.Video.Recorder.ca
@@ -2137,6 +2170,7 @@ DiscoveryChannel.au.au
 Discovery.Channel.gr
 Discovery.Channel.HD.my
 Discovery.Channel.HD.tr
+Discovery.Channel.HD.za
 Discovery.Channel.my
 Discovery.Channel.pt
 Discovery.Channel.(US).on.demand.us
@@ -2149,6 +2183,7 @@ Discovery.Civilization.International.pa
 Discovery.en.Espanol.us
 Discovery.Familia.us
 Discovery.Family.Channel.us
+Discovery.Family.HD.za
 DIscovery.gr
 Discovery.HD.in
 Discovery.HD.pt
@@ -2160,6 +2195,7 @@ Discovery.Home.and.Health.HDTV.[Latin.America].mx
 Discovery.Home.and.Health.HDTV.[Latin.America].pa
 Discovery.Home.and.Health.HDTV.[Mexico].mx
 Discovery.Home.and;.Health.[Mexico].mx
+Discovery.ID.HD.za
 Discovery.in
 Discovery.it
 Discovery.Kids.HDTV.[Latin.America].ar
@@ -2187,6 +2223,7 @@ Discovery.Tamil.in
 Discovery.Theater.HDTV.[Latin.America].ar
 Discovery.Theater.HDTV.[Latin.America].mx
 Discovery.Theater.HDTV.[Latin.America].pa
+Discovery.TLC.HD.za
 DiscoveryTurbo.au.au
 Discovery.Turbo.in
 Discovery.Turbo.International.ar
@@ -2236,6 +2273,8 @@ Disney.Channel.in
 Disney.Channel.my
 Disney.Channel.pt
 Disney.Channel.tr
+Disney.Channel.XD.za
+Disney.Channel.za
 Disney.Chnl+1.uk
 Disney.Chnl.HD.uk
 Disney.en.Español.[Central.feed\/Multi.country].pa
@@ -2261,6 +2300,7 @@ Disney.Junior.USA.us
 Disney.Junior.USA.west.us
 Disney.Junior.vn
 DISNEY.JUNIOR.vn
+Disney.Junior.za
 Disney.Latin.America.us
 Disney.on.Demand.us
 Disney.Spanish.us
@@ -2322,6 +2362,7 @@ DTour.ca
 DTOUR.HDTV.ca
 DTSV.ar
 Du.lịch.&amp;.Cuộc.sống.HD.vn
+Dumisa.za
 Dunamis.TV.uk
 Dunya.News.uk
 DW.(Alemão).pt
@@ -2435,6 +2476,7 @@ Educational.Access.us
 Education.Channel.us
 EEntertainment.au.au
 E!.Entertainment.HD.pt
+E!.Entertainment.HD.za
 EEntertainmentplus2.au.au
 E!.Entertainment.pt
 E!.Entertainment.Television.[Argentina].ar
@@ -2477,8 +2519,12 @@ El.Trece.HDTV.ar
 El.Trece.TV.Internacional.[Canal.13].pa
 Eman.Channel.uk
 Emilia.Romagna.24.it
+Emmanuel.TV.za
+eMovies.Extra.HD.za
+eMovies.HD.za
 ENA.Channel.gr
 Encuentro.ar
+eNews.Channel.Africa.za
 English.-.ABC.Australia.hk
 English.-.Al.Jazeera.English.hk
 English.-.Animal.Planet.hk
@@ -2672,6 +2718,7 @@ ESPN2.au.au
 ESPN.2.Central.America.HDTV.[Latin.America.-.non.Mexico].ar
 ESPN.2.Central.America.HDTV.[Latin.America.-.non.Mexico].pa
 ESPN-2.HDTV.[Mexico].mx
+ESPN.2.HD.za
 ESPN-2.[Mexico].mx
 ESPN2.us
 ESPN2.west.us
@@ -2699,6 +2746,7 @@ ESPN.Extra.Centroamérica.HDTV.pa
 ESPN.Extra.[Latin.America].ar
 ESPN.Extra.Latin.America.HDTV.[Feed.A].ar
 ESPN.Goal.Line.us
+ESPN.HD.za
 ESPN.Ireland.ie
 ESPN.Latin.America.North.HDTV.mx
 ESPN.Latin.America.North.HDTV.pa
@@ -2728,6 +2776,7 @@ Eternal.Word.Television.[Latin.America].pa
 ET.Live.us
 ET.Now.in
 ET.NOW.in
+eToonz.za
 ETTV.America.us
 ETTV.Drama.us
 ETTV.Financial.us
@@ -2740,8 +2789,10 @@ ETV.Andhra.Pradesh.in
 ETV.Andhrapradesh.in
 ETV.Bihar.in
 ETV.Cinema.in
+eTV.Extra.HD.za
 ETV.Haryana.in
 ETV.HD.in
+e.TV.HD.za
 ETV.Life.in
 ETV.MP.Chhattisgarh.in
 ETV.News.Bangla.in
@@ -2757,6 +2808,7 @@ ETV.Telugu.in
 ETV.UP.in
 ETV.Urdu.in
 Eurochannel.pa
+EuroNews.Africa.za
 euronews.ca
 Euronews.English.gr
 Euronews.Greek.gr
@@ -2786,8 +2838,10 @@ Eurosport.HD.it
 Eurosport.HD.my
 Eurosport.in
 Eurosport.my
+EVA.(P).za
 Évasion.ca
 Évasion.HDTV.ca
+EVA.za
 EWTN.Catholic.uk
 EWTN.Espanol.us
 EWTN.USA.us
@@ -2803,6 +2857,7 @@ Fairchild.TV.[West].ca
 Faith.TV.us
 Faith.UK.uk
 Faith.World.TV.uk
+FAITH.za
 Fakt.Marathi.in
 Family.Channel.USA.us
 Family.Entertainment.TV.us
@@ -2834,6 +2889,7 @@ Fine.Living.gr
 Fireplace.HDTV.ca
 First.India.Rajasthan.in
 Flicks.of.Fury.us
+FliekNet.HD.za
 FLIX.On.Demand.us
 FLIX.us
 FLIX.west.us
@@ -2859,6 +2915,7 @@ Food.Network.HD.pt
 Food.Network.HDTV.[Canada].ca
 Food.Network.HDTV.[East].ar
 Food.Network.HDTV.[East].pa
+Food.Network.HD.za
 Food.Network.[Latin.America].mx
 Food.Network.uk
 Food.Network.USA.us
@@ -2990,6 +3047,7 @@ Fox.HDTV.[Latin.America].ar
 Fox.HDTV.[Latin.America].pa
 FOX.HD.uk
 FOX.HD.vn
+FOX.HD.za
 Fox.International.[Argentina].ar
 Fox.International.[Central\/Venezuela].pa
 Fox.International.HDTV.[Centroamérica].pa
@@ -3074,6 +3132,7 @@ Fox.Life.[Mexico].mx
 FOXlife.my
 FOX.Life.pt
 Fox.Life.[USA.&amp;.Canada].ca
+FOX.Life.za
 FOX.Mountain.us
 FOX.Movies.HD.my
 FOX.Movies.HD.pt
@@ -3385,6 +3444,7 @@ Game.Show.Network.west.us
 GameTV.ca
 GameTV.HDTV.ca
 GAME+.us
+GauTV.za
 GEB.America.us
 Gemini.Comedy.in
 Gemini.Life.in
@@ -3417,6 +3477,7 @@ GetTV.(WGPS-DT2).Fort.Myers,.FL.us
 GIALLO.HD.it
 GIALLO.it
 GINX.eSports.gr
+Ginx.eSports.HD.za
 GINX.Esports.TV.it
 GINXeSportsTV.uk
 GLITZ.Cono.Sur.ar
@@ -3766,6 +3827,7 @@ Home.&amp;.Health.uk
 Home.and.Garden.Television.HDTV.[East].ar
 Home.and.Garden.Television.HDTV.[East].mx
 Home.and.Garden.Television.HDTV.[East].pa
+Home.and.Garden.TV.HD.za
 HomeHealth+1.uk
 Home.Shop.18.in
 Hope.Channel.us
@@ -3832,6 +3894,7 @@ ICI.Réseau.de.lInformation.HDTV.ca
 ID.Investigation.Discovery.pt
 İdman.Azerbaycan.tr
 IDX.HD.gr
+IGNITION.za
 IGN.us
 iLove.Pen.Studios.in
 Imagen.TV.HDTV.mx
@@ -3948,6 +4011,7 @@ Jewelry.TV.(WNMF-DT2).New.York,.NY.us
 Jewish.Life.Television.us
 Jewish.Life.TV.ca
 Jiangsu.International.TV.Channel.[Chinese-Mandarin].ca
+Jim.Jam.za
 Jinvani.in
 J.Movie.in
 J.Movies.in
@@ -4041,6 +4105,10 @@ KUEN-TV.Salt.Lake.City,.UT.us
 Kuriakos.TV.pt
 Kushi.TV.in
 KXLA.Los.Angeles,.CA.us
+Kyk.NET.&amp;.Kie.HD.za
+Kyk.NET.HD.za
+KykNet.Lekker.za
+KyKNet.Nou.za
 La.5.it
 La7D.it
 La7.it
@@ -4071,6 +4139,7 @@ Le.Canal.Nouvelles.ca
 Le.Canal.Nouvelles.HDTV.ca
 LEI.+1.it
 LEI.it
+Lesotho.TV.za
 Leverage.us
 LifeStyle.au.au
 LifeStyleFood.au.au
@@ -4081,6 +4150,7 @@ Lifestyle.On.Demand.ca
 LifeStyleplus2.au.au
 Lifetime.Canada.ca
 Lifetime.Canada.HDTV.ca
+Lifetime.Entertainment.za
 Lifetime.HDTV.[Latin.America].ar
 Lifetime.[Latin.America].ar
 Lifetime.[Latin.America].pa
@@ -4281,6 +4351,7 @@ Milenio.Television.HDTV.mx
 Milenio.Televisión.mx
 Milenio.us
 Military.History.us
+Mindset.za
 MinecrafTV.us
 MinikaGO.tr
 MINNAL.FM.my
@@ -4331,6 +4402,14 @@ MLS.Direct.Kick.7.us
 MLS.Direct.Kick.8.us
 MLS.Direct.Kick.9.us
 MLS.us
+M.Movies.1.za
+M.Movies.2.za
+M.Movies.3.za
+M.Movies.4.za
+M-Net.City.HD.za
+M-Net.HD.za
+M-Net.Movies.All.Stars.HD.za
+M-Net.Plus.1.HD.za
 MN+.HD.in
 MNT.(KCOP).Los.Angeles,.CA.us
 MNT.(KSBI).Oklahoma.City,.OK.HD.us
@@ -4347,6 +4426,8 @@ MNX.HD.in
 MNX.in
 Moi&amp;Cie.ca
 Moi&amp;Cie.HDTV.ca
+Moja.Love.HD.za
+Moja.Love.za
 Moon.TV.in
 MoreMax..Eastern.us
 MoreMax.west.us
@@ -4488,6 +4569,7 @@ MTV.2.us
 MTV.2.west.us
 MTV.Are.You.the.One?.us
 MTV.au.au
+MTV.base.za
 MTV.Beats.HD.in
 MTV.Beats.in
 MTV.Biggest.Pop.us
@@ -4536,6 +4618,7 @@ MTV.U.us
 MTV.Vietnam.vn
 MTV.vn
 MTV.Wild.N.Out.us
+MTV.za
 Much.ca
 Much.HDTV.ca
 Much.Music.[Latin.America].mx
@@ -4568,7 +4651,13 @@ MY.(WTVZ-TV).Hampton.Roads,.VA.us
 MY.(WUXP-TV).Nashville,.TN.us
 MY.(WVTV-DT2-TV).Milwaukee,.WI.us
 MyZen.TV.pt
+Mzansi.Bioskop.za
+Mzansi.Live.za
+Mzansi.Magic.HD.za
+Mzansi.Music.za
+Mzansi.Wethu.HD.za
 Naaptol.Blue.in
+Naija.Stand-Up.Comedy.za
 Nambikkai.TV.in
 Namma.TV.in
 Nandighosha.TV.in
@@ -4595,6 +4684,7 @@ Nat.Geo.Wild.HD.my
 Nat.Geo.Wild.HD.tr
 Nat.Geo.Wild.in
 Nat.Geo.Wild.my
+NatGeo.Wild.za
 NationalGeo.+1.it
 NationalGeographic.au.au
 National.Geographic.Canada.HDTV.ca
@@ -4606,6 +4696,7 @@ National.Geographic.Channel.HDTV.[West.\/.Mexico].mx
 National.Geographic.Channel.my
 National.Geographic.Channel.[PAL.\/.Argentina].ar
 National.Geographic.Channel.[West.\/.Mexico].mx
+National.Geographic.Channel.za
 National.Geographic+.gr
 National.Geographic.gr
 National.Geographic.HD.gr
@@ -4901,6 +4992,7 @@ NBC.WYFF.GREENSVILLE.SC.us
 NCAA.Sports.Package.ca
 NCAA.Sports.Package.HDTV.ca
 NDTV.24x7.in
+NDTV.24x7.za
 NDTV.Good.Times.ca
 NDTV.Good.Times.in
 NDTV.Good.Times.us
@@ -5043,6 +5135,7 @@ Nickelodeon.tr
 Nickelodeon.USA.-.East.Feed.us
 Nickelodeon.USA.On.Demand.us
 Nickelodeon.USA.west.us
+Nickelodeon.za
 Nick.Games.us
 Nick.HD+.in
 Nick.in
@@ -5058,6 +5151,7 @@ Nick.Jr..pt
 Nick.Jr..tr
 Nick.Jr..us
 Nick.Jr..west.us
+NickJr.za
 Nick.Junior.in
 Nick.Latino.us
 Nick.Movies.us
@@ -5067,6 +5161,8 @@ NickMusic.us
 Nick.Pluto.TV.us
 Nicktoons.us
 Nicktoons.west.us
+NickTOONS.za
+Nigerian.Festivals.za
 Nigerian.Television.Authority.ca
 NIKHD.ar
 NITVAdelaide.au.au
@@ -5103,6 +5199,7 @@ Novelas.Romance.us
 Novelas.Thriller.us
 NT.1.in
 NT9.in
+NTA.I.za
 NTV7.my
 NTV.Bangla.ca
 NTV.HD.tr
@@ -5137,6 +5234,7 @@ One.Caribbean.Weather.us
 ONE.Channel.HD.gr
 ONE:.GET.FIT.ca
 ONE:.GET.FIT.HDTV.ca
+One.Gospel.za
 ONE.HD.my
 Ontario.Provincial.Legislature.ca
 ONTV4U.(WKOB-DT8).New.York,.NY.us
@@ -5277,6 +5375,7 @@ Paramount.Network.[Mexico].mx
 Paramount.Network.USA.us
 Paramount.Network.USA.west.us
 Paras.TV.in
+Parliamentary.Service.za
 Pasiones.HDTV.[LTAM].ar
 Pasiones.HDTV.[USA].pa
 Pasiones.[USA].ar
@@ -5295,6 +5394,7 @@ PBS.Kids.(KUED-DT3).Salt.Lake.City,.UT.us
 PBS.Kids.(WETA-DT3).Kids.Washington,.DC.us
 PBS.Kids.(WMPT-DT3).Annapolis,.MD.us
 PBS.Kids.(WNET-DT2).New.York,.NY.us
+PBS.Kids.za
 PBS.(KLCS).Los.Angeles,.CA.us
 PBS.(KLVX).Las.Vegas,.NV.us
 PBS.(KOED).Tulsa,.OK.us
@@ -5341,6 +5441,7 @@ Penthouse.TV.[Latin.America].mx
 Penthouse.TV.USA.us
 People.Are.Awesome.us
 People.in
+Peoples.Weather.za
 People.TV.us
 PeopleTV.us
 Peppers.TV.in
@@ -5598,6 +5699,7 @@ Real.Madrid.TV.HDTV.mx
 Real.Time.+1.it
 Real.Time.HD.it
 Real.Time.it
+Real.Time.za
 Recipe.TV.us
 Record.News.pt
 Record.[Rede].ca
@@ -5641,6 +5743,7 @@ Rogers.Sportsnet.Ontario.ca
 Rogers.Sportsnet.Ontario.HDTV.ca
 Rogers.SportsNet.World.ca
 Rogers.SportsNet.World.HDTV.ca
+ROK.za
 Roma.TV.it
 Romedy.Now.HD.in
 Romedy.Now.in
@@ -5671,6 +5774,7 @@ RTP.Açores.pt
 RTP.África.pt
 RTPi.America.us
 RTPi.and.RDPi.-.Rádio.e.Televisão.de.Portugal.us
+RTPI.za
 RTP.Madeira.pt
 RTP.Memória.pt
 RTR.Planeta.ca
@@ -5692,7 +5796,12 @@ Russia.Today.in
 Russia.Today.[North.America].ca
 Russia.Today.pt
 Russia.Today.-.RT.in
+Russia.Today.za
 Saam.TV.in
+SABC.1.HD.za
+SABC.2.HD.za
+SABC.3.HD.za
+SABC.News.za
 SAB.TV.(SONY).us
 SAB.TV.(WDVB-CD4).Edison,.NJ.us
 Sadhana.TV.in
@@ -5781,9 +5890,11 @@ Séries+.ca
 Séries+.HDTV.ca
 SÉ.Sur.Demande.ca
 SET.Asia.pt
+SET.Asia.za
 SET.HD.in
 SET.in
 SET.MAX.ca
+SET.Max.za
 SET.(Sony.Entertainment.Television.Asia).us
 SET.TV.International.us
 Sextreme.mx
@@ -5837,6 +5948,7 @@ Shubh.TV.in
 SIC.Caras.HD.pt
 SIC.Caras.pt
 SIC.HD.pt
+SIC.Internacional.(P).za
 SIC.K.HD.pt
 SIC.K.pt
 SIC.Mulher.HD.pt
@@ -5880,6 +5992,7 @@ Sky.News.it
 Sky.News.pt
 SkyNewsUK.au.au
 Sky.News.us
+Sky.News.za
 SkyRacing1.au.au
 SkyRacing2.au.au
 SkySp.Fball.HD.uk
@@ -5977,6 +6090,8 @@ SONY.WAH.in
 SONY.YAY.!.in
 SONY.YAY.in
 Sorpresa.us
+Sound.City.za
+Soweto.TV.za
 SPACE.HDTV.[Mexico].mx
 Space.HDTV.[Panamericano].ar
 Space.HDTV.[Panamericano].pa
@@ -5984,6 +6099,7 @@ SPACE.[Mexico].mx
 Space.[Panamericano].ar
 Space.[Panamericano].pa
 Spectrum.SportsNet.us
+Spice.TV.za
 Spike.Aventura.us
 Spike.it
 Spike.Outdoors.us
@@ -6019,8 +6135,25 @@ SPORT.TV+.HD.pt
 Sport.TV.NBA.pt
 SPORT.TV+.pt
 Sri.Sankara.TV.in
+SS.ACTION.za
+SS.BLITZ.za
+SS.CRICKET.za
+SS.EPL.za
+SS.FOOTBALL.za
+SS.GOLF.za
+SS.GRANDSTAND.za
+SS.LA.LIGA.za
+SS.MAXIMO.1.za
+SS.MOTORSPORT.za
 S.SPORT.HD.tr
+SS.PSL.za
+SS.RUGBY.za
+SS.TENNIS.za
 SSTN.(WDVB-CD2).Edison,.NJ.us
+SS.VARIETY.1.za
+SS.VARIETY.2.za
+SS.VARIETY.3.za
+SS.VARIETY.4.za
 Stadium.(KOKH-DT3).Oklahoma.City,.OK.us
 Stadium.(KSTU-DT3).Salt.Lake.City,.UT.us
 Stadium.(KTXD).Greenville,.TX.HD.us
@@ -6048,6 +6181,7 @@ STAR.gr
 Star.Jalsha.HD.in
 Star.Jalsha.in
 STAR.Jalsha.in
+Star.Life.HD.za
 Star.Maa.Gold.in
 Star.Maa.HD.in
 STAR.Maa.HD.in
@@ -6066,6 +6200,7 @@ Star.Plus.HD.in
 STAR.PLUS.HD.in
 Star.Plus.in
 STAR.Plus.in
+Star.Plus.za
 Star.Pravah.HD.in
 Star.Pravah.in
 STAR.Pravah.in
@@ -6111,6 +6246,7 @@ Star.Vijay.HD.my
 Star.Vijay.in
 STAR.Vijay.in
 Star.Vijay.my
+Star.Vijay.za
 Star.World.HD.in
 STAR.World.HD.in
 Star.World.in
@@ -6347,6 +6483,7 @@ Studio.One.+.in
 Studio.Universal.[Argentina].ar
 Studio.Universal.HDTV.[Argentina].ar
 Studio.Universal.HDTV.[Mexico].mx
+Studio.Universal.HD.za
 Studio.Universal.[Latin.America].pa
 Studio.Universal.[Mexico].mx
 STV.Haryana.News.in
@@ -6371,6 +6508,7 @@ SUN.TV.HD.my
 Sun.TV.in
 SUN.TV.my
 Sun.TV.Tamil.ca
+Sun.TV.za
 Super.Channel.Fuse.[Canada].ca
 Super.Channel.Fuse.[Canada].HDTV.ca
 Super.Channel.Heart.&amp;.Home.[Canada].ca
@@ -6496,6 +6634,7 @@ TBN..-.Trinity.Broadcasting.Network.west.us
 TBN.us
 TBN.(WTBY).New.York,.NY.us
 TBN.(WWTO).Chicago,.IL.us
+TBN.za
 TBS.Latin.America.mx
 TBS.Latin.America.pa
 TBS.Sur.ar
@@ -6537,6 +6676,7 @@ Telemax.ar
 Telemedellín.HDTV.pa
 Telemetro.Panamá.HDTV.pa
 Telemicro.Canal.5.us
+TeleMundo.English.za
 Telemundo.HDTV.[Latin.America.\/.Non-US].pa
 Telemundo.(KBLR).Las.Vegas,.NV.us
 Telemundo.(KDEN).Longmont,.CO.us
@@ -6550,6 +6690,7 @@ Telemundo.(KXTX).Dallas,.TX.HD.us
 Telemundo.(KXTX).Dallas,.TX.us
 Telemundo.[Latin.America.\/.Non-US].ar
 Telemundo.[Mexico.\/.Non-US].mx
+Telemundo.(P).za
 Telemundo.Telenovelas.us
 Telemundo..us
 Telemundo..west.us
@@ -6641,7 +6782,9 @@ The.History.Channel.gr
 The.History.Channel.HDTV.ar
 The.History.Channel.HDTV.[Mexico].mx
 The.History.Channel.HDTV.pa
+The.History.Channel.HD.za
 The.History.Channel.[Mexico].mx
+The.Home.Channel.za
 The.Israeli.Network.Canada.ca
 The.Israeli.Network.us
 The.Learning.Channel.Canada.ca
@@ -6724,6 +6867,7 @@ TMC.(US).west.us
 TMC.Xtra.us
 TMC.Xtra.west.us
 T.News.in
+TNT.Africa.HD.za
 TNT.Latin.America.[Argentina].ar
 TNT.Latin.America.HDTV.[Mexico].mx
 TNT.Latin.America.HDTV.[Pan-Regional].ar
@@ -6745,6 +6889,7 @@ TODAY.us
 Toku.HD.us
 TokuSHOUTsu.us
 Tollywood.in
+Toonami.HD.za
 Toon-A-Vision.[Bell.TV].ca
 Toon-A-Vision.HD.ca
 Tooncast.Latin.America.mx
@@ -6763,13 +6908,16 @@ Tosh.0.us
 TOTALLY.TURTLES.us
 TOTAL.TV.in
 TPA.Internacional.pt
+TRACE.Africa.za
 Trace.Toca.pt
 Trace.Urban.HD.pt
+TRACE.URBAN.HD.za
 TRAI.Tariff.Order.in
 Travel.Channel.gr
 Travel.Channel.HD.gr
 Travel.Channel.HD.pt
 Travel.Channel.pt
+Travel.Channel.za
 Travel.US.us
 Travel.US.west.us
 Travelxp.HD.4K.us
@@ -6809,6 +6957,7 @@ TruTV.on.Demand.us
 truTV.USA.us
 truTV.USA.west.us
 TS.Bangla.Cinema.in
+Tshwane.TV.za
 TSN.2.4K.ca
 TSN.4K.-.Leafs.ca
 TS.Punjab.De.Rang.in
@@ -6832,6 +6981,7 @@ TV3.my
 TV5.in
 TV5.International.us
 TV5.Kannada.in
+TV5.Monde.Afrique.za
 TV5.Monde.Asia.in
 TV5Monde.Asie.in
 TV5.Monde.Europe.tr
@@ -6921,6 +7071,7 @@ TV.Land.Sitcoms.us
 TV.Land.us
 TV.Land.west.us
 tvMall.us
+TV.Mall.za
 TV.MAX.HDTV.pa
 TVM.Internacional.pt
 TVNET.HD.tr
@@ -6984,6 +7135,7 @@ Universal.Channel.[Latin.America].pa
 Universal.Channel.[Mexico].mx
 Universal.Kids.us
 UniversalTV.au.au
+Universal.TV.HD.za
 Univision.Canada.HDTV.ca
 Univision.Mountain.us
 Univisión.tlnovelas.ca
@@ -7041,6 +7193,7 @@ VH1.RuPauls.Drag.Race.us
 VH1.tr
 VH1.us
 VH1.west.us
+VIA.HD.za
 Viasat.Explore.gr
 Viasat.History.gr
 Viasat.Nature.gr
@@ -7102,6 +7255,7 @@ VTV.Gujarati.in
 VTV.News.in
 Vu!.PPV.French.Events.ca
 Vu!.PPV.French.Events.HDTV.ca
+VUZU.HD.za
 W+1.uk
 W20DD.Start.TV.EAST.us
 WAI.FM.my
@@ -7179,6 +7333,7 @@ WUTV.HDTV.ca
 WWE.Network.ca
 WWE.Network.HD.my
 WWE.Network.my
+WWE.za
 XEFB.Televisa.Monterrey.NL.mx
 XEIMT.22.Nacional.mx
 XEIMT.Canal.22.2.DF.mx
@@ -7313,8 +7468,10 @@ Zee.TV.in
 Zee.TV.(India).us
 Zee.TV.pt
 Zee.TV.uk
+ZeeTV.za
 Zee.UP.UK.in
 Zee.Uttar.Pradesh.Uttarakhand.in
+Zee.World.HD.za
 Zee.Yuva.in
 Zeste.ca
 Zeste.HDTV.ca
@@ -15545,3 +15702,164 @@ VTVCab3-THETHAO.TV.vn
 VTVCab.3.(Thể.thao.TV).vn
 Yeah1.TV.vn
 YOU.TV.vn
+
+
+-- epg_ripper_ZA1 --
+
+1.KZN.za
+1.Magic.HD.za
+Africa.Magic.Epic.za
+Africa.Magic.Family.za
+Africa.Magic.Urban.za
+African.Easter.za
+Al.Jazeera.za
+B4U.Movies.za
+Bay.TV.za
+BBC.Brit.HD.za
+BBC.Earth.HD.za
+BBC.First.HD.za
+BBC.Lifestyle.za
+BBC.World.News.za
+Beste.Van.Nederlands.za
+BET.za
+Big.Brother.Naija.S5.za
+Bloomberg.Television.za
+Boomerang.za
+Business.Day.za
+Cartoon.Network.HD.za
+Cbeebies.za
+CBS.Justice.HD.za
+CBS.Reality.za
+CCTV.4.za
+Channel.O.HD.za
+CNBC.Africa.za
+CNN.International.HD.za
+Colors.za
+Comedy.Central.za
+Curiosity.Stream.za
+Day.Star.za
+Deutsche.Welle.za
+Discovery.Channel.HD.za
+Discovery.Family.HD.za
+Discovery.ID.HD.za
+Discovery.TLC.HD.za
+Disney.Channel.XD.za
+Disney.Channel.za
+Disney.Junior.za
+Dumisa.za
+E!.Entertainment.HD.za
+Emmanuel.TV.za
+eMovies.Extra.HD.za
+eMovies.HD.za
+eNews.Channel.Africa.za
+ESPN.2.HD.za
+ESPN.HD.za
+eToonz.za
+eTV.Extra.HD.za
+e.TV.HD.za
+EuroNews.Africa.za
+EVA.(P).za
+EVA.za
+FAITH.za
+FliekNet.HD.za
+Food.Network.HD.za
+FOX.HD.za
+FOX.Life.za
+GauTV.za
+Ginx.eSports.HD.za
+Home.and.Garden.TV.HD.za
+IGNITION.za
+Jim.Jam.za
+Kyk.NET.&amp;.Kie.HD.za
+Kyk.NET.HD.za
+KykNet.Lekker.za
+KyKNet.Nou.za
+Lesotho.TV.za
+Lifetime.Entertainment.za
+Mindset.za
+M.Movies.1.za
+M.Movies.2.za
+M.Movies.3.za
+M.Movies.4.za
+M-Net.City.HD.za
+M-Net.HD.za
+M-Net.Movies.All.Stars.HD.za
+M-Net.Plus.1.HD.za
+Moja.Love.HD.za
+Moja.Love.za
+MTV.base.za
+MTV.za
+Mzansi.Bioskop.za
+Mzansi.Live.za
+Mzansi.Magic.HD.za
+Mzansi.Music.za
+Mzansi.Wethu.HD.za
+Naija.Stand-Up.Comedy.za
+NatGeo.Wild.za
+National.Geographic.Channel.za
+NDTV.24x7.za
+Nickelodeon.za
+NickJr.za
+NickTOONS.za
+Nigerian.Festivals.za
+NTA.I.za
+One.Gospel.za
+Parliamentary.Service.za
+PBS.Kids.za
+Peoples.Weather.za
+Real.Time.za
+ROK.za
+RTPI.za
+Russia.Today.za
+SABC.1.HD.za
+SABC.2.HD.za
+SABC.3.HD.za
+SABC.News.za
+SET.Asia.za
+SET.Max.za
+SIC.Internacional.(P).za
+Sky.News.za
+Sound.City.za
+Soweto.TV.za
+Spice.TV.za
+SS.ACTION.za
+SS.BLITZ.za
+SS.CRICKET.za
+SS.EPL.za
+SS.FOOTBALL.za
+SS.GOLF.za
+SS.GRANDSTAND.za
+SS.LA.LIGA.za
+SS.MAXIMO.1.za
+SS.MOTORSPORT.za
+SS.PSL.za
+SS.RUGBY.za
+SS.TENNIS.za
+SS.VARIETY.1.za
+SS.VARIETY.2.za
+SS.VARIETY.3.za
+SS.VARIETY.4.za
+Star.Life.HD.za
+Star.Plus.za
+Star.Vijay.za
+Studio.Universal.HD.za
+Sun.TV.za
+TBN.za
+TeleMundo.English.za
+Telemundo.(P).za
+The.History.Channel.HD.za
+The.Home.Channel.za
+TNT.Africa.HD.za
+Toonami.HD.za
+TRACE.Africa.za
+TRACE.URBAN.HD.za
+Travel.Channel.za
+Tshwane.TV.za
+TV5.Monde.Afrique.za
+TV.Mall.za
+Universal.TV.HD.za
+VIA.HD.za
+VUZU.HD.za
+WWE.za
+ZeeTV.za
+Zee.World.HD.za

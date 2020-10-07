@@ -1,4 +1,25 @@
-202010060009
+202010070008
+
+
+-- epg_ripper_AE1 --
+
+MBC1.al
+MBC1.USA.al
+MBC2.al
+MBC4.al
+MBC.Action.al
+MBC.Bollywood.al
+MBC.Cinq.al
+MBC+.Drama.al
+MBC.Drama.al
+MBC.Drama.USA.al
+MBC.Egypt.2.al
+MBC.Egypt.al
+MBC.Egypt.USA.al
+MBC.Iraq.al
+MBC.Movie.Max.al
+MBC+.Power.al
+Wanasah.al
 
 
 -- epg_ripper_AL1 --

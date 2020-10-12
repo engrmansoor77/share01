@@ -1,4 +1,4 @@
-202010110009
+202010120016
 
 
 -- epg_ripper_UK1 --
@@ -252,6 +252,7 @@ Home.&amp;.Health.uk
 HomeHealth+1.uk
 horror.ch+1.uk
 horror.channel.uk
+Sky.Cinema.Animation.uk
 SkySp.Fball.HD.uk
 SkySp.Fball.uk
 VICE.uk

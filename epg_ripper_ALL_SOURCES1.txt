@@ -1,4 +1,4 @@
-202010280008
+202010290001
 
 
 -- epg_ripper_AE1 --
@@ -1986,7 +1986,12 @@ English.-.Zhejiang.Satellite.TV.hk
 
 -- epg_ripper_IE1 --
 
-
+BoxNation.ie
+BT-Europe.ie
+BT-Sports-2.ie
+Eir-Sport-1.ie
+Eir-Sport-2.ie
+ESPN.Ireland.ie
 
 
 -- epg_ripper_IN1 --

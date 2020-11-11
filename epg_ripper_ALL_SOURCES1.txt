@@ -1,4 +1,4 @@
-202011100013
+202011110012
 
 
 -- epg_ripper_AE1 --
@@ -6648,6 +6648,7 @@ CW.(KBCW-TV).San.Francisco,.CA.us
 CW.(KDAF).Dallas,.TX.us
 CW.(KDLH-TV).Duluth,.MN.us
 CW.(KFMB-TV2).San.Diego,.CA.us
+CW.(KFRE-TV).Fresno,.CA.us
 CW.(KMAX).Sacramento,.CA.us
 CW.(KMYS-TV).San.Antonio,.TX.us
 CW.(KOCB).Oklahoma.City,.OK.HD.us
@@ -6659,6 +6660,7 @@ CW.(KWGN).Denver,.CO.us
 CW.(MY50).Local.us
 CW.Network.Eastern.us
 CW.Plus.Mountain.us
+CW.(WBMM-TV).Montgomery,.AL.us
 CW.(WCCT).Hartford,.CT.us
 CW.(WCWF-TV).Green.Bay,.WI.us
 CW.(WCWN-TV).Albany,.NY.us
@@ -7013,6 +7015,7 @@ FOX.KCYU.YAKIMA.WA.us
 FOX.(KDFW).Dallas,.TX.us
 FOX.KDFX.PALM.SPRINGS.CA.us
 FOX.(KDVR).Denver,.CO.us
+FOX.(KECY-TV).El.Centro,.CA.us
 FOX.KECY.YUMA.AZ.us
 FOX.KEVN.RAPID.CITY.SD.us
 FOX.KFBB.GREAT.FALLS.MT.us
@@ -7146,6 +7149,7 @@ FOX.WOGX.GAI.us
 FOX.WOLF.HAZELTON.PA.us
 FOX.WPBI.LAFAYETTE.IN.us
 FOX.(WPGH).Pittsburgh,.PA.us
+FOX.(WRBM-TV).Orlando,.FL.us
 FOX.WRBW.ORL.us
 FOX.(WRGT-TV).Dayton,.OH.us
 FOX.(WRLH-TV).Richmond,.VA.us
@@ -7552,9 +7556,13 @@ MY64.(CINCI).Local.us
 MyDestination.TV.us
 MY.(KSMO-TV).Kansas.City,.MO.us
 MY.(WBFS-TV).Miami,.FL.us
+MY.(WDKA-TV).Paducah,.KY.us
 MY.(WFGX-TV).Fort.Walton,.FL.us
+MY.(WMYA-TV).Greenville,.SC.us
 MY.(WMYV-TV).Winston-Salem,.NC.us
 MY.(WNYO-TV).Buffalo,.NY.us
+MY.(WQMY-TV).Williamsport,.PA.us
+MY.(WRDC-TV).Raleigh,.NC.us
 MY.(WSBK-TV).Boston,.MA.us
 MY.(WTVZ-TV).Hampton.Roads,.VA.us
 MY.(WUXP-TV).Nashville,.TN.us

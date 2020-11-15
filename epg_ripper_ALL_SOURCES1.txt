@@ -1,4 +1,4 @@
-202011140003
+202011150001
 
 
 -- epg_ripper_AE1 --
@@ -4884,7 +4884,7 @@ Zee.TV.pt
 
 -- epg_ripper_REDBULL1 --
 
-
+RedBull.TV.us
 
 
 -- epg_ripper_SA1 --

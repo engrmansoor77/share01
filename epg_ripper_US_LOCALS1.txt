@@ -1,4 +1,4 @@
-202011172302
+202011190002
 
 
 -- epg_ripper_US_LOCALS1 --
@@ -1854,6 +1854,7 @@ PBS.Kids.(WNET-DT2).New.York,.NY.us
 PBS.(KLCS).Los.Angeles,.CA.us
 PBS.(KLVX).Las.Vegas,.NV.us
 PBS.(KOED).Tulsa,.OK.us
+PBS.(KOPB-TV).Portland,.OR.us
 PBS.(KRMA).Denver,.CO.HD.us
 PBS.(KRMA).Denver,.CO.us
 PBS.(KTCA-DT3-TV).Saint.Paul,.MN.us

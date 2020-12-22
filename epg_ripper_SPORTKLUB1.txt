@@ -1,0 +1,17 @@
+202012212359
+
+
+-- epg_ripper_SPORTKLUB1 --
+
+SK10.ba
+SK1.ba
+SK1.BiH.ba
+SK2.ba
+SK3.ba
+SK4.ba
+SK5.ba
+SK6.ba
+SK7.ba
+SK8.ba
+SK9.ba
+SK.GOLF.ba

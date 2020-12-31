@@ -1,4 +1,4 @@
-202012300017
+202012310016
 
 
 -- epg_ripper_VN1 --
@@ -26,7 +26,7 @@ DISCOVERY.CHANNEL.vn
 Disney.Junior.vn
 DISNEY.JUNIOR.vn
 DISNEY.vn
-Du.lịch.&amp;.Cuộc.sống.HD.vn
+Du.lịch.And.Cuộc.sống.HD.vn
 DW.vn
 FBNC.HD.vn
 FOX.Family.Movies.vn
@@ -76,7 +76,7 @@ Quốc.Phòng.Việt.Nam.vn
 Red.By.HBO.HD.vn
 SCTV.11.HD.vn
 SCTV.12.HD.-.Du.Lịch.vn
-SCTV13.HD.-.Phụ.nữ.&amp;.Gia.đình.vn
+SCTV13.HD.-.Phụ.nữ.And.Gia.đình.vn
 SCTV.14.HD.-.Phim.Việt.vn
 SCTV.15.HD.-.Thể.Thao.vn
 SCTV.16.HD.-.Phim.nước.ngoài.đặc.sắc.vn

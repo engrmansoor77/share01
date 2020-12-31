@@ -1,9 +1,9 @@
-202012300017
+202012310016
 
 
 -- epg_ripper_US1 --
 
-(Alaskan)A&amp;E.Network.(West).us
+(Alaskan)A.And.E.Network.(West).us
 (Alaskan)ABC.Family.Channel.(West).us
 (Alaskan)ABC.us
 (Alaskan)AMC.(West).us
@@ -17,8 +17,8 @@
 (Alaskan)Cinemax.(West).us
 (Alaskan)CMT.(West).us
 (Alaskan)Comedy.Central.(West).us
-(Alaskan)Consumer.News.&amp;.Business.Channel.us
-(Alaskan)Discovery.Fit.&amp;.Health.us
+(Alaskan)Consumer.News.And.Business.Channel.us
+(Alaskan)Discovery.Fit.And.Health.us
 (Alaskan)Disney.XD.(West).us
 (Alaskan)Do.it.Yourself.Network.(East).us
 (Alaskan)E!.Entertainment.Television.(West).us
@@ -43,7 +43,7 @@
 (Alaskan)HBO.Signature.(West).us
 (Alaskan)HBO.(West).us
 (Alaskan)History.(West).us
-(Alaskan)Home.&amp;.Garden.Television.(West).us
+(Alaskan)Home.And.Garden.Television.(West).us
 (Alaskan)IFC.(East).us
 (Alaskan)Investigation.Discovery.us
 (Alaskan)ION.(West.Non-Network).us
@@ -91,7 +91,7 @@
 (Alaskan)WGN.America.us
 (Alaskan)Womens.Entertainment.Network.(East).us
 Antenna.TV.EAST.us
-(Central)A&amp;E.Network.(East).us
+(Central)A.And.E.Network.(East).us
 (Central)ABC.Family.Channel.(East).us
 (Central)ABC.us
 (Central)AMC.(East).us
@@ -105,8 +105,8 @@ Antenna.TV.EAST.us
 (Central)Cinemax.(East).us
 (Central)CMT.(East).us
 (Central)Comedy.Central.(East).us
-(Central)Consumer.News.&amp;.Business.Channel.us
-(Central)Discovery.Fit.&amp;.Health.us
+(Central)Consumer.News.And.Business.Channel.us
+(Central)Discovery.Fit.And.Health.us
 (Central)Disney.XD.(East).us
 (Central)Do.it.Yourself.Network.(East).us
 (Central)E!.Entertainment.Television.(East).us
@@ -131,7 +131,7 @@ Antenna.TV.EAST.us
 (Central)HBO.(East).us
 (Central)HBO.Signature.(East).us
 (Central)History.(East).us
-(Central)Home.&amp;.Garden.Television.(East).us
+(Central)Home.And.Garden.Television.(East).us
 (Central)IFC.(East).us
 (Central)Investigation.Discovery.us
 (Central)ION.East.Cable\/Dish.us
@@ -181,7 +181,7 @@ Antenna.TV.EAST.us
 (Central)WGN.America.us
 (Central)Womens.Entertainment.Network.(East).us
 Cleo.Television.HDTV.us
-(Eastern)A&amp;E.Network.(East).us
+(Eastern)A.And.E.Network.(East).us
 (Eastern)ABC.Family.Channel.(East).us
 (Eastern)ABC.us
 (Eastern)AMC.(East).us
@@ -195,8 +195,8 @@ Cleo.Television.HDTV.us
 (Eastern)Cinemax.(East).us
 (Eastern)CMT.(East).us
 (Eastern)Comedy.Central.(East).us
-(Eastern)Consumer.News.&amp;.Business.Channel.us
-(Eastern)Discovery.Fit.&amp;.Health.us
+(Eastern)Consumer.News.And.Business.Channel.us
+(Eastern)Discovery.Fit.And.Health.us
 (Eastern)Disney.XD.(East).us
 (Eastern)Do.it.Yourself.Network.(East).us
 (Eastern)E!.Entertainment.Television.(East).us
@@ -222,7 +222,7 @@ Cleo.Television.HDTV.us
 (Eastern)HBO.(East).us
 (Eastern)HBO.Signature.(East).us
 (Eastern)History.(East).us
-(Eastern)Home.&amp;.Garden.Television.(East).us
+(Eastern)Home.And.Garden.Television.(East).us
 (Eastern)IFC.(East).us
 (Eastern)Investigation.Discovery.us
 (Eastern)ION.East.Cable\/Dish.us
@@ -271,7 +271,7 @@ Cleo.Television.HDTV.us
 (Eastern)VH1.(East).us
 (Eastern)WGN.America.us
 (Eastern)Womens.Entertainment.Network.(East).us
-(Hawaiian)A&amp;E.Network.(West).us
+(Hawaiian)A.And.E.Network.(West).us
 (Hawaiian)ABC.Family.Channel.(Hawaii).us
 (Hawaiian)ABC.us
 (Hawaiian)AMC.(West).us
@@ -285,8 +285,8 @@ Cleo.Television.HDTV.us
 (Hawaiian)Cinemax.(West).us
 (Hawaiian)CMT.(West).us
 (Hawaiian)Comedy.Central.(West).us
-(Hawaiian)Consumer.News.&amp;.Business.Channel.us
-(Hawaiian)Discovery.Fit.&amp;.Health.us
+(Hawaiian)Consumer.News.And.Business.Channel.us
+(Hawaiian)Discovery.Fit.And.Health.us
 (Hawaiian)Disney.XD.(West).us
 (Hawaiian)Do.it.Yourself.Network.(East).us
 (Hawaiian)E!.Entertainment.Television.(Hawaii).us
@@ -311,7 +311,7 @@ Cleo.Television.HDTV.us
 (Hawaiian)HBO.Signature.(West).us
 (Hawaiian)HBO.(West).us
 (Hawaiian)History.(West).us
-(Hawaiian)Home.&amp;.Garden.Television.(Hawaii).us
+(Hawaiian)Home.And.Garden.Television.(Hawaii).us
 (Hawaiian)IFC.(East).us
 (Hawaiian)Investigation.Discovery.us
 (Hawaiian)ION.(West.Non-Network).us
@@ -358,7 +358,7 @@ Cleo.Television.HDTV.us
 (Hawaiian)VH1.(Hawaii).us
 (Hawaiian)WGN.America.us
 (Hawaiian)Womens.Entertainment.Network.(East).us
-(Mountain)A&amp;E.Network.(West).us
+(Mountain)A.And.E.Network.(West).us
 (Mountain)ABC.Family.Channel.(West).us
 (Mountain)ABC.us
 (Mountain)AMC.(West).us
@@ -372,8 +372,8 @@ Cleo.Television.HDTV.us
 (Mountain)Cinemax.(West).us
 (Mountain)CMT.(West).us
 (Mountain)Comedy.Central.(West).us
-(Mountain)Consumer.News.&amp;.Business.Channel.us
-(Mountain)Discovery.Fit.&amp;.Health.us
+(Mountain)Consumer.News.And.Business.Channel.us
+(Mountain)Discovery.Fit.And.Health.us
 (Mountain)Disney.XD.(West).us
 (Mountain)Do.it.Yourself.Network.(East).us
 (Mountain)E!.Entertainment.Television.(West).us
@@ -398,7 +398,7 @@ Cleo.Television.HDTV.us
 (Mountain)HBO.Signature.(West).us
 (Mountain)HBO.(West).us
 (Mountain)History.(West).us
-(Mountain)Home.&amp;.Garden.Television.(West).us
+(Mountain)Home.And.Garden.Television.(West).us
 (Mountain)IFC.(East).us
 (Mountain)Investigation.Discovery.us
 (Mountain)ION.(Mountain).us
@@ -447,7 +447,7 @@ Cleo.Television.HDTV.us
 (Mountain)VH1.(West).us
 (Mountain)WGN.America.us
 (Mountain)Womens.Entertainment.Network.(East).us
-(Pacific)A&amp;E.Network.(West).us
+(Pacific)A.And.E.Network.(West).us
 (Pacific)ABC.Family.Channel.(West).us
 (Pacific)ABC.us
 (Pacific)AMC.(West).us
@@ -461,8 +461,8 @@ Cleo.Television.HDTV.us
 (Pacific)Cinemax.(West).us
 (Pacific)CMT.(West).us
 (Pacific)Comedy.Central.(West).us
-(Pacific)Consumer.News.&amp;.Business.Channel.us
-(Pacific)Discovery.Fit.&amp;.Health.us
+(Pacific)Consumer.News.And.Business.Channel.us
+(Pacific)Discovery.Fit.And.Health.us
 (Pacific)Disney.XD.(West).us
 (Pacific)Do.it.Yourself.Network.(East).us
 (Pacific)E!.Entertainment.Television.(West).us
@@ -488,7 +488,7 @@ Cleo.Television.HDTV.us
 (Pacific)HBO.Signature.(West).us
 (Pacific)HBO.(West).us
 (Pacific)History.(West).us
-(Pacific)Home.&amp;.Garden.Television.(West).us
+(Pacific)Home.And.Garden.Television.(West).us
 (Pacific)IFC.(East).us
 (Pacific)Investigation.Discovery.us
 (Pacific)ION.(West.Non-Network).us

@@ -1,4 +1,4 @@
-202012300017
+202012310016
 
 
 -- epg_ripper_IN2 --
@@ -24,15 +24,15 @@ ABP.News.in
 Adithya.TV.in
 Alankar.in
 Al.Jazeera.in
-&amp;Flix.HD.in
-&amp;Flix.in
-&amp;pictures.HD.in
-&amp;pictures.in
-&amp;Prive.HD.in
-&amp;tv.HD.in
-&amp;tv.in
 Amrita.TV.in
 ANB.NEWS.in
+And.Flix.HD.in
+And.Flix.in
+And.pictures.HD.in
+And.pictures.in
+And.Prive.HD.in
+And.tv.HD.in
+And.tv.in
 Angel.TV.in
 Animal.Planet.HD.World.in
 Animal.Planet.in

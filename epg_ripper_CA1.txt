@@ -1,4 +1,4 @@
-202012300017
+202012310016
 
 
 -- epg_ripper_CA1 --
@@ -8,8 +8,8 @@
 5.Kanal.Ukrainian.TV.ca
 94.9.National.Public.Radio.ca
 AAJ.TAK.ca
-A&amp;EHD.Network.Canada.ca
-A&amp;E.Network.Canada.ca
+A.And.EHD.Network.Canada.ca
+A.And.E.Network.Canada.ca
 Aapka.Colors.ca
 Aastha.ca
 ABC.Spark.ca
@@ -207,7 +207,7 @@ CKGM.Radio.ca
 CKWS.CTV.Global.Kingston.HDTV.ca
 CNV.TV.HD.ca
 Commonwealth.Broadcasting.Network.ca
-Consumer.News.&amp;.Business.Channel.Canada.ca
+Consumer.News.And.Business.Channel.Canada.ca
 Cottage.Life.ca
 Country.Music.Television.Canada.ca
 Country.Music.Television.Canada.HDTV.ca
@@ -220,7 +220,7 @@ Crave.3.[East].ca
 Crave.3.HDTV.[East].ca
 Crave.4.[East].ca
 Crave.4.HDTV.[East].ca
-Crave.Movies.&amp;.HBO.On.Demand.ca
+Crave.Movies.And.HBO.On.Demand.ca
 Crave.TV.On.Demand.ca
 Crime.+.Investigation.ca
 Crime.+.Investigation.HDTV.ca
@@ -307,7 +307,7 @@ Filipino.TV.ca
 Fireplace.HDTV.ca
 Food.Network.[Canada].ca
 Food.Network.HDTV.[Canada].ca
-Fox.Life.[USA.&amp;.Canada].ca
+Fox.Life.[USA.And.Canada].ca
 Fox.News.Channel.ca
 Fox.News.Channel.HDTV.ca
 Fox.Sports.Racing.ca
@@ -358,8 +358,8 @@ Hollywood.Suite.70s.HDTV.ca
 Hollywood.Suite.80s.ca
 Hollywood.Suite.90s.ca
 Hollywood.Suite.On.Demand.ca
-Home.&amp;.Garden.Television.Canada.ca
-Home.&amp;.Garden.Television.Canada.HDTV.ca
+Home.And.Garden.Television.Canada.ca
+Home.And.Garden.Television.Canada.HDTV.ca
 HorsePlayer.Interactive.TV.ca
 How.To.On.Demand.ca
 HPItv.Canada.ca
@@ -449,8 +449,8 @@ MLB.Extra.Innings.HDTV.8.ca
 MLB.Extra.Innings.HDTV.9.ca
 MLB.Network.ca
 MLB.Network.HDTV.ca
-Moi&amp;Cie.ca
-Moi&amp;Cie.HDTV.ca
+MoiAndCie.ca
+MoiAndCie.HDTV.ca
 Movies.On.Demand.ca
 MovieTime.ca
 MovieTime.HDTV.ca
@@ -460,7 +460,7 @@ MTV.India.ca
 Much.ca
 Much.HDTV.ca
 Mundo.ca
-Music.&amp;.Entertainment.ca
+Music.And.Entertainment.ca
 Music.Television.Canada.ca
 Music.Television.Canada.HDTV.ca
 NatGeo.WILD.Canada.HDTV.ca
@@ -622,7 +622,7 @@ Stingray.Around.the.World.ca
 Stingray.Baroque.ca
 Stingray.Big.Band.ca
 Stingray.Chamber.Music\/.Musique.de.chambre.ca
-Stingray.Christian.Pop.&amp;.Rock.ca
+Stingray.Christian.Pop.And.Rock.ca
 Stingray.Classica.Canada.HD.ca
 Stingray.Classic.Masters\/Grands.Classiques.ca
 Stingray.Classic.Rock.ca
@@ -637,7 +637,7 @@ Stingray.Folk.Roots.ca
 Stingray.Franco.Country.ca
 Stingray.Franco.Pop.ca
 Stingray.Franco.Rétro.ca
-Stingray.Hip-Hop\/R&amp;B.ca
+Stingray.Hip-Hop\/R.And.B.ca
 Stingray.Hit.List.ca
 Stingray.Hits!.ca
 Stingray.Holiday.Favourites.ca
@@ -665,7 +665,7 @@ Stingray.Remember.the.80s.ca
 Stingray.RETRO.HDTV.ca
 Stingray.Rock.ca
 Stingray.Smooth.Jazz.ca
-Stingray.Souln.R&amp;B.ca
+Stingray.Souln.R.And.B.ca
 Stingray.Souvenirs.ca
 Stingray.Swinging.Standards.ca
 Stingray.The.Blues.ca
@@ -675,8 +675,8 @@ Stingray.VIBE.HDTV.ca
 Sun.TV.Tamil.ca
 Super.Channel.Fuse.[Canada].ca
 Super.Channel.Fuse.[Canada].HDTV.ca
-Super.Channel.Heart.&amp;.Home.[Canada].ca
-Super.Channel.Heart.&amp;.Home.[Canada].HDTV.ca
+Super.Channel.Heart.And.Home.[Canada].ca
+Super.Channel.Heart.And.Home.[Canada].HDTV.ca
 Super.Channel.On.Demand.ca
 Super.Channel.Vault.ca
 Super.Channel.Vault.HDTV.ca
@@ -768,8 +768,8 @@ TVA.Sports.2.HD.ca
 TVA.Sports.ca
 TV.Center.International.ca
 TV.Chile.[TVN.Internacional].ca
-TVE.Internacional.[North.&amp;.South.America].ca
-TV.Globo.Internacional.[LATAM.&amp;.United.States].ca
+TVE.Internacional.[North.And.South.America].ca
+TV.Globo.Internacional.[LATAM.And.United.States].ca
 TVI.Internacional.ca
 TV.Japan.HDTV.ca
 TVP.Info.ca

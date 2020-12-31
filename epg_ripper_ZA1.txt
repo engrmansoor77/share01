@@ -1,4 +1,4 @@
-202012300017
+202012310016
 
 
 -- epg_ripper_ZA1 --
@@ -67,7 +67,7 @@ Ginx.eSports.HD.za
 Home.and.Garden.TV.HD.za
 IGNITION.za
 Jim.Jam.za
-Kyk.NET.&amp;.Kie.HD.za
+Kyk.NET.And.Kie.HD.za
 Kyk.NET.HD.za
 KykNet.Lekker.za
 KyKNet.Nou.za

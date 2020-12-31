@@ -1,4 +1,4 @@
-202012300016
+202012310016
 
 
 -- epg_ripper_AE1 --
@@ -835,8 +835,8 @@ V_HD.English.bn
 5.Kanal.Ukrainian.TV.ca
 94.9.National.Public.Radio.ca
 AAJ.TAK.ca
-A&amp;EHD.Network.Canada.ca
-A&amp;E.Network.Canada.ca
+A.And.EHD.Network.Canada.ca
+A.And.E.Network.Canada.ca
 Aapka.Colors.ca
 Aastha.ca
 ABC.Spark.ca
@@ -1034,7 +1034,7 @@ CKGM.Radio.ca
 CKWS.CTV.Global.Kingston.HDTV.ca
 CNV.TV.HD.ca
 Commonwealth.Broadcasting.Network.ca
-Consumer.News.&amp;.Business.Channel.Canada.ca
+Consumer.News.And.Business.Channel.Canada.ca
 Cottage.Life.ca
 Country.Music.Television.Canada.ca
 Country.Music.Television.Canada.HDTV.ca
@@ -1047,7 +1047,7 @@ Crave.3.[East].ca
 Crave.3.HDTV.[East].ca
 Crave.4.[East].ca
 Crave.4.HDTV.[East].ca
-Crave.Movies.&amp;.HBO.On.Demand.ca
+Crave.Movies.And.HBO.On.Demand.ca
 Crave.TV.On.Demand.ca
 Crime.+.Investigation.ca
 Crime.+.Investigation.HDTV.ca
@@ -1134,7 +1134,7 @@ Filipino.TV.ca
 Fireplace.HDTV.ca
 Food.Network.[Canada].ca
 Food.Network.HDTV.[Canada].ca
-Fox.Life.[USA.&amp;.Canada].ca
+Fox.Life.[USA.And.Canada].ca
 Fox.News.Channel.ca
 Fox.News.Channel.HDTV.ca
 Fox.Sports.Racing.ca
@@ -1185,8 +1185,8 @@ Hollywood.Suite.70s.HDTV.ca
 Hollywood.Suite.80s.ca
 Hollywood.Suite.90s.ca
 Hollywood.Suite.On.Demand.ca
-Home.&amp;.Garden.Television.Canada.ca
-Home.&amp;.Garden.Television.Canada.HDTV.ca
+Home.And.Garden.Television.Canada.ca
+Home.And.Garden.Television.Canada.HDTV.ca
 HorsePlayer.Interactive.TV.ca
 How.To.On.Demand.ca
 HPItv.Canada.ca
@@ -1276,8 +1276,8 @@ MLB.Extra.Innings.HDTV.8.ca
 MLB.Extra.Innings.HDTV.9.ca
 MLB.Network.ca
 MLB.Network.HDTV.ca
-Moi&amp;Cie.ca
-Moi&amp;Cie.HDTV.ca
+MoiAndCie.ca
+MoiAndCie.HDTV.ca
 Movies.On.Demand.ca
 MovieTime.ca
 MovieTime.HDTV.ca
@@ -1287,7 +1287,7 @@ MTV.India.ca
 Much.ca
 Much.HDTV.ca
 Mundo.ca
-Music.&amp;.Entertainment.ca
+Music.And.Entertainment.ca
 Music.Television.Canada.ca
 Music.Television.Canada.HDTV.ca
 NatGeo.WILD.Canada.HDTV.ca
@@ -1449,7 +1449,7 @@ Stingray.Around.the.World.ca
 Stingray.Baroque.ca
 Stingray.Big.Band.ca
 Stingray.Chamber.Music\/.Musique.de.chambre.ca
-Stingray.Christian.Pop.&amp;.Rock.ca
+Stingray.Christian.Pop.And.Rock.ca
 Stingray.Classica.Canada.HD.ca
 Stingray.Classic.Masters\/Grands.Classiques.ca
 Stingray.Classic.Rock.ca
@@ -1464,7 +1464,7 @@ Stingray.Folk.Roots.ca
 Stingray.Franco.Country.ca
 Stingray.Franco.Pop.ca
 Stingray.Franco.Rétro.ca
-Stingray.Hip-Hop\/R&amp;B.ca
+Stingray.Hip-Hop\/R.And.B.ca
 Stingray.Hit.List.ca
 Stingray.Hits!.ca
 Stingray.Holiday.Favourites.ca
@@ -1492,7 +1492,7 @@ Stingray.Remember.the.80s.ca
 Stingray.RETRO.HDTV.ca
 Stingray.Rock.ca
 Stingray.Smooth.Jazz.ca
-Stingray.Souln.R&amp;B.ca
+Stingray.Souln.R.And.B.ca
 Stingray.Souvenirs.ca
 Stingray.Swinging.Standards.ca
 Stingray.The.Blues.ca
@@ -1502,8 +1502,8 @@ Stingray.VIBE.HDTV.ca
 Sun.TV.Tamil.ca
 Super.Channel.Fuse.[Canada].ca
 Super.Channel.Fuse.[Canada].HDTV.ca
-Super.Channel.Heart.&amp;.Home.[Canada].ca
-Super.Channel.Heart.&amp;.Home.[Canada].HDTV.ca
+Super.Channel.Heart.And.Home.[Canada].ca
+Super.Channel.Heart.And.Home.[Canada].HDTV.ca
 Super.Channel.On.Demand.ca
 Super.Channel.Vault.ca
 Super.Channel.Vault.HDTV.ca
@@ -1595,8 +1595,8 @@ TVA.Sports.2.HD.ca
 TVA.Sports.ca
 TV.Center.International.ca
 TV.Chile.[TVN.Internacional].ca
-TVE.Internacional.[North.&amp;.South.America].ca
-TV.Globo.Internacional.[LATAM.&amp;.United.States].ca
+TVE.Internacional.[North.And.South.America].ca
+TV.Globo.Internacional.[LATAM.And.United.States].ca
 TVI.Internacional.ca
 TV.Japan.HDTV.ca
 TVP.Info.ca
@@ -2191,15 +2191,15 @@ ABP.News.in
 Adithya.TV.in
 Alankar.in
 Al.Jazeera.in
-&amp;Flix.HD.in
-&amp;Flix.in
-&amp;pictures.HD.in
-&amp;pictures.in
-&amp;Prive.HD.in
-&amp;tv.HD.in
-&amp;tv.in
 Amrita.TV.in
 ANB.NEWS.in
+And.Flix.HD.in
+And.Flix.in
+And.pictures.HD.in
+And.pictures.in
+And.Prive.HD.in
+And.tv.HD.in
+And.tv.in
 Angel.TV.in
 Animal.Planet.HD.World.in
 Animal.Planet.in
@@ -5135,7 +5135,7 @@ beIN.BOX.OFFICE.2.HD.tr
 beIN.BOX.OFFICE.3.HD.tr
 beIN.GURME.HD.tr
 beIN.HD.tr
-beIN.HOME.&amp;.ENTERTAINMENT.HD.tr
+beIN.HOME.And.ENTERTAINMENT.HD.tr
 beIN.İZ.HD.tr
 beIN.İZ.HD.tr
 beIN.MOVIES.ACTION.2.HD.tr
@@ -5287,7 +5287,7 @@ ATN.Bangla.UK.uk
 B4U.Movies.uk
 B4U.Music.uk
 Babenation.uk
-babes&amp;brazzers.uk
+babes.And.brazzers.uk
 BabyTV.uk
 BBC.6.Music.uk
 BBC.ALBA.uk
@@ -5303,7 +5303,7 @@ BBC.One.East.W.uk
 BBC.One.E.Mid.uk
 BBC.One.HD.uk
 BBC.One.Lon.uk
-BBC.One.NE&amp;C.uk
+BBC.One.NE.And.C.uk
 BBC.One.NI.HD.uk
 BBC.One.NI.uk
 BBC.One.N.West.uk
@@ -5317,7 +5317,7 @@ BBC.One.Wales.uk
 BBC.One.Wal.HD.uk
 BBC.One.West.uk
 BBC.One.W.Mid.uk
-BBC.One.Yk&amp;Li.uk
+BBC.One.Yk.And.Li.uk
 BBC.One.Yorks.uk
 BBC.Parliament.uk
 BBC.R1.uk
@@ -5416,7 +5416,7 @@ ComedyCentral.uk
 ComedyXtra+1.uk
 ComedyXtra.uk
 Craft.Extra.uk
-Create&amp;CraftHD.uk
+CreateAndCraftHD.uk
 Crime+Inv+1.uk
 Crime+Inv.HD.uk
 Cruise1st.tv.uk
@@ -5498,7 +5498,7 @@ History2.uk
 History.HD.uk
 Hits.Radio.uk
 Hochanda.uk
-Home.&amp;.Health.uk
+Home.And.Health.uk
 HomeHealth+1.uk
 horror.ch+1.uk
 horror.channel.uk
@@ -5514,7 +5514,7 @@ Word.Network.uk
 WRN.Europe.uk
 Xpanded.TV2.uk
 Xpanded.TV.uk
-XXX.Big&amp;Bouncy.uk
+XXX.BigAndBouncy.uk
 XXX.College.uk
 XXX.Girl.Girl.uk
 XXX.Mums.uk
@@ -5528,7 +5528,7 @@ Zee.TV.uk
 
 -- epg_ripper_US1 --
 
-(Alaskan)A&amp;E.Network.(West).us
+(Alaskan)A.And.E.Network.(West).us
 (Alaskan)ABC.Family.Channel.(West).us
 (Alaskan)ABC.us
 (Alaskan)AMC.(West).us
@@ -5542,8 +5542,8 @@ Zee.TV.uk
 (Alaskan)Cinemax.(West).us
 (Alaskan)CMT.(West).us
 (Alaskan)Comedy.Central.(West).us
-(Alaskan)Consumer.News.&amp;.Business.Channel.us
-(Alaskan)Discovery.Fit.&amp;.Health.us
+(Alaskan)Consumer.News.And.Business.Channel.us
+(Alaskan)Discovery.Fit.And.Health.us
 (Alaskan)Disney.XD.(West).us
 (Alaskan)Do.it.Yourself.Network.(East).us
 (Alaskan)E!.Entertainment.Television.(West).us
@@ -5568,7 +5568,7 @@ Zee.TV.uk
 (Alaskan)HBO.Signature.(West).us
 (Alaskan)HBO.(West).us
 (Alaskan)History.(West).us
-(Alaskan)Home.&amp;.Garden.Television.(West).us
+(Alaskan)Home.And.Garden.Television.(West).us
 (Alaskan)IFC.(East).us
 (Alaskan)Investigation.Discovery.us
 (Alaskan)ION.(West.Non-Network).us
@@ -5616,7 +5616,7 @@ Zee.TV.uk
 (Alaskan)WGN.America.us
 (Alaskan)Womens.Entertainment.Network.(East).us
 Antenna.TV.EAST.us
-(Central)A&amp;E.Network.(East).us
+(Central)A.And.E.Network.(East).us
 (Central)ABC.Family.Channel.(East).us
 (Central)ABC.us
 (Central)AMC.(East).us
@@ -5630,8 +5630,8 @@ Antenna.TV.EAST.us
 (Central)Cinemax.(East).us
 (Central)CMT.(East).us
 (Central)Comedy.Central.(East).us
-(Central)Consumer.News.&amp;.Business.Channel.us
-(Central)Discovery.Fit.&amp;.Health.us
+(Central)Consumer.News.And.Business.Channel.us
+(Central)Discovery.Fit.And.Health.us
 (Central)Disney.XD.(East).us
 (Central)Do.it.Yourself.Network.(East).us
 (Central)E!.Entertainment.Television.(East).us
@@ -5656,7 +5656,7 @@ Antenna.TV.EAST.us
 (Central)HBO.(East).us
 (Central)HBO.Signature.(East).us
 (Central)History.(East).us
-(Central)Home.&amp;.Garden.Television.(East).us
+(Central)Home.And.Garden.Television.(East).us
 (Central)IFC.(East).us
 (Central)Investigation.Discovery.us
 (Central)ION.East.Cable\/Dish.us
@@ -5706,7 +5706,7 @@ Antenna.TV.EAST.us
 (Central)WGN.America.us
 (Central)Womens.Entertainment.Network.(East).us
 Cleo.Television.HDTV.us
-(Eastern)A&amp;E.Network.(East).us
+(Eastern)A.And.E.Network.(East).us
 (Eastern)ABC.Family.Channel.(East).us
 (Eastern)ABC.us
 (Eastern)AMC.(East).us
@@ -5720,8 +5720,8 @@ Cleo.Television.HDTV.us
 (Eastern)Cinemax.(East).us
 (Eastern)CMT.(East).us
 (Eastern)Comedy.Central.(East).us
-(Eastern)Consumer.News.&amp;.Business.Channel.us
-(Eastern)Discovery.Fit.&amp;.Health.us
+(Eastern)Consumer.News.And.Business.Channel.us
+(Eastern)Discovery.Fit.And.Health.us
 (Eastern)Disney.XD.(East).us
 (Eastern)Do.it.Yourself.Network.(East).us
 (Eastern)E!.Entertainment.Television.(East).us
@@ -5747,7 +5747,7 @@ Cleo.Television.HDTV.us
 (Eastern)HBO.(East).us
 (Eastern)HBO.Signature.(East).us
 (Eastern)History.(East).us
-(Eastern)Home.&amp;.Garden.Television.(East).us
+(Eastern)Home.And.Garden.Television.(East).us
 (Eastern)IFC.(East).us
 (Eastern)Investigation.Discovery.us
 (Eastern)ION.East.Cable\/Dish.us
@@ -5796,7 +5796,7 @@ Cleo.Television.HDTV.us
 (Eastern)VH1.(East).us
 (Eastern)WGN.America.us
 (Eastern)Womens.Entertainment.Network.(East).us
-(Hawaiian)A&amp;E.Network.(West).us
+(Hawaiian)A.And.E.Network.(West).us
 (Hawaiian)ABC.Family.Channel.(Hawaii).us
 (Hawaiian)ABC.us
 (Hawaiian)AMC.(West).us
@@ -5810,8 +5810,8 @@ Cleo.Television.HDTV.us
 (Hawaiian)Cinemax.(West).us
 (Hawaiian)CMT.(West).us
 (Hawaiian)Comedy.Central.(West).us
-(Hawaiian)Consumer.News.&amp;.Business.Channel.us
-(Hawaiian)Discovery.Fit.&amp;.Health.us
+(Hawaiian)Consumer.News.And.Business.Channel.us
+(Hawaiian)Discovery.Fit.And.Health.us
 (Hawaiian)Disney.XD.(West).us
 (Hawaiian)Do.it.Yourself.Network.(East).us
 (Hawaiian)E!.Entertainment.Television.(Hawaii).us
@@ -5836,7 +5836,7 @@ Cleo.Television.HDTV.us
 (Hawaiian)HBO.Signature.(West).us
 (Hawaiian)HBO.(West).us
 (Hawaiian)History.(West).us
-(Hawaiian)Home.&amp;.Garden.Television.(Hawaii).us
+(Hawaiian)Home.And.Garden.Television.(Hawaii).us
 (Hawaiian)IFC.(East).us
 (Hawaiian)Investigation.Discovery.us
 (Hawaiian)ION.(West.Non-Network).us
@@ -5883,7 +5883,7 @@ Cleo.Television.HDTV.us
 (Hawaiian)VH1.(Hawaii).us
 (Hawaiian)WGN.America.us
 (Hawaiian)Womens.Entertainment.Network.(East).us
-(Mountain)A&amp;E.Network.(West).us
+(Mountain)A.And.E.Network.(West).us
 (Mountain)ABC.Family.Channel.(West).us
 (Mountain)ABC.us
 (Mountain)AMC.(West).us
@@ -5897,8 +5897,8 @@ Cleo.Television.HDTV.us
 (Mountain)Cinemax.(West).us
 (Mountain)CMT.(West).us
 (Mountain)Comedy.Central.(West).us
-(Mountain)Consumer.News.&amp;.Business.Channel.us
-(Mountain)Discovery.Fit.&amp;.Health.us
+(Mountain)Consumer.News.And.Business.Channel.us
+(Mountain)Discovery.Fit.And.Health.us
 (Mountain)Disney.XD.(West).us
 (Mountain)Do.it.Yourself.Network.(East).us
 (Mountain)E!.Entertainment.Television.(West).us
@@ -5923,7 +5923,7 @@ Cleo.Television.HDTV.us
 (Mountain)HBO.Signature.(West).us
 (Mountain)HBO.(West).us
 (Mountain)History.(West).us
-(Mountain)Home.&amp;.Garden.Television.(West).us
+(Mountain)Home.And.Garden.Television.(West).us
 (Mountain)IFC.(East).us
 (Mountain)Investigation.Discovery.us
 (Mountain)ION.(Mountain).us
@@ -5972,7 +5972,7 @@ Cleo.Television.HDTV.us
 (Mountain)VH1.(West).us
 (Mountain)WGN.America.us
 (Mountain)Womens.Entertainment.Network.(East).us
-(Pacific)A&amp;E.Network.(West).us
+(Pacific)A.And.E.Network.(West).us
 (Pacific)ABC.Family.Channel.(West).us
 (Pacific)ABC.us
 (Pacific)AMC.(West).us
@@ -5986,8 +5986,8 @@ Cleo.Television.HDTV.us
 (Pacific)Cinemax.(West).us
 (Pacific)CMT.(West).us
 (Pacific)Comedy.Central.(West).us
-(Pacific)Consumer.News.&amp;.Business.Channel.us
-(Pacific)Discovery.Fit.&amp;.Health.us
+(Pacific)Consumer.News.And.Business.Channel.us
+(Pacific)Discovery.Fit.And.Health.us
 (Pacific)Disney.XD.(West).us
 (Pacific)Do.it.Yourself.Network.(East).us
 (Pacific)E!.Entertainment.Television.(West).us
@@ -6013,7 +6013,7 @@ Cleo.Television.HDTV.us
 (Pacific)HBO.Signature.(West).us
 (Pacific)HBO.(West).us
 (Pacific)History.(West).us
-(Pacific)Home.&amp;.Garden.Television.(West).us
+(Pacific)Home.And.Garden.Television.(West).us
 (Pacific)IFC.(East).us
 (Pacific)Investigation.Discovery.us
 (Pacific)ION.(West.Non-Network).us
@@ -8342,7 +8342,7 @@ DISCOVERY.CHANNEL.vn
 Disney.Junior.vn
 DISNEY.JUNIOR.vn
 DISNEY.vn
-Du.lịch.&amp;.Cuộc.sống.HD.vn
+Du.lịch.And.Cuộc.sống.HD.vn
 DW.vn
 FBNC.HD.vn
 FOX.Family.Movies.vn
@@ -8392,7 +8392,7 @@ Quốc.Phòng.Việt.Nam.vn
 Red.By.HBO.HD.vn
 SCTV.11.HD.vn
 SCTV.12.HD.-.Du.Lịch.vn
-SCTV13.HD.-.Phụ.nữ.&amp;.Gia.đình.vn
+SCTV13.HD.-.Phụ.nữ.And.Gia.đình.vn
 SCTV.14.HD.-.Phim.Việt.vn
 SCTV.15.HD.-.Thể.Thao.vn
 SCTV.16.HD.-.Phim.nước.ngoài.đặc.sắc.vn
@@ -8523,7 +8523,7 @@ Ginx.eSports.HD.za
 Home.and.Garden.TV.HD.za
 IGNITION.za
 Jim.Jam.za
-Kyk.NET.&amp;.Kie.HD.za
+Kyk.NET.And.Kie.HD.za
 Kyk.NET.HD.za
 KykNet.Lekker.za
 KyKNet.Nou.za

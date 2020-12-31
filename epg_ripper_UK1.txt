@@ -1,4 +1,4 @@
-202012300017
+202012310016
 
 
 -- epg_ripper_UK1 --
@@ -37,7 +37,7 @@ ATN.Bangla.UK.uk
 B4U.Movies.uk
 B4U.Music.uk
 Babenation.uk
-babes&amp;brazzers.uk
+babes.And.brazzers.uk
 BabyTV.uk
 BBC.6.Music.uk
 BBC.ALBA.uk
@@ -53,7 +53,7 @@ BBC.One.East.W.uk
 BBC.One.E.Mid.uk
 BBC.One.HD.uk
 BBC.One.Lon.uk
-BBC.One.NE&amp;C.uk
+BBC.One.NE.And.C.uk
 BBC.One.NI.HD.uk
 BBC.One.NI.uk
 BBC.One.N.West.uk
@@ -67,7 +67,7 @@ BBC.One.Wales.uk
 BBC.One.Wal.HD.uk
 BBC.One.West.uk
 BBC.One.W.Mid.uk
-BBC.One.Yk&amp;Li.uk
+BBC.One.Yk.And.Li.uk
 BBC.One.Yorks.uk
 BBC.Parliament.uk
 BBC.R1.uk
@@ -166,7 +166,7 @@ ComedyCentral.uk
 ComedyXtra+1.uk
 ComedyXtra.uk
 Craft.Extra.uk
-Create&amp;CraftHD.uk
+CreateAndCraftHD.uk
 Crime+Inv+1.uk
 Crime+Inv.HD.uk
 Cruise1st.tv.uk
@@ -248,7 +248,7 @@ History2.uk
 History.HD.uk
 Hits.Radio.uk
 Hochanda.uk
-Home.&amp;.Health.uk
+Home.And.Health.uk
 HomeHealth+1.uk
 horror.ch+1.uk
 horror.channel.uk
@@ -264,7 +264,7 @@ Word.Network.uk
 WRN.Europe.uk
 Xpanded.TV2.uk
 Xpanded.TV.uk
-XXX.Big&amp;Bouncy.uk
+XXX.BigAndBouncy.uk
 XXX.College.uk
 XXX.Girl.Girl.uk
 XXX.Mums.uk

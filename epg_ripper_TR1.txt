@@ -1,4 +1,4 @@
-202012300017
+202012310016
 
 
 -- epg_ripper_TR1 --
@@ -26,7 +26,7 @@ beIN.BOX.OFFICE.2.HD.tr
 beIN.BOX.OFFICE.3.HD.tr
 beIN.GURME.HD.tr
 beIN.HD.tr
-beIN.HOME.&amp;.ENTERTAINMENT.HD.tr
+beIN.HOME.And.ENTERTAINMENT.HD.tr
 beIN.İZ.HD.tr
 beIN.İZ.HD.tr
 beIN.MOVIES.ACTION.2.HD.tr

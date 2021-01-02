@@ -1,4 +1,4 @@
-202101010017
+202101020005
 
 
 -- epg_ripper_US_LOCALS1 --
@@ -1501,6 +1501,7 @@ MY12.(CHAR.NC).Local.us
 My50.Chicago,.IL.us
 MY64.(CINCI).Local.us
 MyDestination.TV.us
+MY.(KCWX-TV).San.Antonio,.TX.us
 MY.(KSMO-TV).Kansas.City,.MO.us
 MY.(WBFS-TV).Miami,.FL.us
 MY.(WDKA-TV).Paducah,.KY.us

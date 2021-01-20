@@ -1,4 +1,4 @@
-202101180016
+202101200010
 
 
 -- epg_ripper_US_LOCALS1 --
@@ -2207,6 +2207,7 @@ UNI.(WFDC).Washington,.DC.us
 UNI.(WFTY-DT2).New.York,.NY.us
 UNI.(WGBO).Chicago,.IL.us
 UNI.(WLZE).Fort.Myers,.FL.us
+UNI.(WUNI-TV).Worchester,.MA.us
 UNI.(WUVF).Fort.Myers,.FL.us
 UNI.(WUVN).Hartford,.CT.us
 UNI.(WUVP-TV).Philadelphia,.PA.us

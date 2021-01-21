@@ -1,4 +1,4 @@
-202101200010
+202101210016
 
 
 -- epg_ripper_AE1 --
@@ -20,6 +20,93 @@ MBC.Iraq.ae
 MBC.Movie.Max.ae
 MBC+.Power.ae
 Wanasah.ae
+
+
+-- epg_ripper_AL1 --
+
+21.Junior.al
+21.Popullore.al
+24.Kitchen.al
+ABC.News.al
+Albanian.Screen.al
+Al.Jazeera.al
+Alsat.M.al
+Animal.Planet.HD.al
+B92.Info.al
+Baby.TV.al
+Bang.Bang.al
+BBC.World.al
+Boomerang.al
+CNN.int.al
+Cufo.TV.al
+Digi.Gold.al
+Discovery.Channel.al
+Discovery.Science.HD.al
+DW.TV.al
+E.TV.al
+EuroNews.al
+EuroSport.al
+EXP.Histori.al
+EXP.Natyra.al
+EXP.Shkence.al
+Fashion.TV.al
+Film.Aksion.al
+Film.Autor.al
+Film.Drame.al
+Film.Dy.HD.al
+Film.Hits.al
+Film.Komedi.al
+Film.Nje.HD.al
+Film.Thriller.al
+Fine.Living.al
+First.Channel.al
+Fox.al
+Fox.Life.al
+Hayat.TV.al
+ID.Xtra.HD.al
+Junior.TV.al
+Klan.Kosova.al
+Klan.TV.al
+Klan.TV.HD.al
+Kohavision.al
+MTV.Live.HD.al
+musicAL.al
+My.Music.al
+Nat.Geo.HD.al
+National.Geographic.al
+News.24.al
+Nickelodeon.HD.al
+N-TV.al
+ON.TV.al
+Ora.News.al
+Peace.TV.al
+Plus.HD.al
+Radio.Televizioni.21.al
+Radio.Televizioni.21.HD.al
+Radio.Televizioni.i.Kosoves.al
+Rai.1.al
+Rai.2.al
+Rai.3.al
+Rai.News.al
+Rrokum.HD.al
+Rrokum.TV.al
+RTK.1.HD.al
+RTL.2.al
+RTL.al
+Stinet.al
+STV.Folk.al
+SuperSonic.TV.al
+Top.Channel.al
+Top.Channel.HD.al
+Top.News.al
+Travel.Channel.al
+Tribuna.al
+TV.Arta.al
+TV.Dukagjini.al
+TV.Festina.al
+TV.Prizren.al
+TVSH.al
+Wedding.Channel.al
 
 
 -- epg_ripper_AR1 --
@@ -4486,6 +4573,22 @@ TFC.sa
 TLC.HD.sa
 VH1.sa
 Viva.TV.sa
+
+
+-- epg_ripper_SPORTKLUB1 --
+
+SK10.ba
+SK1.ba
+SK1.BiH.ba
+SK2.ba
+SK3.ba
+SK4.ba
+SK5.ba
+SK6.ba
+SK7.ba
+SK8.ba
+SK9.ba
+SK.GOLF.ba
 
 
 -- epg_ripper_TR1 --

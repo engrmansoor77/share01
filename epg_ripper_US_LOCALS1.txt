@@ -1,4 +1,4 @@
-202101240005
+202101250004
 
 
 -- epg_ripper_US_LOCALS1 --
@@ -1840,6 +1840,7 @@ Pac-12.Washington.us
 Paramount.Network.USA.us
 Paramount.Network.USA.west.us
 PBS12.(KBDI).Denver,.CO.us
+PBS.(CPTV-TV).Hartford,.CT.us
 PBS.East.us
 PBS.(KAET).Phoenix,.AZ.us
 PBS.(KBYU).Provo,.UT.us
@@ -1871,6 +1872,7 @@ PBS.(WETA).HD.Washington,.DC.us
 PBS.(WGBY-TV).Springfield,.MA.us
 PBS.(WGCU).Southwest.Florida,.FL.us
 PBS.(WHUT).Howard.University.us
+PBS.(WHYY-TV).Philadelphia,.PA.us
 PBS.(WLIW).Long.Island,.NY.us
 PBS.(WLRN-TV).Miami,.FL.us
 PBS.(WMPB).Baltimore,.MD.HD.us

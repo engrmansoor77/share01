@@ -1,4 +1,4 @@
-202101272337
+202101282345
 
 
 -- epg_ripper_US_LOCALS1 --
@@ -597,6 +597,7 @@ CW.(KDLH-TV).Duluth,.MN.us
 CW.(KFMB-TV2).San.Diego,.CA.us
 CW.(KFRE-TV).Fresno,.CA.us
 CW.(KMAX).Sacramento,.CA.us
+CW.(KMTR-DT2-TV).Eugene,.OR.us
 CW.(KMYS-TV).San.Antonio,.TX.us
 CW.(KOCB).Oklahoma.City,.OK.HD.us
 CW.(KSTW-TV).Tacoma,.WA.us

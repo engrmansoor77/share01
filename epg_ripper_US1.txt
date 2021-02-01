@@ -1,4 +1,4 @@
-202101310005
+202102010024
 
 
 -- epg_ripper_US1 --
@@ -40,6 +40,7 @@ BANG.U.(COEDS).[596].us
 BBC.America.HDTV.(East).(BBC).[264].us
 BBC.World.News.HDTV.(BBCWNHD).[346].us
 BEST.Channel.(BEST).[88].us
+BET.Gospel.(GOSP).[225].us
 BET.Her.(BETHER).[330].us
 Big.Ten.Network.HDTV.(24/7.Overflow.#1).(BTFB1).[610.1].us
 Big.Ten.Network.HDTV.(24/7.Overflow.#2).(BTNaHD).[610.2].us

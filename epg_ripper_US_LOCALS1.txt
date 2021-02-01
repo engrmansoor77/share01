@@ -1,3 +1,8 @@
+202102010024
+
+
+-- epg_ripper_US_LOCALS1 --
+
 3ABN.Latino.(KTVP-LD2).Phoenix,.AZ.us
 5.Star.Max.us
 5.Star.Max.west.us
@@ -214,6 +219,7 @@ ANTENNA.TV.Local.us
 Antenna.(WDCW-DT2).District.of.Columbia.us
 Antenna.(WGN-DT2).Chicago,.IL.us
 Antenna.(WPIX-DT2).New.York,.NY.us
+ANTENNA.(WPIX-DT2-TV).New.York,.NY.us
 Arirang.TV.us
 Arirang.TV.(WRNN-DT3).New.York,.NY.us
 ART.America.us
@@ -1771,6 +1777,7 @@ New.Jersey.PBS.(WNJT).Trenton,.NJ.us
 News.3.Now.(WISC).Madison,.WI.us
 NewsMax.TV.(KFPB-DT6).Globe,.AZ.us
 NewsMax.TV.us
+NEWSNET.(WMNN-LD-TV).Cadillac,.MI.us
 Newsy.us
 New.Tang.Dynasty.TV.us
 New.Tang.Dynasty.TV.(WMBC-DT5).Newton,.NJ.us

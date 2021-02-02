@@ -1,12 +1,12 @@
-202102010024
+202102020049
 
 
 -- epg_ripper_AR1 --
 
 88.9.FM.(88.9FM).[294].ar
 A3CINE.HDTV.(Puerto.Rico).(A3CINEHD).[1519].ar
-A&amp;E.(Argentina).(A&amp;E).[207].ar
-A&amp;E.HDTV.(Latin.America).(A&amp;E.HD).[1207].ar
+A.and.E.(Argentina).(AandE).[207].ar
+A.and.E.HDTV.(Latin.America).(A.and.E.HD).[1207].ar
 Activa.Fútbol.Argentina.(ACTIVA).[602].ar
 AMC.(Latin.America).(AMC).[210].ar
 AMC.Networks.HDTV.(South).(AMCHD).[1210].ar
@@ -71,8 +71,8 @@ DIRECTV.Sports.MixHD.(SMXHD).[1612].ar
 DIRECTV.Sports.Mix.(SMX).[611].ar
 DirecTV.Sports.Plus.(DTS+).[613].ar
 DIRECTV.Sports.Schedule.(DTV).[600].ar
-Discovery.Home.&amp;.Health.(Argentina).(DH&amp;H).[229].ar
-Discovery.Home.&amp;.Health.HDTV.(CHARVZ).(DH&amp;HHD).[1229].ar
+Discovery.Home.and.Health.(Argentina).(DHandH).[229].ar
+Discovery.Home.and.Health.HDTV.(CHARVZ).(DHandHHD).[1229].ar
 Discovery.Kids.HDTV.(Latin.America).(DKIDSHD).[1330].ar
 Discovery.Kids.(Latin.America).(DSCKDS).[330].ar
 Discovery.Theater.HDTV.(Latin.America).(THEATER).[1731].ar
@@ -102,7 +102,7 @@ ESPN.Latin.South.Sur.(ESPNS).[621].ar
 Eternal.Word.Television.(Latin.America).(EWTN).[350].ar
 Europa.Europa.(EE).[1515].ar
 Fiesta.TV.(FIESTA).[297].ar
-Film&amp;Arts.(Latin.America).(F&amp;A).[746].ar
+Film.and.Arts.(Latin.America).(FandA).[746].ar
 FM.101.1.(LATIN).[981].ar
 FMAS.(FMAS).[973].ar
 Food.Network.(East).(FOOD).[233].ar
@@ -162,7 +162,7 @@ History.2.HDTV.(Latin.America).(H2HD).[1744].ar
 History.2.(Latin.America).(H2).[744].ar
 ¡Hola!.TV.HDTV.(US).(HOLAHD).[1221].ar
 ¡Hola!.TV.(USA).(HOLA).[221].ar
-Home.&amp;.Garden.Television.HDTV.(East).(HGTVD).[1234].ar
+Home.and.Garden.Television.HDTV.(East).(HGTVD).[1234].ar
 HOT.94.1.(HOTFM).[295].ar
 HTV.Música.(HTV).[272].ar
 Hustler.TV.HDTV.(Premium).(HUSTHD).[470].ar
@@ -197,7 +197,7 @@ Paramount.Network.HDTV.(Latin.America).(PRMNTHD).[1510].ar
 Paramount.Network.(Latin.America).(PARAM).[510].ar
 Pasiones.HDTV.(LTAM).(PASNHD).[1225].ar
 Pasiones.(USA).(PASN).[225].ar
-Playboy.TV.Latin.America.&amp;.Iberia.(PLYBY).[464].ar
+Playboy.TV.Latin.America.and.Iberia.(PLYBY).[464].ar
 PX.Sports.HDTV.(PXSHD).[1639].ar
 Quiero.Música.HDTV.(QUIERO).[1269].ar
 Quiero.Música.(QUIERO).[269].ar
@@ -250,8 +250,8 @@ Torneos.y.Competencias.HDTV.(TYCHD).[1629].ar
 truTV.(Latin.America).(TRUTV).[220].ar
 TV.Chile.(TVN.Internacional).(TVCHILE).[774].ar
 TV.Ciudad.(CIUDAD).[1789].ar
-TVE.Internacional.(North.&amp;.South.America).(TVE).[760].ar
-TV.Globo.Internacional.(LATAM.&amp;.United.States).(GLOBO).[776].ar
+TVE.Internacional.(North.and.South.America).(TVE).[760].ar
+TV.Globo.Internacional.(LATAM.and.United.States).(GLOBO).[776].ar
 TV.Perú.(TVPERU).[1702].ar
 TV.Pública.HDTV.(PUBLICAH).[121].ar
 Unión.Radio.Noticias.(UNION).[980].ar

@@ -1,4 +1,4 @@
-202102010024
+202102020049
 
 
 -- epg_ripper_US1 --
@@ -494,7 +494,7 @@ Turner.Network.Television.HDTV.(West).(TNTHD).[245.1].us
 TV.Chile.(TVN.Internacional).(TVCHILE).[437].us
 TVE.Internacional.(North.&amp;.South.America).(TVE).[460].us
 TV.Games.Network.(TVG).[602].us
-TV.Globo.Internacional.(LATAM.&amp;.United.States).(GLOBO).[2134].us
+TV.Globo.Internacional.(LATAM.and.United.States).(GLOBO).[2134].us
 TViet.Network.(TViet).[2032].us
 TV.Japan.HDTV.(TVJPNHD).[2040].us
 TV.Land.HDTV.(East).(TVLAND).[304].us

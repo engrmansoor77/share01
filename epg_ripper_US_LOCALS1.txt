@@ -1,4 +1,4 @@
-202102020049
+202102030044
 
 
 -- epg_ripper_US_LOCALS1 --
@@ -616,6 +616,7 @@ CW.(WCWN-TV).Albany,.NY.us
 CW.(WDCW).District.of.Columbia.us
 CW.(WKBD-TV).Detroit,.MI.us
 CW.(WLFL-TV).Raleigh,.NC.us
+CW.(WLMT-TV).Memphis,.TN.us
 CW.(WLVI-TV).Boston,.MA.us
 CW.(WNAB-TV).Nashville,.TN.us
 CW.(WNUV-TV).Baltimore,.MD.us

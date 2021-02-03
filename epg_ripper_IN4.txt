@@ -1,4 +1,4 @@
-202102020049
+202102030044
 
 
 -- epg_ripper_IN4 --
@@ -24,15 +24,15 @@ ABP.News.in
 Adithya.TV.in
 Alankar.in
 Al.Jazeera.in
-&amp;Flix.HD.in
-&amp;Flix.in
-&amp;pictures.HD.in
-&amp;pictures.in
-&amp;Prive.HD.in
-&amp;tv.HD.in
-&amp;tv.in
 Amrita.TV.in
 ANB.NEWS.in
+And.Flix.HD.in
+And.Flix.in
+And.pictures.HD.in
+And.pictures.in
+And.Prive.HD.in
+And.tv.HD.in
+And.tv.in
 Angel.TV.in
 Animal.Planet.HD.World.in
 Animal.Planet.in
@@ -204,7 +204,7 @@ Gulistan.News.in
 Hare.Krsna.in
 Haryanvi.Hits.in
 Headlines.Tripura.in
-Health.&amp;.Wellness.in
+Health.And.Wellness.in
 Hindi.Khabar.in
 Hindu.Dharmam.in
 History.TV18.HD.in
@@ -272,7 +272,7 @@ Living.India.News.in
 Lok.Sabha.TV.in
 Lokshahi.in
 Lord.Buddha.TV.in
-Luxe.&amp;.Life.in
+Luxe.And.Life.in
 Madha.TV.in
 Mahakaleshwar.Temple,.Ujjain.in
 Maha.Movie.in
@@ -361,7 +361,7 @@ Paras.TV.in
 Patrika.TV.Rajasthan.in
 Peace.of.Mind.in
 Peppers.TV.in
-Pet.&amp;.Pal.in
+Pet.And.Pal.in
 Pitaara.TV.in
 Planet.Fun.in
 Pogo.in

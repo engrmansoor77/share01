@@ -1,4 +1,4 @@
-202102030044
+202102040004
 
 
 -- epg_ripper_US_LOCALS1 --
@@ -1315,6 +1315,7 @@ KJZZ.Salt.Lake.City,.UT.us
 KSCI.Los.Angeles,.CA.us
 KTLA.Los.Angeles,.CA.us
 KTVK.Phoenix,.AZ.us
+KTXA-TV.Dallas,.TX.us
 KTXA-TV.&quot;TXA-21&quot;..Dallas,.TX.us
 KTXA-TV.TXA-21.Dallas,.TX.us
 KUEN-DT2.Salt.Lake.City,.UT.us
@@ -2243,7 +2244,7 @@ WGN.America.us
 WGN.America.west.us
 WGN.Chicago.(LOCAL).us
 Willow.Cricket.us
-WJYS.&quot;The.Way&quot;.Chicago,.IL.us
+WJYS.The.Way.Chicago,.IL.us
 WLNY.TV10/55,.Riverhead,.NY.us
 WMBC-Newton,.NJ.us
 WMBQ.CD3.New.York,.NY.us

@@ -1,4 +1,4 @@
-202102040003
+202102042314
 
 
 -- epg_ripper_CA1 --
@@ -118,6 +118,7 @@ Caribbean.Radio.(CARDO).ca
 Cartoon.Network.(Canada).(CN).ca
 CASA.(CASA).ca
 CBC.Calgary.(CBRT).ca
+CBC.Fredericton.HDTV.(CBAT).[400].ca
 CBC.News.Network.(CBC.NN).ca
 CBC.News.Network.HDTV.(CBCNEWHD).ca
 CBC.Toronto.(CBLT).ca
@@ -410,6 +411,7 @@ NHL.Centre.Ice.(SPO30).ca
 NHL.Centre.Ice.(SSP).ca
 Nickelodeon.Canada.HDTV.(NICHD).ca
 Nickelodeon.Canada.(NICK).ca
+Noovo.Montreal.HD.(NVMT).[1102].ca
 NTV.Bangla.(NTVB).ca
 Odyssey.(OTN1).(ODSY-C).ca
 Omni.1.HDTV.(OMNI1HD).ca

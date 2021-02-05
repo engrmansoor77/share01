@@ -1,4 +1,4 @@
-202102040004
+202102042314
 
 
 -- epg_ripper_US_LOCALS1 --
@@ -1316,7 +1316,6 @@ KSCI.Los.Angeles,.CA.us
 KTLA.Los.Angeles,.CA.us
 KTVK.Phoenix,.AZ.us
 KTXA-TV.Dallas,.TX.us
-KTXA-TV.&quot;TXA-21&quot;..Dallas,.TX.us
 KTXA-TV.TXA-21.Dallas,.TX.us
 KUEN-DT2.Salt.Lake.City,.UT.us
 KUEN-TV.Salt.Lake.City,.UT.us

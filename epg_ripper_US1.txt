@@ -1,4 +1,4 @@
-202102100059
+202102110047
 
 
 -- epg_ripper_US1 --
@@ -33,6 +33,7 @@ A.Wealth.of.Entertainment.HDTV.(AWEHD).us
 AXSTV.HD.(AXSTV).us
 Azteca.America.Network.(East).(AZTECA).us
 BabyFirst.Americas.(BABY).us
+Baby.TV.(BABYT).us
 Baby.TV.(Latin.America).(BABYTV).us
 Bandamax.(U.S.).(BANDA).us
 BANG.U.(COEDS).us
@@ -292,6 +293,7 @@ KBS.World.24.(KBSW24).us
 KBS.World.(KBS-W).us
 KBYU.Brigham.Young.University.TV.(BYUTV).us
 KDOC.This.TV.(KDOCDT6).us
+LAW.AND.CRIME.us
 Lifetime.Movies.HDTV.(East).(LIFEMOV).us
 Lifetime.Television.HDTV.(East).(LIFEH).us
 Link.TV.(LINK).us
@@ -350,6 +352,12 @@ NBC.Sports.Network.HDTV.(NBCSN).us
 NBC.Sports.Washington.HDTV.24/7.(NBCSWAHD).us
 New.England.Sports.Network.HDTV.(NESNHD).us
 New.England.Sports.Network.Plus.HDTV.(NESN+).us
+News.12.Bronx.HDTV.(NEWS12).[12].us
+News.12.Brooklyn.HDTV.(NEWS12).[12].us
+News.12.Connecticut.(CT12).[19].us
+News.12+.Connecticut.HDTV.(NEWS12+CHD).[61].us
+News.12.New.Jersey.(NEWS12).[62].us
+News.12+.New.York.City.HDTV.(NEWS12+NY).[61].us
 New.Shopping.Service.(NEWSHP).us
 Newsmax.(NEWSM).us
 NFL.RedZone.HDTV.(NFLRZD).us

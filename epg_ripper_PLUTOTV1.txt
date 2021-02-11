@@ -1,4 +1,4 @@
-202102100059
+202102110047
 
 
 -- epg_ripper_PLUTOTV1 --
@@ -24,6 +24,7 @@ BET.Her.us
 BET.Pluto.TV.us
 Big.Sky.Conference.us
 Black.Cinema.us
+Black.News.Channel(BNC).us
 Blaze.Live.us
 Bloomberg.TV.us
 British.TV.us

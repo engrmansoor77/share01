@@ -1,4 +1,4 @@
-202102110047
+202102120058
 
 
 -- epg_ripper_US1 --
@@ -90,6 +90,7 @@ Cinemax.(West).(MAX).us
 Cine.Mexicano.(CINE).us
 Cine.Nostalgia.Mexico.(CINO).us
 Cine.Sony.Television.(CSONY).us
+CLEO.HDTV.(ElRey).us
 CMT.HDTV.(East).(CMTHD).us
 CNEWS.HDTV.(CNWSHD).us
 Comcast.SportsNet.Mid-Atlantic.HDTV.(ACC.Overflow).(ACCHD).us
@@ -126,7 +127,6 @@ Ecuador.TV.International.(ECTV).us
 Ecuavisa.Internacional.(ECUAV).us
 E!.Entertainment.Television.HDTV.(East).(E!.HD).us
 Eleven.Sports.Network.(ESN).us
-El.Rey.Network.HDTV.(ElRey).us
 El.Sembrador.Nueva.Evangelización.TV.(ESNE).us
 EPIX2.HDTV.(East).(EPIXHD).us
 EPIX.HDTV.(East).(EPIXHD).us

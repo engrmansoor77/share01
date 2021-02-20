@@ -1,4 +1,4 @@
-202102190614
+202102200217
 
 
 -- epg_ripper_BR1 --
@@ -107,6 +107,8 @@ HBO.Signature.HD.br
 HBO.Xtreme.HD.br
 HGTV.HD.br
 History.2.br
+History.2.HD./.H2.HD.br
+History.br
 History.HD.br
 ID.HD.br
 Lifetime.HD.br

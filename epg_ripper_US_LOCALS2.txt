@@ -1,4 +1,4 @@
-202102250126
+202102260139
 
 
 -- epg_ripper_US_LOCALS2 --
@@ -1390,6 +1390,7 @@ FNX.(KVCR-DT2).San.Bernardino,.CA.us
 FNX.(WNDT-CD).Manhattan,.NY.us
 FNX.(WNEO-DT3).Alliance,.OH.us
 FNX.(WYCC).Chicago,.IL.us
+Folk.TV.us
 Fox.10.Extra.(K28CW-D).Flagstaff,.AZ.us
 Fox.10.Extra.(KUTP).Phoenix,.AZ.us
 Fox.12.Plus.(K44JP-DT2).Cottage.Grove,.OR.us
@@ -2038,6 +2039,8 @@ MHz.Worldview.(WNVC-DT1).Fairfax,.VA.us
 MHz.Worldview.(WNVT).Washington,.DC.us
 Milenio.(KHLM-LD7).Houston,.TX.us
 Milenio.(KSDY).San.Diega,.CA.us
+Military.History.us
+MLB.Network.Strike.Zone.us
 MN.Channel.(KAWB-DT6).Brainerd,.MN.us
 MN.Channel.(KAWE-DT6).Bemidji,.MN.us
 MN.Channel.(KBME-TV3).Bismark,.ND.us

@@ -1,4 +1,4 @@
-202102270144
+202102280128
 
 
 -- epg_ripper_US_LOCALS2 --
@@ -2586,6 +2586,7 @@ NewsMax.TV.(WDSF-DT5).Montgomery,.AL.us
 NewsMax.TV.(WHEH-LD6).Lumberton,.NC.us
 Newsmax.TV.(WNCB-LD4).Raleigh,.NC.us
 NewsMax.TV.(WROB-DT5).Topeka,.KS.us
+Newsnet.us
 New.Tang.Dynasty.TV.(KCNS-DT5).San.Francisco,.CA.us
 New.Tang.Dynasty.TV.(KXLA-DT7).Los.Angeles,.CA.us
 New.Tang.Dynasty.TV.(KYAZ-DT4).Katy,.TX.us

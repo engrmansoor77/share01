@@ -1,4 +1,4 @@
-202103010129
+202103020112
 
 
 -- epg_ripper_US_LOCALS2 --
@@ -891,6 +891,7 @@ Circle.TV.us
 CITY-DT-3.Ottawa,.ON.us
 CKVU-DT-2.Victoria,.BC.us
 Classic.Arts.Showcase.(KKSU-LD).Manhattan,.KS.us
+CLEO.TV.us
 CMC-TV.(K03HY-D10).Chico,.CA.us
 CMC-TV.(KFTL-CD3).San.Francisco,.CA.us
 CMC-TV.(KFTY-LD10).Middletown,.CA.us

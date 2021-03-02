@@ -1,4 +1,4 @@
-202103010129
+202103020112
 
 
 -- epg_ripper_US1 --
@@ -90,7 +90,6 @@ Cinemax.(West).(MAX).us
 Cine.Mexicano.(CINE).us
 Cine.Nostalgia.Mexico.(CINO).us
 Cine.Sony.Television.(CSONY).us
-CLEO.HDTV.(ElRey).us
 CMT.HDTV.(East).(CMTHD).us
 CNEWS.HDTV.(CNWSHD).us
 Comcast.SportsNet.Mid-Atlantic.HDTV.(ACC.Overflow).(ACCHD).us
@@ -349,15 +348,19 @@ NBC.Sports.Chicago.HDTV.(NBCSCHHD).us
 NBC.Sports.Chicago.Plus.Full.Time.HDTV.(NBCSCH+H).us
 NBC.Sports.Network.Alternate.HDTV.DirecTV.(NBCSAHD).us
 NBC.Sports.Network.HDTV.(NBCSN).us
+NBC.Sports.Northwest.(NBCSNW).us
+NBC.Sports.Philadelphia.(CSN).us
+NBC.Sports.Philadelphia.Plus.(NBCSPA+).us
 NBC.Sports.Washington.HDTV.24/7.(NBCSWAHD).us
+NBC.Sports.Washington.Plus.(NBCSWA+).us
 New.England.Sports.Network.HDTV.(NESNHD).us
 New.England.Sports.Network.Plus.HDTV.(NESN+).us
-News.12.Bronx.HDTV.(NEWS12).[12].us
-News.12.Brooklyn.HDTV.(NEWS12).[12].us
-News.12.Connecticut.(CT12).[19].us
-News.12+.Connecticut.HDTV.(NEWS12+CHD).[61].us
-News.12.New.Jersey.(NEWS12).[62].us
-News.12+.New.York.City.HDTV.(NEWS12+NY).[61].us
+News.12.Bronx.HDTV.(NEWS12).us
+News.12.Brooklyn.HDTV.(NEWS12).us
+News.12.Connecticut.(CT12).us
+News.12+.Connecticut.HDTV.(NEWS12+CHD).us
+News.12.New.Jersey.(NEWS12).us
+News.12+.New.York.City.HDTV.(NEWS12+NY).us
 New.Shopping.Service.(NEWSHP).us
 Newsmax.(NEWSM).us
 NFL.RedZone.HDTV.(NFLRZD).us
@@ -374,6 +377,7 @@ Nuestra.Tele.Noticias.24.(NTN24).us
 Olympic.Channel.HDTV.(OLYHD).us
 One.America.News.Network.HDTV.(East).(OANHD).us
 Outdoor.Channel.HDTV.(OUTHD).us
+Outside.Television.(National).(OUTSD).us
 Ovation.Arts.Network.HDTV.(OVTNHD).us
 Oxygen.HDTV.(OXYHD).us
 Paid.Programming.(PAID).us

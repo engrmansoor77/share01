@@ -1,4 +1,4 @@
-202103022324
+202103040056
 
 
 -- epg_ripper_US_LOCALS2 --
@@ -720,6 +720,7 @@ CBS.(KWTX).Waco,.TX.us
 CBS.(KXGN).Glendive,.MT.us
 CBS.(KXII).Sherman,.TX.us
 CBS.(KXIP).Paris,.TX.us
+CBS.(KXJB).Fargo,.ND.us
 CBS.(KXLF).Butte,.MT.us
 CBS.(KXLH).Helena,.MT.us
 CBS.(KXLJ-LD).Juneau,.AK.us

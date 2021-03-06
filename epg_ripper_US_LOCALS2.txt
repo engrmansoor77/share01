@@ -1,4 +1,4 @@
-202103050122
+202103052326
 
 
 -- epg_ripper_US_LOCALS2 --
@@ -2413,7 +2413,7 @@ NBC.(KVEO).Brownsville,.TX.us
 NBC.(KVLY).Fargo,.ND.us
 NBC.(KVOA).Tucson,.AZ.us
 NBC.(KWAB).&quot;NewsWest.9&quot;.Big.Spring,.TX.us
-NBC.(KWES).&quot;NewsWest.9&quot;.Midland,.TX.us
+NBC.(KWES).NewsWest.9.Midland.Odessa,.TX.us
 NBC.(KWQC).Quad.Cities,.IA.us
 NBC.(KWWL).Waterloo,.IA.us
 NBC.(KWYM-LP).Laramie,.WY.us

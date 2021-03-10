@@ -1,4 +1,4 @@
-202103082325
+202103092322
 
 
 -- epg_ripper_US_LOCALS2 --
@@ -2507,6 +2507,7 @@ NBC.(WMGT).Macon,.GA.us
 NBC.(WMTV).Madison,.WI.us
 NBC.(WNBC).New.York,.NY.us
 NBC.(WNBD-LP).Grenada,.MS.us
+NBC.(WNBJ-LD).Jackson,.TN.us
 NBC.(WNBW-DT).Gainesville,.FL.us
 NBC.(WNDU).South.Bend,.IN.us
 NBC.(WNKY).Bowling.Green,.KY.us

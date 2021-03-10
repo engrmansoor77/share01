@@ -1,4 +1,4 @@
-202103082325
+202103092322
 
 
 -- epg_ripper_US1 --
@@ -292,6 +292,7 @@ KBS.World.24.(KBSW24).us
 KBS.World.(KBS-W).us
 KBYU.Brigham.Young.University.TV.(BYUTV).us
 KDOC.This.TV.(KDOCDT6).us
+Kids.Street.(KIDST).us
 LAW.AND.CRIME.us
 Lifetime.Movies.HDTV.(East).(LIFEMOV).us
 Lifetime.Television.HDTV.(East).(LIFEH).us
@@ -422,6 +423,10 @@ SBS.International.HDTV.(SBSHD).us
 SBS.Plus.(SBSP).us
 Science.HDTV.(SCIHD).us
 Scientology.Network.HDTV.(SciNtw).us
+ScreenPix.Action.SD.(SPXAS).us
+ScreenPix.SD.(SCPXS).us
+ScreenPix.Voices.SD.(SPXVS).us
+ScreenPix.Westerns.HDTV.(SPXWSHD).us
 SEC.Network.HDTV.(SEC-A).us
 SEC.Network.HDTV.(SECN).us
 ShopHQ.(ShopHQ).us
@@ -452,7 +457,9 @@ STARZ.ENCORE.Español.(STZES).us
 STARZ.ENCORE.Family.(East).(STZFM).us
 STARZ.ENCORE.HD.(East).(STZEH).us
 STARZ.ENCORE.Suspense.(East).(STZSU).us
+STARZ.ENCORE.Suspense.(West).(STZSw).us
 STARZ.ENCORE.Westerns.(East).(STZWS).us
+STARZ.ENCORE.Westerns.(West).(STZWw).us
 STARZ.ENCORE.(West).(SZEN).us
 STARZ.HD.(East).(STZHD).us
 STARZ.HD.(West).(SZHDw).us

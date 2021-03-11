@@ -1,8 +1,9 @@
-202103092322
+202103102323
 
 
 -- epg_ripper_US1 --
 
+5StarMAX.HD.us
 88.Films.DirecTV.(88FLM).us
 88.TV.DirecTV.(88TV).us
 A.and.E.Network.HDTV.(AandEHD).us
@@ -127,6 +128,7 @@ Ecuavisa.Internacional.(ECUAV).us
 E!.Entertainment.Television.HDTV.(East).(E!.HD).us
 Eleven.Sports.Network.(ESN).us
 El.Sembrador.Nueva.Evangelización.TV.(ESNE).us
+EPDVNHD.Epix.Drive-in.HD.us
 EPIX2.HDTV.(East).(EPIXHD).us
 EPIX.HDTV.(East).(EPIXHD).us
 EPIX.HITS.HDTV.(EPIXHIT).us
@@ -376,6 +378,7 @@ Nippon.TV.HDTV.(Nippon).us
 NTV.America.(NTVA).us
 Nuestra.Tele.Noticias.24.(NTN24).us
 Olympic.Channel.HDTV.(OLYHD).us
+OMAXHD.OuterMAX.HD.us
 One.America.News.Network.HDTV.(East).(OANHD).us
 Outdoor.Channel.HDTV.(OUTHD).us
 Outside.Television.(National).(OUTSD).us
@@ -434,6 +437,7 @@ Shop.LC.(SHOPLC).us
 ShortsTV.HDTV.(SHRTHD).us
 Showtime.2.HDTV.(East).(SHO2HD).us
 Showtime.Extreme.HDTV.(East).(SHOXHD).us
+Showtime.FamilyZone.(East).(SHOFe).us
 Showtime.HDTV.(East).(SHOHD).us
 Showtime.HDTV.(West).(SHOHD).us
 Showtime.Next.East.HDTV.(East).(SHOND).us

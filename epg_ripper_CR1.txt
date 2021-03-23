@@ -1,4 +1,4 @@
-202103220022
+202103230026
 
 
 -- epg_ripper_CR1 --
@@ -255,7 +255,7 @@ Stingray:.Brazil.Rock.&amp;.Pop.(SMESP)..cr
 Stingray:.Chicos.(SMESP)..cr
 Stingray:.Clásica.(SMESP)..cr
 Stingray:.Clásicos.del.Dance.(SMESP)..cr
-Stingray:.Clásicos.del.Rock.&apos;n&apos;.Roll.(SMESP)..cr
+Stingray:.Clásicos.del.Rock.n.Roll.(SMESP)..cr
 Stingray:.El.Salón.Chill.(SMESP)..cr
 Stingray:.Estándares.(SMESP)..cr
 Stingray:.Euro.Hits.(SMESP)..cr

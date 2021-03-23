@@ -1,4 +1,4 @@
-202103220022
+202103230026
 
 
 -- epg_ripper_DO1 --
@@ -212,7 +212,7 @@ Stingray:.Big.Band.(SMESP)..do
 Stingray:.Blues.(SMESP)..do
 Stingray:.Clásica.(SMESP)..do
 Stingray:.Clásicos.del.Dance.(SMESP)..do
-Stingray:.Clásicos.del.Rock.&apos;n&apos;.Roll.(SMESP)..do
+Stingray:.Clásicos.del.Rock.n.Roll.(SMESP)..do
 Stingray:.Cocktail.Lounge.(SMESP)..do
 Stingray:.El.Salón.Chill.(SMESP)..do
 Stingray:.Estándares.(SMESP)..do

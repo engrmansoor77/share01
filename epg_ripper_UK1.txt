@@ -1,4 +1,4 @@
-202103220023
+202103230026
 
 
 -- epg_ripper_UK1 --
@@ -263,7 +263,7 @@ Inspiration.TV.uk
 iON.TV.uk
 IQRA.BANGLA.uk
 IQRA.TV.uk
-Iran.Int&apos;l.HD.uk
+Iran.Intl.HD.uk
 Islam.Channel.uk
 Islam.Ch.Urdu.uk
 Islam.TV.uk
@@ -425,8 +425,8 @@ SkySpCricketHD.uk
 SkySp.Cricket.uk
 SkySp.F1.HD.uk
 SkySp.F1.uk
-SkySp.F&apos;ball.HD.uk
-SkySp.F&apos;ball.uk
+SkySp.Fball.HD.uk
+SkySp.Fball.uk
 SkySp.Golf.HD.uk
 Sky.Sp.Golf.uk
 SkySpMainEvHD.uk

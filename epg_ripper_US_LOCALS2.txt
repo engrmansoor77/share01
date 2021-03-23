@@ -1,4 +1,4 @@
-202103220023
+202103230026
 
 
 -- epg_ripper_US_LOCALS2 --
@@ -91,7 +91,7 @@ ABC.(KMGH).Denver,.CO.HD.us
 ABC.(KMGH).Denver,.CO.us
 ABC.(KMID).Midland,.TX.us
 ABC.(KMIZ).Columbia,.MO.us
-ABC.(KMNZ-LD).Coeur.D&apos;Alene,.ID.us
+ABC.(KMNZ-LD).Coeur.DAlene,.ID.us
 ABC.(KNEP).Scottsbluff,.NE.us
 ABC.(KNOE-DT2).Columbia,.LA.us
 ABC.(KNXV).Phoenix,.AZ.us
@@ -195,7 +195,7 @@ ABC.(WCTI).New.Bern,.NC.us
 ABC.(WCVB).Boston,.MA.us
 ABC.(WDAM-DT2).Laurel,.MS.us
 ABC.(WDAY).Fargo,.ND.us
-ABC.(WDAZ).Devil&apos;s.Lake,.ND.us
+ABC.(WDAZ).Devils.Lake,.ND.us
 ABC.(WDBB-DT2).Bessemer,.AL.us
 ABC.(WDHN).Dothan,.AL.us
 ABC.(WDIO).Duluth,.MN.us
@@ -1233,7 +1233,7 @@ CW.(WTTO).Birmingham,.AL.us
 CW.(WTVG-DT2).Toledo,.OH.us
 CW.(WTVW).Evansville,.IN.us
 CW.(WTVX).West.Palm.Beach,.FL.us
-CW.(WTVY-DT3.&apos;ETVY&apos;).Dothan,.AL.us
+CW.(WTVY-DT3.ETVY).Dothan,.AL.us
 CW.(WTXX).Hartford,.CT.HD.us
 CW.(WUAB).Cleveland,.OH.us
 CW.(WUCW).St..Paul,.MN.us
@@ -1307,7 +1307,7 @@ Estrella.(KOAT-TV2).Albuquerque,.NM.us
 Estrella.(KOCY-LP).Oklahoma.City,.OK.us
 Estrella.(KPEJ-DT2).Midland,.TX.us
 Estrella.(KQCA-DT3).Sacramento,.CA.us
-Estrella.(KRCA-DT3.&apos;62.3&apos;).Los.Angeles,.CA.us
+Estrella.(KRCA-DT3.62.3).Los.Angeles,.CA.us
 Estrella.(KRCA).Los.Angeles,.CA.us
 Estrella.(KRET-DT3).Palm.Springs,.CA.us
 Estrella.(KRMF).Reno,.NV.us
@@ -1801,7 +1801,7 @@ Intrigue.TV.(W25DY).Monticello,.NY.us
 ION.Plus.TV.East.us
 ION.Shop.TV.Central.us
 ION.TV.East.us
-Iowa&apos;s.Weather.Channel.(WHO-DT2).Des.Moines,.IA.us
+Iowas.Weather.Channel.(WHO-DT2).Des.Moines,.IA.us
 Jazz.TV.(KCSM-DT6).San.Mateo,.CA.us
 Jewelry.Television.(K29IP).Corpus.Christi,.TX.us
 Jewelry.Television.(K34EU).Morongo.Valley,.CA.us
@@ -1980,7 +1980,7 @@ LA-18.8.(KUAN-LD8).Poway,.Etc.,.CA.us
 Laff.TV.us
 LATV.Latino.Alternative.TV.us
 Learn.(KAID-DT3).Boise,.ID.us
-Learn.(KCDT-DT3).Coeur.D&apos;Alene,.ID.us
+Learn.(KCDT-DT3).Coeur.DAlene,.ID.us
 Learn.(KIPT-DT3).Idaho.Falls,.ID.us
 Learn.(KISU-DT3).Pocatello,.ID.us
 Learn.(KUID-DT3).Moscow,.ID.us
@@ -2155,7 +2155,7 @@ MNT.(KZTC).San.Diego,.CA.us
 MNT.(KZVU).Chico,.CA.us
 MNT/MeTV.(WFOX-DT2).Jacksonville,.FL.us
 MNT/This.(WSYX-DT2).Columbius,.OH.us
-MNT.(W47CK).&apos;WMYW&apos;.Shallotte,.NC.us
+MNT.(W47CK).WMYW.Shallotte,.NC.us
 MNT.(WABM).Birmingham,.AL.us
 MNT.(WACY).Green.Bay,.WI.us
 MNT.(WAFB-DT4).Baton.Rouge,.La.us
@@ -2177,7 +2177,7 @@ MNT.(WDKA).Paducah,.KY.us
 MNT.(WEBU-LP).Webb,.MS.us
 MNT.(WECP-DT2).Panama.City,.FL.us
 MNT.(WFGX).Fort.Walton,.FL.us
-MNT.(WFLI-DT2.&apos;EDSI&apos;).Chattanooga,.TN.us
+MNT.(WFLI-DT2.EDSI).Chattanooga,.TN.us
 MNT.(WGFL-TV2).Gainesville,.FL.us
 MNT.(WHP-DT2).Harrisburg,.PA.us
 MNT.(WHVL).Johnstown,.PA.us
@@ -2226,7 +2226,7 @@ MNT.(WTRF-DT2).Wheeling,.WV.us
 MNT.(WTTA).Tampa.Bay,.FL.us
 MNT.(WTVO-DT2).Rockford,.IL.us
 MNT.(WTVX-DT3).West.Palm.Beach,.FL.us
-MNT.(WTVY-DT2.&apos;GTVY&apos;).Dothan,.AL.us
+MNT.(WTVY-DT2.GTVY).Dothan,.AL.us
 MNT.(WTVZ).Hampton.Roads,.VA.us
 MNT.(WUPL).Metairie,.LA.us
 MNT.(WUTB).Baltimore,.MD.us
@@ -2823,7 +2823,7 @@ PBS.(KBME).Bismarck,.ND.HD.us
 PBS.(KBME).Bismarck,.ND.us
 PBS.(KBTC).Tacoma,.WA.us
 PBS.(KBYU).Provo,.UT.us
-PBS.(KCDT).Coeur.D&apos;Alene,.ID.us
+PBS.(KCDT).Coeur.DAlene,.ID.us
 PBS.(KCGE-DT).Crookston,.MN.us
 PBS.(KCKA).Centralia,.WA.us
 PBS.(KCOS).El.Paso,.TX.us
@@ -2971,7 +2971,7 @@ PBS.Plus.(KAID-DT2).Boise,.ID.us
 PBS.Plus.(KAWB-DT5).Brainerd,.MN.us
 PBS.Plus.(KAWE-DT5).Bemidji,.MN.us
 PBS.Plus.(KBAB-LD2).Santa.Barbara,.CA.us
-PBS.Plus.(KCDT-DT2).Coeur.D&apos;Alene,.ID.us
+PBS.Plus.(KCDT-DT2).Coeur.DAlene,.ID.us
 PBS.Plus.(KIPT-DT2).Idaho.Falls,.ID.us
 PBS.Plus.(KISU-TV2).Pocatello,.ID.us
 PBS.Plus.(KQED2).San.Jose,.CA.us
@@ -3975,7 +3975,7 @@ WTJR.Quincy,.IL.us
 WTLW.-.Lima,.OH.us
 WTSD-CA.Philadelphia,.PA.us
 WTTK-DT2.Kokomo,.IN.us
-WTTV-DT2.¨Indiana&apos;s.4.2¨.Bloomington,.IN.us
+WTTV-DT2.Indianas.4.2.Bloomington,.IN.us
 WTVE-DT2.Reading,.PA.us
 WTVE-DT3.Reading,.PA.us
 WTVE.-.Reading,.PA.us

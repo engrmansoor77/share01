@@ -1,4 +1,4 @@
-202103220023
+202103230026
 
 
 -- epg_ripper_US1 --
@@ -15,8 +15,8 @@ Adult.All.Access.Pass.(BUY6).us
 Altitude.Sports.and.Entertainment.Alternate.(ALT2).us
 Altitude.Sports.and.Entertainment.HDTV.(ALTHD).us
 AMC.HDTV.(East).(AMCHD).us
-America&apos;s.Value.Channel.(AVC).us
 American.Heroes.Channel.HDTV.(AHCHD).us
+Americas.Value.Channel.(AVC).us
 ANC.(ANC).us
 Animal.Planet.HDTV.(East).(APHD).us
 Antena.3.(Mexico).(ANTENA.3).us
@@ -378,9 +378,10 @@ Nippon.TV.HDTV.(Nippon).us
 NTV.America.(NTVA).us
 Nuestra.Tele.Noticias.24.(NTN24).us
 Olympic.Channel.HDTV.(OLYHD).us
-OMAXHD.OuterMAX.HD.us
 One.America.News.Network.HDTV.(East).(OANHD).us
 Outdoor.Channel.HDTV.(OUTHD).us
+OuterMax.east.us
+OuterMax.west.us
 Outside.Television.(National).(OUTSD).us
 Ovation.Arts.Network.HDTV.(OVTNHD).us
 Oxygen.HDTV.(OXYHD).us
@@ -546,7 +547,7 @@ Vme.(V-Me).us
 Vremya.(VREM).us
 WAPA.América.(WAPA).us
 WGN.America.HDTV.(WGNA).us
-Women&apos;s.Entertainment.HDTV.(East).(WE.HD).us
+Womens.Entertainment.HDTV.(East).(WE.HD).us
 World.Cup.Cricket.DirecTV.(DTV).us
 World.Harvest.Television.(WHT).us
 WOW.TV.(WOW).us

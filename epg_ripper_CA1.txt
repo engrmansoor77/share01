@@ -1,4 +1,4 @@
-202103220022
+202103230026
 
 
 -- epg_ripper_CA1 --
@@ -318,8 +318,8 @@ Hunan.Satellite.TV.(HTV).(Chinese-Mandarin).(HUNAN).ca
 Hustler.On.Demand.(Canada).(HTOD).ca
 ICI.ARTV.HDTV.(ICIARTV).ca
 ICI.ARTV.(ICIARTV).ca
-ICI.Réseau.de.l&apos;Information.HDTV.(ICIRDIHD).ca
-ICI.Réseau.de.l&apos;Information.(ICIRDI).ca
+ICI.Réseau.de.lInformation.HDTV.(ICIRDIHD).ca
+ICI.Réseau.de.lInformation.(ICIRDI).ca
 India.Today.(HT).ca
 Investigation.Discovery.(Canada).(ID).ca
 iTVN.(Chicago).(ITVN).ca
@@ -447,7 +447,7 @@ ProSiebenSat.1.(PROSIEBN).ca
 PTC.Punjabi.(PTCTV).ca
 Q107.Toronto.(Q107).ca
 Radio.Channel.(RADIO).ca
-Radiotelevisão.Portuguesa.Int&apos;l.(RTP).ca
+Radiotelevisão.Portuguesa.Intl.(RTP).ca
 Rai.Italia.Nord.America.(RAI).ca
 RaiNews.24.(RAINEW).ca
 RAI.World.Premium.(RAIWP).ca
@@ -561,7 +561,7 @@ STARZ.2.HDTV.(EAST).(STZ2H).ca
 STARZ.On.Demand.(STRZO).ca
 Stingray.Festival.4K.HD.(Canada).(SFE4KHD).ca
 Stingray.JUICEBOX.(STGJUI).ca
-Stingray.Kids&apos;.Stuff.(SM029).ca
+Stingray.Kids.Stuff.(SM029).ca
 Stingray.Latino.Urbano.(SM054).ca
 Stingray.LOUD.(STGLOU).ca
 Stingray.RETRO.(STGRET).ca
@@ -627,7 +627,7 @@ The.Sports.Network.5.HDTV.(TSN5HD).ca
 The.Sports.Network.HDTV.(TSNHD).ca
 The.Weather.Network.(National).HDTV.(WNHD).ca
 The.Weather.Network.(WN).ca
-Today&apos;s.Shopping.Choice.(TSC).ca
+Todays.Shopping.Choice.(TSC).ca
 Too.Much.For.TV.On.Demand.(TMOD).ca
 Travelxp.Canada.(TRAXP).ca
 Treehouse.On.Demand.(TREEHOD).ca

@@ -1,4 +1,4 @@
-202103220022
+202103230026
 
 
 -- epg_ripper_AR1 --
@@ -205,7 +205,7 @@ Radio.Del.Plata.AM.1030.(AMDP).ar
 Radio.Disney.(XM.Satellite.Radio).(XM).ar
 Radio.France.International.1.(RFI1).ar
 Radio.(RADIO).ar
-Radiotelevisão.Portuguesa.Int&apos;l.(RTP).ar
+Radiotelevisão.Portuguesa.Intl.(RTP).ar
 Rai.Italia.Nord.America.(RAI).ar
 RCN.Nuestra.Tele.(NUETELE).ar
 Smithsonian.Channel.HDTV.(Latin.America).(SMITHHD).ar

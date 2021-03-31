@@ -1,4 +1,4 @@
-202103300017
+202103310021
 
 
 -- epg_ripper_MY1 --
@@ -17,7 +17,6 @@ Animal.Planet.my
 Animax.my
 Arabic.Radio.and.TV.Variety.my
 Asian.Food.Network.HD.my
-Asian.Food.Network.my
 Astro.AEC.HD.my
 Astro.AEC.my
 Astro.Arena.HD.my
@@ -97,7 +96,6 @@ Astro.Xiao.Tai.Yang.HD.my
 Astro.Xiao.Tai.Yang.my
 ASYIK.FM.my
 AXN.HD.my
-AXN.my
 BabyTV.my
 BAYU.my
 BBC.World.News.HD.my
@@ -128,7 +126,6 @@ Colors.Hindi.HD.my
 Colors.Tamil.HD.my
 Comedy.Central.Asia.HD.my
 Crime.and.Investigation.HD.my
-Crime.and.Investigation.my
 CTI.Asia.my
 Discovery.Asia.HD.my
 Discovery.Channel.HD.my
@@ -140,7 +137,6 @@ Disney.Channel.my
 Disney.Junior.my
 Disney.XD.HD.my
 DMAX.HD.my
-DMAX.my
 eGG.Network.HD.my
 ERA.FM.my
 Eurosport.HD.my
@@ -219,7 +215,6 @@ SUN.TV.my
 THR.GEGAR.my
 THR.RAAGA.my
 TLC.HD.my
-TLC.my
 TRAXX.FM.my
 TV1.my
 TV2.my

@@ -1,4 +1,4 @@
-202104010023
+202104020023
 
 
 -- epg_ripper_CA1 --
@@ -118,18 +118,22 @@ Caribbean.Radio.(CARDO).ca
 Cartoon.Network.(Canada).(CN).ca
 CASA.(CASA).ca
 CBC.Calgary.(CBRT).ca
-CBC.Fredericton.HDTV.(CBAT).[400].ca
+CBC.Fredericton.HDTV.(CBAT).ca
 CBC.News.Network.(CBC.NN).ca
 CBC.News.Network.HDTV.(CBCNEWHD).ca
+CBC.North.(Yellowknife)/CFYK.(MTN).ca
+CBC.Regina.HDTV.(CBKT).ca
 CBC.Toronto.(CBLT).ca
 CBC.Toronto.HDTV.(CBLTHD).ca
 CBC.Vancouver.(CBUT).ca
 CBC.Vancouver.HDTV.(CBUTHD).ca
+CBHT.(CBC.Charlottetown).HDTV.(CBCT).ca
 CBHT.(CBHT).ca
 CBLA.Radio.(CBLA).ca
 CBLFT.ICI.Radio-Canada.HDTV.(Toronto).(IRCHD).ca
 CBLFT.ICI.Radio-Canada.(Toronto).(IRC).ca
 CBNT.(CBNT).ca
+CBOT.(CTV.Ottawa).HDTV.(CBOTHD).ca
 CCTV.Entertainment.(CCENT).ca
 CFJP.HDTV.(CFJP).ca
 CFNY.Radio.(CFNY).ca
@@ -200,8 +204,10 @@ CTV.DRAMA.Channel.SD.(DRMA).ca
 CTV.Kitchener.(CTVSO).ca
 CTV.LIFE.Channel.HDTV.(LIFE).ca
 CTV.LIFE.Channel.SD.(LIFES).ca
+CTV.Montreal.HDTV.(CTVHM).ca
 CTV.News.Channel.(CTVNC).ca
 CTV.News.Channel.HDTV.(CTVNC).ca
+CTV.Regina.HDTV.(CKCK).ca
 CTV.SCI-FI.Channel.HDTV.(SCIFI).ca
 CTV.SCI-FI.Channel.SD.(SCFI).ca
 CTV.Toronto.(CTVTO).ca
@@ -279,6 +285,7 @@ GameTV.(GTV).ca
 GEO.TV.(Canada).(GEO.TV).ca
 Global.BC.(CHAN).ca
 Global.BC.HDTV.(CHANHD).ca
+Global.BC.(Vancouver).(CHAN).ca
 Global.Calgary.(CICT).ca
 Global.Ontario/CIII.(GLOB).ca
 Global.Ontario/CIII.HDTV.(GLBHD).ca
@@ -411,7 +418,7 @@ NHL.Centre.Ice.(SPO30).ca
 NHL.Centre.Ice.(SSP).ca
 Nickelodeon.Canada.HDTV.(NICHD).ca
 Nickelodeon.Canada.(NICK).ca
-Noovo.Montreal.HD.(NVMT).[1102].ca
+Noovo.Montreal.HD.(NVMT).ca
 NTV.Bangla.(NTVB).ca
 Odyssey.(OTN1).(ODSY-C).ca
 Omni.1.HDTV.(OMNI1HD).ca

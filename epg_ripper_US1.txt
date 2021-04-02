@@ -1,4 +1,4 @@
-202104010024
+202104020023
 
 
 -- epg_ripper_US1 --
@@ -546,8 +546,8 @@ Vivid.TV.(VIVID).us
 Vme.(V-Me).us
 Vremya.(VREM).us
 WAPA.América.(WAPA).us
+WE.TV.HDTV.(East).(WE.HD).us
 WGN.America.HDTV.(WGNA).us
-Womens.Entertainment.HDTV.(East).(WE.HD).us
 World.Cup.Cricket.DirecTV.(DTV).us
 World.Harvest.Television.(WHT).us
 WOW.TV.(WOW).us

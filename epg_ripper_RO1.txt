@@ -1,4 +1,4 @@
-202104080023
+202104090024
 
 
 -- epg_ripper_RO1 --
@@ -122,6 +122,7 @@ Kanal.D.ro
 KIKA.ro
 Kiss.TV.ro
 Litoral.TV.ro
+Look.4K.ro
 LOOK.SPORT.2.ro
 LOOK.SPORT.3.ro
 LOOK.SPORT.+.ro

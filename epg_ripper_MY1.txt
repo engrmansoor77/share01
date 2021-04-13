@@ -1,4 +1,4 @@
-202104120019
+202104130024
 
 
 -- epg_ripper_MY1 --
@@ -170,7 +170,6 @@ History.HD.my
 History.my
 HITS.HD.my
 HITS.Movies.HD.my
-HITZ.FM.my
 INDIA.BEAT.my
 iQIYI.HD.my
 JAZZ.my

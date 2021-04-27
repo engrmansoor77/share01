@@ -1,4 +1,4 @@
-202104260026
+202104270025
 
 
 -- epg_ripper_US1 --
@@ -36,6 +36,7 @@ Azteca.America.Network.(East).(AZTECA).us
 BabyFirst.Americas.(BABY).us
 Baby.TV.(BABYT).us
 Baby.TV.(Latin.America).(BABYTV).us
+Bally.Sports.North.Plus.(BSNOR+).us
 Bandamax.(U.S.).(BANDA).us
 BANG.U.(COEDS).us
 BBC.America.HDTV.(East).(BBC).us
@@ -157,6 +158,9 @@ Flix.(East).(FLIXe).us
 FM.HDTV.(FM).us
 Food.Network.HDTV.(East).(FOODHD).us
 Foro.TV.(FOROTV).us
+Fox.(Bally).College.Sports.Atlantic.(FCSA).us
+Fox.(Bally).College.Sports.Central.(FCSC).us
+Fox.(Bally).College.Sports.Pacific.(FCS).us
 Fox.Business.Network.HDTV.(FBNHD).us
 Fox.College.Sports.Alternate.(FCS).us
 Fox.Deportes.en.Español.HDTV.(U.S.).(FXDEHD).us

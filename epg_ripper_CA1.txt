@@ -1,4 +1,4 @@
-202104260025
+202104270024
 
 
 -- epg_ripper_CA1 --
@@ -290,7 +290,8 @@ Global.Calgary.(CICT).ca
 Global.Ontario/CIII.(GLOB).ca
 Global.Ontario/CIII.HDTV.(GLBHD).ca
 Global.Quebec.HDTV.(Montreal).(GLBHD).ca
-Global.Saskatoon.HDTV.(Regina).(GLOBHD).ca
+Global.Regina.HDTV.(CFRE).ca
+Global.Saskatoon.HDTV.(GLOBHD).ca
 GMA.Life.TV.(GMAL).ca
 GMA.News.TV.(GNTV).ca
 GMA.Pinoy.TV.(East).(GMA).ca

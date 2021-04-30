@@ -1,4 +1,4 @@
-202104260025
+202104300021
 
 
 -- epg_ripper_BEIN1 --
@@ -11,15 +11,12 @@ Baraem_EN.bein
 BBC_earth_EN.bein
 beIN_SPORTS1_DIGITAL_EN.bein
 beIN_SPORTS1_ENGLISH_Digital_EN.bein
-beIN_SPORTS1_FRENCH_Digital_EN.bein
 beIN_SPORTS1_PREMIUM_Digital_EN.bein
 beIN_SPORTS2_DIGITAL_EN.bein
 beIN_SPORTS2_ENGLISH_Digital_EN.bein
-beIN_SPORTS2_FRENCH_Digital_EN.bein
 beIN_SPORTS2_PREMIUM_Digital_EN.bein
 beIN_SPORTS3_DIGITAL_EN.bein
 beIN_SPORTS3_ENGLISH_Digital_EN.bein
-beIN_SPORTS3_FRENCH_Digital_EN.bein
 beIN_SPORTS3_PREMIUM_Digital_EN.bein
 beIN_SPORTS4_DIGITAL_EN.bein
 beIN_SPORTS5_DIGITAL_EN.bein

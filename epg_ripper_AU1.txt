@@ -1,4 +1,4 @@
-202105030029
+202105040025
 
 
 -- epg_ripper_AU1 --
@@ -106,6 +106,7 @@ ABCNewsPerth.au.au
 ABCNewsSydney.au.au
 ABCPerth.au.au
 ABCSydney.au.au
+ABCTVPlusHobart.au.au
 ACC.au.au
 AlJazeera.au.au
 AnimalPlanet.au.au

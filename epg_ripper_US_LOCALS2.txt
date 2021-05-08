@@ -1,4 +1,4 @@
-202105070029
+202105080025
 
 
 -- epg_ripper_US_LOCALS2 --
@@ -1798,7 +1798,6 @@ Independent.(KAZT-TV).Prescott,.AZ.us
 Independent.(KWVG-LD).Malaga,.Ect,.WA.us
 Infomercials/Biz.TV.(WMDE).Dover,.Delaware.us
 Intrigue.TV.(W25DY).Monticello,.NY.us
-ION.Plus.TV.East.us
 ION.Shop.TV.Central.us
 ION.TV.East.us
 Iowas.Weather.Channel.(WHO-DT2).Des.Moines,.IA.us

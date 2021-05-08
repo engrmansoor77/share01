@@ -1,4 +1,4 @@
-202105070029
+202105080025
 
 
 -- epg_ripper_US1 --
@@ -370,6 +370,7 @@ News.12.New.Jersey.(NEWS12).us
 News.12+.New.York.City.HDTV.(NEWS12+NY).us
 New.Shopping.Service.(NEWSHP).us
 Newsmax.(NEWSM).us
+NewsNation.East.us
 NFL.RedZone.HDTV.(NFLRZD).us
 NFL.Sunday.Ticket.Offer.(NFL).us
 NHL.Network.Alternate.HDTV.(NHLaHD).us
@@ -449,6 +450,7 @@ Showtime.Next.East.HDTV.(East).(SHOND).us
 Showtime.Showcase.HDTV.(East).(SHOCHD).us
 Showtime.(West).(SHO).us
 Showtime.Women.HDTV.(East).(SHOWD).us
+ShoxBet.East.us
 Smithsonian.Channel.HDTV.(East).(SMITHHD).us
 SonLife.Network.HDTV.(SONL).us
 Sony.Movie.Channel.HD.(SONY).us
@@ -495,6 +497,7 @@ The.Discovery.Channel.en.Español.(DSCE).us
 The.Discovery.Channel.HDTV.(East).(DSCHD).us
 The.Disney.Channel.HDTV.(East).(DISHD).us
 The.Disney.Channel.(West).(DISN).us
+The.Fight.Network.(United.States).(TFN).us
 The.Filipino.Channel.(West).(TFC).us
 The.Golf.Channel.HDTV.(GLFHD).us
 The.History.Channel.en.Español.(HISTE).us

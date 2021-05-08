@@ -1,4 +1,4 @@
-202105070029
+202105080025
 
 
 -- epg_ripper_UK1 --
@@ -193,6 +193,7 @@ Disney.XD.HD.uk
 DMAX+1.uk
 DMAX.uk
 Drama+1.uk
+Drama.+1.uk
 Drama.uk
 Dunamis.TV.uk
 Dunya.News.uk
@@ -392,12 +393,14 @@ Sky.Action.uk
 Sky.Arts.HD.uk
 Sky.Atlantic+1.uk
 Sky.Atlantic.HD.uk
+Sky.Cinema.Animation.HD.uk
 Sky.Comedy.Cinema.uk
 Sky.Comedy.HD.uk
 Sky.Crime+1.uk
 Sky.Crime.HD.uk
 Sky.Disney.HD.uk
 Sky.Disney.uk
+Sky.Documentaries.HD.uk
 Sky.Drama.HD.uk
 Sky.Drama.uk
 Sky.Family.HD.uk

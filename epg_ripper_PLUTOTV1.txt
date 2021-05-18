@@ -1,4 +1,4 @@
-202105170029
+202105172354
 
 
 -- epg_ripper_PLUTOTV1 --
@@ -12,9 +12,9 @@ After.School.Cartoons.us
 AFV.TV.us
 All.Reality.by.WE.tv.us
 Amantes.del.romance.us
-America&apos;s.Test.Kitchen.us
-America&apos;s.Voice.News.us
 American.Gladiators.us
+Americas.Test.Kitchen.us
+Americas.Voice.News.us
 Anime.All.Day.us
 Antiques.Roadshow.UK.us
 Awesomeness.TV.us
@@ -120,7 +120,7 @@ Gameplay:.Sports.us
 Game.Show.Central.us
 GameSpot.us
 GLORY.Kickboxing.us
-Gordon.Ramsay&apos;s.Hell&apos;s.Kitchen.us
+Gordon.Ramsays.Hells.Kitchen.us
 grvty.us
 Happy.Days.us
 Hell&apos;s.Kitchen.en.español.us
@@ -156,7 +156,7 @@ MTV.Block.Party.us
 MTV.Dating.us
 MTV.Latino.us
 MTV.Pluto.TV.us
-MTV.Spankin&apos;.New.us
+MTV.Spankin.New.us
 Mundo.geek.us
 Mundo.paranormal.us
 Mundo.viajero.us
@@ -282,7 +282,7 @@ The.Price.Is.Right:.The.Barker.Era.us
 The.Rifleman.us
 The.Walking.Dead.en.español.us
 This.Old.House.us
-Three&apos;s.Company.us
+Threes.Company.us
 Tiny.House.Nation.us
 TODAY.us
 TokuSHOUTsu.us
@@ -296,7 +296,7 @@ TYT.Network.us
 Unsolved.Mysteries.2.us
 Unsolved.Mysteries.us
 Vevo.2K.us
-Vevo.&apos;70s.us
+Vevo.70s.us
 Vevo.&apos;80s.us
 Vevo.&apos;90s.us
 Vevo.Country.us
@@ -318,7 +318,7 @@ WatchFree.Teen.us
 WeatherNation.2.us
 WeatherNation.us
 Western.TV.us
-Wild.&apos;N.Out.us
+Wild.N.Out.us
 Wings.us
 Wipeout.us
 World.Poker.Tour.us

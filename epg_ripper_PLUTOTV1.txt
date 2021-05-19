@@ -1,4 +1,4 @@
-202105172354
+202105182342
 
 
 -- epg_ripper_PLUTOTV1 --
@@ -123,7 +123,7 @@ GLORY.Kickboxing.us
 Gordon.Ramsays.Hells.Kitchen.us
 grvty.us
 Happy.Days.us
-Hell&apos;s.Kitchen.en.español.us
+Hells.Kitchen.en.español.us
 Hillsong.Channel.us
 IGN.us
 IMPACT.Wrestling.us
@@ -297,12 +297,12 @@ Unsolved.Mysteries.2.us
 Unsolved.Mysteries.us
 Vevo.2K.us
 Vevo.70s.us
-Vevo.&apos;80s.us
-Vevo.&apos;90s.us
+Vevo.80s.us
+Vevo.90s.us
 Vevo.Country.us
 Vevo.Latino.us
 Vevo.Pop.us
-Vevo.Reggaetón.\u0026.Trap.us
+Vevo.Reggaeton.\u0026.Trap.us
 Vevo.R\u0026B.us
 VH1.Hip.Hop.Family.2.us
 VH1.Hip.Hop.Family.us

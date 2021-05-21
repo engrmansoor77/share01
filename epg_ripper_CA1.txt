@@ -1,4 +1,4 @@
-202105200031
+202105210031
 
 
 -- epg_ripper_CA1 --
@@ -366,6 +366,7 @@ Mega.Cosmos.(MEGA).ca
 Melody.Aflam.(AFLAM).ca
 Melody.Drama.(DRAMA).ca
 Melody.Hits.(HITS).ca
+Meteo.Media.(METMED).ca
 Météo.Média.(METMED).ca
 MLB.Network.HDTV.(Rogers.Canada.-.No.Jays).(MLBHD).ca
 MovieTime.HDTV.(MTMHD).ca

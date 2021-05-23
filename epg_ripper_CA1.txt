@@ -1,4 +1,4 @@
-202105210031
+202105230034
 
 
 -- epg_ripper_CA1 --
@@ -437,7 +437,7 @@ Outdoor.Life.Canada.(OLNSD).ca
 Out.TV.HDTV.(OUTHD).ca
 OUTtv.On.Demand.(OUTOD).ca
 Out.TV.(OUTtv).ca
-Paramount.Network.Canada.(East).(PAR).ca
+Paramount.Network.Canada.HDTV.(East).(PAR).ca
 Peachtree.TV.HDTV.(WPCHD).ca
 Peachtree.TV.(WPCH).ca
 Penthouse.PPV.(PENTP).ca

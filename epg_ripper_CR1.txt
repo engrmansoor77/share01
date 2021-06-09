@@ -1,4 +1,4 @@
-202106080035
+202106090036
 
 
 -- epg_ripper_CR1 --
@@ -352,8 +352,6 @@ TVE.Internacional.(North.&amp;.South.America).(TVE)..cr
 TV.Globo.Internacional.(LATAM.&amp;.United.States).(GLOBO)..cr
 TVN.Coopelesca.HDTV.(TVNCP)..cr
 TVN.Coopelesca.(TVNCOP)..cr
-TYC.Sports.HDTV.(TYCSPORTS)..cr
-TYC.Sports.(TYCSPORTS)..cr
 Universal.Channel.HDTV.(Latin.America).(UNIVSHD)..cr
 Universal.Channel.(Latin.America).(UNIVERS)..cr
 Universidad.de.Costa.Rica./.Canal.15.(UCR)..cr

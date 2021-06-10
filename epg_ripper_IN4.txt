@@ -1,4 +1,4 @@
-202106090036
+202106100038
 
 
 -- epg_ripper_IN4 --
@@ -363,7 +363,6 @@ Peace.of.Mind.in
 Peppers.TV.in
 Pet.And.Pal.in
 Pitaara.TV.in
-Planet.Fun.in
 Pogo.in
 Polimer.News.in
 Polimer.TV.in
@@ -382,7 +381,6 @@ Public.Movies.in
 Public.Music.in
 Public.TV.in
 Puthiya.Thalaimurai.in
-R9.TV.in
 Raj.Digital.Plus.in
 Raj.Musix.in
 Raj.Musix.Kannada.in
@@ -436,7 +434,6 @@ Showcase.HD4.in
 Showcase.in
 Shubhavaarta.TV.in
 Shubh.TV.in
-Siddhivinayak.Temple,.Mumbai.in
 Sirippoli.in
 Somnath.Temple.in
 Sonic.Nickelodeon.in
@@ -525,7 +522,6 @@ Sun.Music.in
 Sun.News.in
 Sun.TV.HD.in
 Sun.TV.in
-Surya.Bhojpuri.in
 Surya.Cinema.in
 Surya.Comedy.in
 Surya.HD.in
@@ -550,7 +546,6 @@ Tata.Sky.Aradhana.in
 Tata.Sky.Astro.Duniya.in
 Tata.Sky.Bangla.Cinema.in
 Tata.Sky.Beauty.in
-Tata.Sky.Bhojpuri.Sanima.in
 Tata.Sky.Bollywood.Premiere.HD.in
 Tata.Sky.Bollywood.Premiere.in
 Tata.Sky.Classic.Cinema.in
@@ -568,7 +563,6 @@ Tata.Sky.Fun.Learn.Preschool.in
 Tata.Sky.Gujarati.Cinema.in
 Tata.Sky.Hits.HD.in
 Tata.Sky.Hollywood.Local.in
-Tata.Sky.Ibaadat.in
 Tata.Sky.Javed.Akhtar.in
 Tata.Sky.Kannada.Cinema.in
 Tata.Sky.Malayalam.Cinema.in
@@ -580,7 +574,6 @@ Tata.Sky.Punjab.De.Rang.in
 Tata.Sky.Seniors.in
 Tata.Sky.Shoppe.in
 Tata.Sky.ShortsTV.in
-Tata.Sky.Show.Bizz.in
 Tata.Sky.Smart.Games.in
 Tata.Sky.Smart.Manager.in
 Tata.Sky.Tamil.Cinema.in
@@ -626,7 +619,6 @@ UTV.Bindass.in
 UTV.HD.in
 UTV.Movies.in
 V6.News.in
-Vanavil.Plus.in
 Vasanth.TV.in
 Vedic.in
 Vendhar.TV.in

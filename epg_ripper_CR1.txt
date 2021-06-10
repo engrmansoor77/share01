@@ -1,4 +1,4 @@
-202106090036
+202106100038
 
 
 -- epg_ripper_CR1 --
@@ -142,9 +142,9 @@ Fox.Sports.Latin.America.HDTV.(Cono.Norte).(FOXSPHD)..cr
 FUTV.(Costa.Rica).(FUTV)..cr
 FUTV.HDTV.(Costa.Rica).(FUTVHD)..cr
 FX.Latin.America.HDTV.(Colombia).(FXHD)..cr
-FX.Latin.America.(México).(FX)..cr
+FX.Latin.America.(México).(FX).[207].cr
 FX.Movies.HDTV.(Central).(FXMHD)..cr
-FX.Movies.(Mexico).(FXM)..cr
+FX.Movies.(Mexico).(FXM).cr
 Gamma.HDTV.(GAMMAHD)..cr
 GLITZ.Cono.Sur.(GLITZ)..cr
 GLITZ.Panregional.(Norte).(GLITZ)..cr

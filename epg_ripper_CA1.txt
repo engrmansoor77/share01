@@ -1,4 +1,4 @@
-202106090036
+202106100038
 
 
 -- epg_ripper_CA1 --
@@ -98,7 +98,6 @@ Black.Entertainment.Television.(Canada.East).(BET).ca
 Bloomberg.TV.(BTV).ca
 BNN.Business.News.Network.Bloomberg.(BNN).ca
 BNN.Business.News.Network.Bloomberg.HDTV.(BNNHD).ca
-Book.Television.(BOOKTV).ca
 Cable.News.Network.(CNN).ca
 Cable.News.Network.HDTV.(CNNHD).ca
 Cable.News.Network.International.(CNNI).ca
@@ -262,7 +261,6 @@ Family.Jr..(HD).(FJHD).ca
 Family.Jr..On.Demand.(FJROD).ca
 Family.Jr..(SD).(FAMJR).ca
 Family.On.Demand.(FOD).ca
-Fashion.Television.Canada.(FASHION).ca
 Festival.Portuguese.TV.(FPTV).ca
 FEVA.(FEVA).ca
 Fireplace.(SHAW).ca
@@ -276,9 +274,6 @@ FX.(Canada).(FX.SD).ca
 FX.HDTV.(Canada).(FX.HD).ca
 FXX.Canada.(FXX).ca
 FXX.HDTV.Canada.(FXXHD).ca
-FYI.Canada.(FYI).ca
-G4.TV.Canada.(G4).ca
-G4.TV.Canada.HDTV.(G4HD).ca
 GAME+.(FNTSY).ca
 GameTV.(GTV).ca
 GEO.TV.(Canada).(GEO.TV).ca
@@ -669,7 +664,6 @@ TVS.Guangdong.(GUAND).ca
 UNIS.TV.(UNIS).ca
 Univision.Canada.(UNICAN).ca
 Vertical.TV.(VRTCL).ca
-VICELAND.Canada.(East).(VICE).ca
 Viet.Global.Network.TV.(VGNTV).ca
 VIP.On.Demand.(VIPOD).ca
 Virgin.Radio.FM.99.9.(VR-FM).ca

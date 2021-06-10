@@ -1,4 +1,4 @@
-202106090036
+202106100038
 
 
 -- epg_ripper_IT1 --
@@ -36,7 +36,9 @@ DeAKids.+1.it
 DeAKids.it
 Deejay.TV.it
 Discovery.+1.it
+Discovery.HD.it
 Discovery.it
+Discovery.Sci.HD.it
 Discovery.Sci.it
 DMAX+1.it
 DMAX.HD.it
@@ -90,11 +92,13 @@ Milan.TV.it
 Motor.Trend.HD.it
 Motor.Trend.it
 MS.MOTORTV.it
+MTV.HD.it
 MTV.it
 MTV.Music.it
 NatGeo.Wild.+1.it
 NatGeo.Wild.HD.it
 NationalGeo.+1.it
+NationalGeo.HD.it
 NationalGeo.it
 NationalGeo.it
 Nickelodeon.+1.it
@@ -119,8 +123,10 @@ Premium.Energy.HD.it
 Premium.Energy.it
 Premium.Stories.HD.it
 Premium.Stories.it
+Primafila.10.HD.it
 Primafila.10.it
 Primafila.11.it
+Primafila.12.HD.it
 Primafila.12.it
 Primafila.13.it
 Primafila.14.it
@@ -128,13 +134,18 @@ Primafila.15.it
 Primafila.16.it
 Primafila.17.it
 Primafila.18.it
+Primafila.1.HD.it
 Primafila.1.it
+Primafila.2.HD.it
 Primafila.2.it
 Primafila.3.it
+Primafila.4.HD.it
 Primafila.4.it
 Primafila.5.it
+Primafila.6.HD.it
 Primafila.6.it
 Primafila.7.it
+Primafila.8.HD.it
 Primafila.8.it
 Primafila.9.it
 QVC.it
@@ -193,6 +204,14 @@ Sky.Sport.Arena.it
 Sky.Sport.Collection.HD.it
 Sky.Sport.F1.HD.it
 Sky.Sport.Football.HD.it
+Sky.Sport.HD.it
+Sky.Sport.HD.it
+Sky.Sport.HD.it
+Sky.Sport.HD.it
+Sky.Sport.HD.it
+Sky.Sport.HD.it
+Sky.Sport.HD.it
+Sky.Sport.HD.it
 Sky.Sport.it
 Sky.Sport.it
 Sky.Sport.it
@@ -215,6 +234,7 @@ Sky.Sport.Serie.A.it
 Sky.Sport.Uno.HD.it
 Sky.Sport.Uno.it
 Sky.Sport.Uno.it
+Sky.TG24.HD.it
 Sky.TG24.it
 Sky.TG24.it
 Sky.Uno.HD.it
@@ -232,5 +252,5 @@ TV2000.DTT.it
 TV2000.it
 TV8.HD.it
 TV8.it
-Vacanze.italiane.it
+Vacanze.italiane.HD.it
 VH1.it

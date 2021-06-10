@@ -1,4 +1,4 @@
-202106090036
+202106100038
 
 
 -- epg_ripper_IE1 --
@@ -8,4 +8,5 @@ BT-Europe.ie
 BT-Sports-2.ie
 Eir-Sport-1.ie
 Eir-Sport-2.ie
+Eir-Sport-X1.ie
 ESPN.Ireland.ie

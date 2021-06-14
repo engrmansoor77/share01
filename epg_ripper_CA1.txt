@@ -1,4 +1,4 @@
-202106130038
+202106140039
 
 
 -- epg_ripper_CA1 --
@@ -120,6 +120,7 @@ CBC.Fredericton.HDTV.(CBAT).ca
 CBC.News.Network.(CBC.NN).ca
 CBC.News.Network.HDTV.(CBCNEWHD).ca
 CBC.North.(Yellowknife)/CFYK.(MTN).ca
+CBC.Quebec.HDTV.(CBMTHD).ca
 CBC.Saskatchewan.HDTV.(CBKT).ca
 CBC.Toronto.(CBLT).ca
 CBC.Toronto.HDTV.(CBLTHD).ca

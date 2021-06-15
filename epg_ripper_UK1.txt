@@ -1,4 +1,4 @@
-202106140039
+202106150001
 
 
 -- epg_ripper_UK1 --
@@ -219,6 +219,7 @@ FOX+1.uk
 FOX.HD.uk
 FRANCE.24.HD.uk
 FreeSports.HD.uk
+GB.News.uk
 Gems.TV.uk
 GEO.Kahani.uk
 GEO.News.uk
@@ -231,6 +232,12 @@ GOLD+1.uk
 GOLD.HD.uk
 Gold.uk
 Good.News.TV.uk
+GREAT!.movies.action.uk
+GREAT!.movies.classic.+1.uk
+GREAT!.movies.classic.uk
+GREAT!.movies.uk
+GREAT!.tv.+1.uk
+GREAT!.tv.uk
 Heart.80s.uk
 Heart.90s.uk
 Heart.Dance.uk

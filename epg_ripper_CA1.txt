@@ -1,4 +1,4 @@
-202106140039
+202106160041
 
 
 -- epg_ripper_CA1 --
@@ -207,6 +207,7 @@ CTV.Montreal.HDTV.(CTVHM).ca
 CTV.News.Channel.(CTVNC).ca
 CTV.News.Channel.HDTV.(CTVNC).ca
 CTV.Regina.HDTV.(CKCK).ca
+CTV.--.Réseau.des.Sports.2.(RDS2).ca
 CTV.SCI-FI.Channel.HDTV.(SCIFI).ca
 CTV.SCI-FI.Channel.SD.(SCFI).ca
 CTV.Toronto.(CTVTO).ca

@@ -1,4 +1,4 @@
-202106150001
+202106160042
 
 
 -- epg_ripper_US_LOCALS2 --
@@ -2241,6 +2241,7 @@ MNT.(WYTV-DT2.&quot;MyYTV&quot;).Youngstown,.OH.us
 MNT.(WZBJ-CD).Lynchburg,.VA.us
 MNT.(WZBJ).Danville,.VA.us
 Movies.TV.us
+Movies!.us
 MOXiE.(WANN-CD4).Atlanta,.GA.us
 My50.Chicago,.IL.us
 MyKY.(WTVQ-DT2).Lexington,.KY.us

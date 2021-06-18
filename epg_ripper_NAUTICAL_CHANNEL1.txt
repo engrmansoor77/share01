@@ -1,6 +1,6 @@
-202106162346
+202106180040
 
 
 -- epg_ripper_NAUTICAL_CHANNEL1 --
 
-Nautical.Channel.pl
+Nautical.Channel.HD.pl

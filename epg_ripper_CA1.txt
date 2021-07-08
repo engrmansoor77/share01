@@ -1,4 +1,4 @@
-202107070042
+202107080034
 
 
 -- epg_ripper_CA1 --
@@ -468,7 +468,6 @@ Red.Hot.TV.(REDHOT).ca
 Réseau.des.Sports.HDTV.(RDSHD).ca
 Réseau.des.sports.(RDS).ca
 Rewind.(REW).ca
-Rogers.4K.TV.(4K).ca
 Rogers.Channel.299.(SD299).ca
 Rogers.Grid.(TM).(GRID).ca
 Rogers.Grid.(TM).(GRIDH).ca

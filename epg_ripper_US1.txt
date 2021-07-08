@@ -1,4 +1,4 @@
-202107070042
+202107080035
 
 
 -- epg_ripper_US1 --
@@ -41,6 +41,7 @@ Bandamax.(U.S.).(BANDA).us
 BANG.U.(COEDS).us
 BBC.America.HDTV.(East).(BBC).us
 BBC.World.News.HDTV.(BBCWNHD).us
+BEIN2HD.beIN.Sports.En.Español.HD(ñ).us
 BEST.Channel.(BEST).us
 BET.Gospel.(GOSP).us
 BET.Her.(BETHER).us

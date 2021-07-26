@@ -1,4 +1,4 @@
-202107250034
+202107260040
 
 
 -- epg_ripper_US1 --
@@ -361,6 +361,7 @@ NBC.Sports.Philadelphia.(CSN).us
 NBC.Sports.Philadelphia.Plus.(NBCSPA+).us
 NBC.Sports.Washington.HDTV.24/7.(NBCSWAHD).us
 NBC.Sports.Washington.Plus.(NBCSWA+).us
+NECNHD.us
 New.England.Sports.Network.HDTV.(NESNHD).us
 New.England.Sports.Network.Plus.HDTV.(NESN+).us
 News.12.Bronx.HDTV.(NEWS12).us

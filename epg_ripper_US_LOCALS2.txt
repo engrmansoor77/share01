@@ -1,4 +1,4 @@
-202107310740
+202108010038
 
 
 -- epg_ripper_US_LOCALS2 --
@@ -2033,6 +2033,7 @@ MBC.America.(WKTB-CD5).Atlanta,.GA.us
 MBC.America.(WPVN-CD5).Chicago,.IL.us
 MCAETv.(K38JP-DT3).Monterey,.CA.us
 MCAETv.(K38JP).Monterey,.CA.HD.us
+MeTV.KSAT-DT2.us
 Me.TV.us
 MHz.Worldview.(WEAO-DT3).Akron,.OH.us
 MHz.Worldview.(WEIU-DT2).Charleston,.WI.us

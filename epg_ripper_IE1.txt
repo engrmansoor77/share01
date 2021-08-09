@@ -1,4 +1,4 @@
-202108080046
+202108090045
 
 
 -- epg_ripper_IE1 --
@@ -10,3 +10,11 @@ Eir-Sport-1.ie
 Eir-Sport-2.ie
 Eir-Sport-X1.ie
 ESPN.Ireland.ie
+RTÉ2.HD.ie
+RTÉ.One.+1.ie
+RTÉ.One.HD.ie
+TG4.ie
+Virgin.Media.One.+1.ie
+Virgin.Media.One.HD.ie
+Virgin.Media.Three.ie
+Virgin.Media.Two.HD.ie

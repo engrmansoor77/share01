@@ -1,4 +1,4 @@
-202109020119
+202109030118
 
 
 -- epg_ripper_UK1 --
@@ -416,6 +416,7 @@ Sky.Greats.HD.uk
 Sky.Greats.uk
 Sky.Hits.HD.uk
 Sky.Hits.uk
+Sky.Max.HD.uk
 SkyNewsArabia.uk
 Sky.News.HD.uk
 Sky.One+1.uk
@@ -425,6 +426,7 @@ SkyPremiereHD.uk
 Sky.Premiere.uk
 Sky.ScFi/HorHD.uk
 Sky.SciFi/Horror.uk
+SkyShowcaseHD.uk
 SkySp.ActionHD.uk
 SkySp.Action.uk
 SkySp.ArenaHD.uk

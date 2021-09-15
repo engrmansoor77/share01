@@ -1,9 +1,9 @@
-202109130115
+202109150107
 
 
 -- epg_ripper_US1 --
 
-5StarMAX.HD.us.us
+5StarMAX.HD.us
 88.Films.DirecTV.(88FLM).us
 88.TV.DirecTV.(88TV).us
 A.and.E.Network.HDTV.(AandEHD).us

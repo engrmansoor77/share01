@@ -1,4 +1,4 @@
-202109140025
+202109150107
 
 
 -- epg_ripper_US_LOCALS2 --
@@ -1364,6 +1364,7 @@ FaithTV.(KHDT-DT6).Denver,.CO.us
 FaithTV.(KVMD-DT6).Twentynine.Palms,.CA.us
 FaithTV.(WRZB-LD6).Washington,.DC.us
 FAM.Family.Channel.USA.us
+FETV.us
 Fil.Am.TV.(KIMG-LD3).Ventura,.CA.us
 Fil.Am.TV.(KSGA-LP3).San.Bernardino,.CA.us
 Fil.Am.TV.(KSMV-LD3).Los.Angeles,.CA.us
@@ -3344,6 +3345,7 @@ Revenue.Frontier.(WUEO-LD4).Atlanta,.GA.us
 Revenue.Frontier.(WUEO-LD6).Atlanta,.GA.us
 Revenue.Frontier.(WUEO-LD7).Atlanta,.GA.us
 REVN.TV.us
+Rewind.us
 RFD-TV.(K21LC).Cortez,.CO.us
 Right.Now.TV.(KCTU-DT8).Wichita,.KS.us
 Right.Now.TV.(KPDR-DT2).Salt.Lake.City,.Utah.us

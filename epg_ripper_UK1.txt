@@ -1,4 +1,4 @@
-202110100110
+202110120151
 
 
 -- epg_ripper_UK1 --
@@ -445,6 +445,7 @@ SkySpMainEvHD.uk
 SkySpMainEv.uk
 SkySp.Mix.HD.uk
 SkySp.News.HD.uk
+SkySp.NFL.HD.uk
 SkySp.PL.HD.uk
 SkySp.PL.uk
 SkySp.Racing.HD.uk

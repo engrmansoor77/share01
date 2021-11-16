@@ -1,4 +1,4 @@
-202111150116
+202111160117
 
 
 -- epg_ripper_MY1 --
@@ -94,9 +94,6 @@ FOX.Family.Movies.HD.my
 FOX.HD.my
 FOXlife.HD.my
 FOX.Movies.HD.my
-FOX.Sports.2.HD.my
-FOX.Sports.3.HD.my
-FOX.Sports.HD.my
 France24.my
 FX.HD.my
 GOLD.my

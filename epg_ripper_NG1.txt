@@ -1,4 +1,4 @@
-202111190124
+202111200123
 
 
 -- epg_ripper_NG1 --
@@ -134,7 +134,7 @@ SS.MáXimo.1.ng
 SS.Máximo.2.ng
 SS.Motorsport.ng
 SS.Premier.League.ng
-SS.PSL.ng
+SS.PSL.(Football.Plus).ng
 SS.Rugby.ng
 SS.Tennis.ng
 SS.Variety.1.ng

@@ -1,4 +1,4 @@
-202111190124
+202111200123
 
 
 -- epg_ripper_US_LOCALS2 --
@@ -3345,7 +3345,7 @@ Revenue.Frontier.(WUEO-LD4).Atlanta,.GA.us
 Revenue.Frontier.(WUEO-LD6).Atlanta,.GA.us
 Revenue.Frontier.(WUEO-LD7).Atlanta,.GA.us
 REVN.TV.us
-Rewind.us
+Rewind.TV.East.(WPIX-DT4).us
 RFD-TV.(K21LC).Cortez,.CO.us
 Right.Now.TV.(KCTU-DT8).Wichita,.KS.us
 Right.Now.TV.(KPDR-DT2).Salt.Lake.City,.Utah.us

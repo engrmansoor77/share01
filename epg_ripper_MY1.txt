@@ -1,4 +1,4 @@
-202111190124
+202111200123
 
 
 -- epg_ripper_MY1 --
@@ -41,6 +41,7 @@ Astro.Shuang.Xing.HD.my
 Astro.SuperSport.2.HD.my
 Astro.SuperSport.3.HD.my
 Astro.SuperSport.4.HD.my
+Astro.Supersport.5.HD.my
 Astro.SuperSport.HD.my
 Astro.Tutor.TV.PT3.my
 Astro.Tutor.TV.SPM.my

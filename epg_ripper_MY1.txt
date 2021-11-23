@@ -1,4 +1,4 @@
-202111220123
+202111230121
 
 
 -- epg_ripper_MY1 --
@@ -22,7 +22,9 @@ Astro.AOD.353.my
 Astro.AOD.354.my
 Astro.AOD.355.my
 Astro.AOD.HD.311.my
+Astro.Arena.2.HD.my
 Astro.Arena.HD.my
+ASTRO.ARENA.PLUS.HD.my
 Astro.Aura.HD.my
 Astro.Awani.HD.my
 Astro.Ceria.HD.my

@@ -1,4 +1,4 @@
-202112030113
+202112040116
 
 
 -- epg_ripper_GR1 --
@@ -8,6 +8,7 @@ Action.24.gr
 Al.Arabiya.gr
 Al.Jazeera.gr
 Alpha.gr
+Animal.Planet.gr
 Animal.Planet.HD.gr
 Ant1.gr
 Atlas.TV.gr
@@ -15,7 +16,6 @@ Attica.TV.gr
 Baby.TV.gr
 BBC.Earth.HD.gr
 BBC.World.News.gr
-Best.TV.gr
 Bloomberg.gr
 Blue.Hustler.gr
 Blue.Sky.gr
@@ -30,9 +30,11 @@ COSMOTECinema1HD.gr
 COSMOTECinema2HD.gr
 COSMOTECinema3.gr
 COSMOTECinemaChristmasHD.gr
+CosmoteCinemaDisneyPrincessHD.gr
 COSMOTECinemaFastΑndFuriousHD.gr
 COSMOTE.History.HD.gr
 COSMOTE.Series.HD.gr
+COSMOTE.SERIES.MARATHON.gr
 COSMOTESport1HD.gr
 COSMOTESport2HD.gr
 COSMOTESport3HD.gr
@@ -47,6 +49,7 @@ COSMOTESportHighlightsHD.gr
 CRETA.gr
 Crime.and.Investigation.gr
 Deutsche.Welle.gr
+Discovery.Channel.gr
 DIscovery.gr
 Discovery.HD.Showcase.gr
 Discovery.Science.HD.gr
@@ -56,6 +59,8 @@ Disney.XD.gr
 EDGEsport.HD.gr
 E!.HD.gr
 ENA.Channel.gr
+EPSILON.TV.gr
+ERT.WORLD.gr
 Euronews.English.gr
 Euronews.Greek.gr
 EuroSport1.gr
@@ -63,14 +68,16 @@ Eurosport.1.HD.gr
 Eurosport.2.gr
 EuroSport2.gr
 Extra.Channel.gr
-Fashion.TV.gr
 Fine.Living.gr
 Food.Network.gr
+FOX.gr
 FOX.HD.gr
+Foxlife.gr
 FOX.Life.HD.gr
 FOX.SPORTS.HD.gr
 France.24.En.gr
 France.24.Fr.gr
+FTV.HD.gr
 GINX.eSports.gr
 Hustler.TV.HD.gr
 IDX.HD.gr
@@ -78,16 +85,20 @@ Luxe.TV.HD.gr
 MAD.gr
 MAD.Valentine.Hits.gr
 MAD.Viral.HD.gr
+MakedoniaTV.HD.gr
+Mega.gr
 MEGA.gr
 MEGA.HD.gr
-MEZZO.gr
+MEZZO.LIVE.HD.gr
 Motors.TV.gr
 Motorvision.Channel.HD.gr
 MTV.00s.gr
 MTV.Europe.gr
-MTV.Live.HD.gr
+MTV.Live.gr
+Museum.TV.gr
+MyZen.TV.gr
 Nat.Geo.Wild.HD.gr
-National.Geographic+.gr
+National.Geographic.gr
 National.Geographic.HD.gr
 Nautical.Channel.HD.gr
 Nickelodeon.HD.gr
@@ -107,6 +118,7 @@ ONE.Channel.HD.gr
 OPEN.BEYOND.gr
 Open.Beyond.TV.gr
 Outdoor.Channel.HD.gr
+Panik.TV.gr
 Penthouse.Gold.gr
 Private.TV.gr
 PROMO.gr
@@ -114,6 +126,7 @@ Promo.HD.gr
 PROMΟ.gr
 RT.gr
 Sirina.TV.gr
+Sky.News.gr
 Smile.TV.gr
 Star.gr
 STAR.gr
@@ -122,13 +135,14 @@ Stingray.CMusic.gr
 Stingray.iConcerts.gr
 SundanceTV.gr
 TCM.HD.gr
-TLC.gr
+The.History.Channel.gr
+Travel.Channel.gr
 Travel.Channel.HD.gr
 TRT.gr
 TV.ΔΕΛΤΑ.gr
-Viasat.Explore.gr
-Viasat.History.gr
-Viasat.Nature.gr
+Viasat.Explore.HD.gr
+Viasat.History.HD.gr
+Viasat.Nature.HD.gr
 Village.Cinema.HD.gr
 World.Fashion.gr
 α.Epsilon.gr
@@ -139,8 +153,12 @@ World.Fashion.gr
 ΔΙΚΤΥΟ.TV.gr
 Επιλογές.Τηλεόραση.gr
 ΕΡΤ1.gr
+ΕΡΤ1.HD.gr
 ΕΡΤ2.gr
+ΕΡΤ2.HD.gr
 ΕΡΤ3.gr
+ΕΡΤ3.HD.gr
+ΕΡΤ.HD.gr
 ΕΡΤ.Sports.HD.gr
 ΙΟΝΙΑΝ.TV.gr
 Κανάλι.της.Βουλής.gr

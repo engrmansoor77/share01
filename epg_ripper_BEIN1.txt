@@ -1,11 +1,10 @@
-202112030113
+202112040116
 
 
 -- epg_ripper_BEIN1 --
 
 4k_DIGITAL_EN.bein
 Aljazeera-Documentary_EN.bein
-AMC_EN.bein
 Baby-TV_EN.bein
 Baraem_EN.bein
 BBC_earth_EN.bein
@@ -42,12 +41,10 @@ Cartoon-Network-Arabic_EN.bein
 Cartoon-Network-HD_EN.bein
 Cartoon-Network-Hindi_EN.bein
 CBeebies_EN.bein
-CBS-Reality_EN.bein
 CNN-HD_EN.bein
 DRAMA_DIGITAL_EN.bein
 Dream-Works_EN.bein
 Euro-News_EN.bein
-extreme-sports-channel_EN.bein
 FATAFEAT_EN.bein
 food-network_EN.bein
 Fox-Action-Movies_EN.bein
@@ -58,7 +55,6 @@ GOURMET_DIGITAL_EN.bein
 HGTV_EN.bein
 HLN_EN.bein
 Jeem-HD_EN.bein
-JimJam_EN.bein
 MOVIES1_PREMIERE_DIGITAL_EN.bein
 MOVIES2_ACTION_DIGITAL_EN.bein
 MOVIES3_DRAMA_DIGITAL_EN.bein
@@ -67,17 +63,13 @@ Mtv-80s_EN.bein
 mtv-90s_EN.bein
 MTV-Club_EN.bein
 Nat_geo_hd_EN.bein
-Nat_geo_people_EN.bein
 NBA_DIGITAL_EN.bein
 NEWS_DIGITAL_EN.bein
-Outdoor-Channel_EN.bein
 SERIES1_DIGITAL_EN.bein
 SERIES2_DIGITAL_EN.bein
 Star-Movies-HD_EN.bein
 StarWorld-HD_EN.bein
-SUNDANCE-TV_EN.bein
 TCM-on-White_EN.bein
 Travel-Channel-HD_EN.bein
 Trt_worls_blk_EN.bein
 UPDATEz_EN.bein
-VHD_EN.bein

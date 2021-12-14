@@ -1,4 +1,4 @@
-202112130121
+202112140142
 
 
 -- epg_ripper_US1 --
@@ -15,6 +15,7 @@ Adult.All.Access.Pass.(BUY6).us
 Altitude.Sports.and.Entertainment.Alternate.(ALT2).us
 Altitude.Sports.and.Entertainment.HDTV.(ALTHD).us
 AMC.HDTV.(East).(AMCHD).us
+AMC+.us
 American.Heroes.Channel.HDTV.(AHCHD).us
 Americas.Value.Channel.(AVC).us
 ANC.(ANC).us
@@ -159,9 +160,6 @@ Flix.(East).(FLIXe).us
 FM.HDTV.(FM).us
 Food.Network.HDTV.(East).(FOODHD).us
 Foro.TV.(FOROTV).us
-Fox.(Bally).College.Sports.Atlantic.(FCSA).us
-Fox.(Bally).College.Sports.Central.(FCSC).us
-Fox.(Bally).College.Sports.Pacific.(FCS).us
 Fox.Business.Network.HDTV.(FBNHD).us
 Fox.College.Sports.Alternate.(FCS).us
 Fox.Deportes.en.Español.HDTV.(U.S.).(FXDEHD).us
@@ -459,6 +457,9 @@ Sony.Movie.Channel.HD.(SONY).us
 Spectrum.SportsNet.HDTV.(SPCSN).us
 SportsNet.New.York.HDTV.(SNYHD).us
 SportsTime.Ohio.HDTV.(STOHD).us
+Stadium.College.Sports.Atlantic.(SCSA).us
+Stadium.College.Sports.Central.(SCSC).us
+Stadium.College.Sports.Pacific.(SCSP).us
 STARZ.Cinema.HD.(East).(SZCIH).us
 STARZ.Comedy.HD.(East).(SZCHD).us
 STARZ.Edge.HD.(East).(SZEHD).us

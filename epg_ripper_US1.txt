@@ -1,4 +1,4 @@
-202201140126
+202201150119
 
 
 -- epg_ripper_US1 --
@@ -121,7 +121,6 @@ Discovery.Life.Channel.(DLIF).us
 Disney.Junior.HDTV.East.(DISJr).us
 Disney.XD.HDTV.(East).(DXDHD).us
 DOGTV.(DOGTV).us
-Do.It.Yourself.Network.HDTV.(East).(DIYHD).us
 Dom.Kino.(KINO).us
 DVR.Showcase.(DTV).us
 DZMM.Teleradyo.(DZMM).us
@@ -311,6 +310,7 @@ LOOK.Network.(LOOK).us
 Love.World.(Zeal.9).us
 Madison.Square.Garden.HDTV.(MSG.HD).us
 Madison.Square.Garden.Plus.HDTV.(MSG+H).us
+Magnolia.Network.HDTV.[East].(MAGNOLIA).us
 Mav.TV.HDTV.(MavHD).us
 MBC.America.Korean.TV.(MBC).us
 MBN.Plus.(MBNP).us

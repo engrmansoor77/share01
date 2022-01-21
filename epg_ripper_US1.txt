@@ -1,4 +1,4 @@
-202201200122
+202201210122
 
 
 -- epg_ripper_US1 --
@@ -310,7 +310,7 @@ LOOK.Network.(LOOK).us
 Love.World.(Zeal.9).us
 Madison.Square.Garden.HDTV.(MSG.HD).us
 Madison.Square.Garden.Plus.HDTV.(MSG+H).us
-Magnolia.Network.HDTV.[East].(MAGNOLIA).us
+Magnolia.Network.HD.(EAST).us
 Mav.TV.HDTV.(MavHD).us
 MBC.America.Korean.TV.(MBC).us
 MBN.Plus.(MBNP).us

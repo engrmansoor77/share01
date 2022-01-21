@@ -1,4 +1,4 @@
-202201200121
+202201210121
 
 
 -- epg_ripper_IN4 --
@@ -10,6 +10,7 @@
 9X.Jhakaas.in
 9XM.in
 9X.Tashan.in
+A1.TV.in
 Aaj.Tak.HD.in
 Aaj.Tak.in
 Aakaash.Aath.in
@@ -21,32 +22,37 @@ ABP.Asmita.in
 ABP.Ganga.in
 ABP.Majha.in
 ABP.News.in
+ABP.Sanjha.in
 Adithya.TV.in
 Alankar.in
 Al.Jazeera.in
-&amp;Flix.HD.in
-&amp;Flix.in
-&amp;pictures.HD.in
-&amp;pictures.in
-&amp;Prive.HD.in
-&amp;tv.HD.in
-&amp;tv.in
 Amrita.TV.in
+Anaadi.TV.in
 ANB.NEWS.in
+AND.Flix.HD.in
+AND.flix.in
+AND.pictures.HD.in
+AND.pictures.in
+AND.Prive.HD.in
+AND.TV.HD.in
+AND.TV.in
 Angel.TV.in
 Animal.Planet.HD.World.in
 Animal.Planet.in
 Anjan.TV.in
+ANN.News.in
 APN.News.in
 Aradana.TV.in
 Argus.News.in
 Arihant.in
 Asianet.HD.in
 Asianet.in
+Asianet.Movies.-.Hot.Star.Feed.in
 Asianet.Movies.in
 Asianet.News.in
 Asianet.Plus.in
 Asianet.Suvarna.News.in
+Atmadarshan.in
 Australia.TV.in
 Awakening.in
 Ayush.TV.in
@@ -55,7 +61,6 @@ B4U.Kadak.in
 B4U.Movies.in
 B4U.Music.in
 Baby.TV.HD.in
-Balle.Balle.in
 Bangla.Bhakti.in
 Bangla.Cinema.Promo.in
 Bansal.News.in
@@ -65,12 +70,10 @@ Bflix.Movies.in
 Bhakti.TV.in
 Bharat.Samachar.in
 Bhojpuri.Cinema.in
-Big.Ganga.in
 Big.Magic.in
 BollywoodP.in
 Bollywood.Premiere.in
 Boogle.Bollywood.in
-Buletin.India.in
 Calcutta.News.in
 Captain.News.in
 Cartoon.Network.HD+.in
@@ -151,8 +154,8 @@ DD.Uttar.Pradesh.in
 DD.Yadagiri.in
 Dhinchaak.in
 Dighvijay.24x7.News.in
+Discovery.Channel.in
 Discovery.HD.World.in
-Discovery.in
 Discovery.Kids.in
 Discovery.Science.in
 Discovery.Turbo.in
@@ -169,9 +172,9 @@ E24.in
 Ek.Onkar.in
 Enterr10.Bangla.in
 Enterr10.Movies.in
-Enterr10.Rangeela.in
 EPIC.in
 ET.NOW.in
+ET.Now.Swadesh.in
 ETV.Abhiruchi.in
 ETV.Andhra.Pradesh.in
 ETV.Bal.Bharat.in
@@ -179,7 +182,7 @@ ETV.Cinema.in
 ETV.HD.in
 ETV.Life.in
 ETV.Plus.in
-ETV.Telengana.in
+ETV.Telangana.in
 ETV.Telugu.in
 Eurosport.HD.in
 Eurosport.in
@@ -205,6 +208,7 @@ Gemini.TV.HD.in
 Gemini.TV.in
 God.TV.in
 Goodness.in
+Good.News.Today.in
 GOOD.TiMES.in
 Green.Chillies.TV.in
 GSAT.in
@@ -216,7 +220,6 @@ Harvest.TV.24x7.in
 Haryana.Beats.in
 Haryanvi.Hits.in
 Headlines.Tripura.in
-Health.&amp;.Wellness.in
 Hindi.Khabar.in
 Hindu.Dharmam.in
 History.TV18.HD.in
@@ -229,7 +232,7 @@ India.Ahead.in
 India.News.Gujarat.in
 India.News.Haryana.in
 India.News.in
-India.News.MP.CH.in
+India.News.MP.CG.in
 India.News.Punjab.in
 India.News.Rajasthan.in
 India.News.UP.UK.in
@@ -246,6 +249,7 @@ Isaiaruvi.in
 Ishara.in
 Ishwar.TV.in
 ISKCON.Mumbai.in
+ITV.24.in
 Jaihind.TV.in
 Jai.Maharashtra.in
 Jalsha.Movies.HD.in
@@ -282,19 +286,23 @@ Krishna.Vani.in
 KTV.HD.in
 KTV.in
 Kushi.TV.in
+Lakshya.TV.in
+Live.Govind.Devji.Jaipur.in
+Live.Iskcon.Vrindavan.in
+Live.Naina.Devi.Himachal.Pradesh.in
+Live.Nanded.Saheb.Maharashtra.in
+Live.Patna.Sahib.Patna.in
+Live.Sri.Naga.Sai.Mandir.Coimbatore.in
 LIVE.TV.on.Mobile.in
 Living.India.News.in
-Lok.Sabha.TV.in
 Lokshahi.in
-Luxe.&amp;.Life.in
 Madha.TV.in
-Mahakaleshwar.Temple,.Ujjain.in
 Makkal.TV.in
 MalaiMurasu.Seithigal.in
 Malayalam.Naaptol.in
-Mango.TV.in
 Manjari.in
 Manorama.News.in
+Manoranjan.Grand.in
 Manoranjan.TV.in
 Mantavya.News.in
 Marathi.Cinema.Offer.in
@@ -322,8 +330,6 @@ MTV.Beats.in
 MTV.HD+.in
 MTV.in
 Murasu.TV.in
-Music.Zone.in
-Mybox.8.0.in
 Naaptol.in
 Nambikkai.TV.in
 Namma.TV.in
@@ -336,6 +342,7 @@ NDTV.24x7.in
 NDTV.India.in
 NDTV.Profit.Prime.in
 Nepal.1.in
+Netflix.Service.in
 Network.10.in
 News11.Bharat.in
 News18.Assam.North.East.in
@@ -367,6 +374,7 @@ News.State.MP.CG.in
 News.State.UP.Uttarakhand.in
 News.Time.Bangla.in
 News.World.India.in
+News.World.Odisha.in
 NewsX.in
 Nick.HD+.in
 Nick.in
@@ -380,10 +388,10 @@ Oscar.Movies.Bhojpuri.in
 OTV.in
 Outdoor.Channel.in
 Paras.TV.in
+Pasand.in
 Patrika.TV.Rajasthan.in
 Peace.of.Mind.in
 Peppers.TV.in
-Pet.&amp;.Pal.in
 Pitaara.TV.in
 Pogo.in
 Polimer.News.in
@@ -403,6 +411,8 @@ PTC.Simran.in
 Public.Movies.in
 Public.Music.in
 Public.TV.in
+Punjabi.Hits.in
+Punjab.Plus.in
 Puthiya.Thalaimurai.in
 Raj.Digital.Plus.in
 Raj.Musix.in
@@ -414,7 +424,6 @@ Raj.News.Malayalam.in
 Raj.News.Tamil.in
 Raj.News.Telugu.in
 Raj.TV.in
-Rajya.Sabha.TV.in
 Ramdhenu.in
 Rang.in
 R.Bharat.in
@@ -436,11 +445,14 @@ Samay.in
 Sandesh.News.in
 Sangeet.Bangla.in
 Sangeet.Marathi.in
+Sansad.TV.in
+Sansad.TV.-.Rajya.Sabha.in
 Sanskar.in
 Santwani.in
 Sathiyam.TV.in
 Satsang.TV.in
-Seithigal.in
+Segmented.Chn.9.in
+Seithigal.TV.in
 SET.HD.in
 SET.in
 Shalom.TV.in
@@ -459,6 +471,7 @@ Showcase.HD4.in
 Showcase.in
 Shubhavaarta.TV.in
 Shubh.TV.in
+SIRIKANNADA.Alltime.in
 Sirippoli.in
 Somnath.Temple.in
 Sonic.Nickelodeon.in
@@ -485,7 +498,6 @@ Sony.Ten.3.in
 Sony.Ten.4.in
 SONY.WAH.in
 SONY.YAY!.in
-Sportyfy.in
 Sri.Sankara.TV.in
 Star.Bharat.HD.in
 Star.Bharat.in
@@ -543,6 +555,7 @@ Subharti.TV.in
 Sudarshan.News.in
 Sun.Bangla.in
 Sun.Life.in
+Sun.Marathi.in
 Sun.Music.HD.in
 Sun.Music.in
 Sun.News.in
@@ -574,10 +587,10 @@ Tata.Sky.Beauty.in
 Tata.Sky.Bollywood.Premiere.HD.in
 Tata.Sky.Bollywood.Premiere.in
 Tata.Sky.Classic.Cinema.in
+Tata.Sky.Classic.TV.in
 Tata.Sky.Classroom.in
 Tata.Sky.Comedy.in
 Tata.Sky.Cooking.in
-Tata.Sky.Curiosity.Channel.in
 Tata.Sky.Dance.Studio.in
 Tata.Sky.English.in.Hindi.in
 Tata.Sky.English.in.Telugu.in
@@ -597,6 +610,7 @@ Tata.Sky.Marathi.Cinema.in
 Tata.Sky.Mobile.in
 Tata.Sky.Music.in
 Tata.Sky.NEET.Prep.in
+Tata.Sky.Romance.in
 Tata.Sky.Seniors.in
 Tata.Sky.Shoppe.in
 Tata.Sky.ShortsTV.in
@@ -607,15 +621,14 @@ Tata.Sky.Telugu.Cinema.in
 Tata.Sky.Theatre.HD.in
 Tata.Sky.Theatre.in
 Tata.Sky.Vedic.Maths.in
-Tehzeeb.TV.in
+Tata.Sky.Videshi.Kahaniyan.in
 Telugu.Naaptol.in
-TestService.in
-TEZ.in
 Thanthi.TV.in
 Theatre.in
 The.Q.in
 TIMES.NOW.in
 Times.Now.Navbharat.HD.in
+Times.Now.Navbharat.in
 Times.Now.World.in
 TLC.HD.in
 TLC.in
@@ -625,6 +638,7 @@ TOTAL.TV.in
 Training.Channel.in
 TRAI.Tariff.Order.in
 TravelXP.4K.HDR.in
+Travel.XP.-.4K.in
 Travelxp.HD.in
 Travelxp.in
 Travelxp.Tamil.in
@@ -664,8 +678,7 @@ Wah.Punjabi.in
 We.TV.in
 What’s.New?.in
 WION.in
-Wow,.be.crazy.in
-WOW.Cinema.One.in
+WoW.Cinema.One.in
 Zee.24.Ghanta.in
 Zee.24.Kalak.in
 Zee.24.Taas.in
@@ -687,6 +700,7 @@ Zee.Cinema.in
 Zee.Cinemalu.HD.in
 Zee.Cinemalu.in
 Zee.Classic.in
+Zee.Ganga.in
 Zee.Hindustan.in
 Zee.Kannada.HD.in
 Zee.Kannada.in
@@ -701,7 +715,6 @@ Zee.Picchar.in
 ZEE.PLEX.HD.Screen.1.in
 ZEE.PLEX.HD.Screen.2.in
 ZEE.PLEX.Screen.1.in
-ZEE.PLEX.Screen.2.in
 Zee.Punjab.Haryana.Himachal.Pradesh.in
 Zee.Punjabi.in
 Zee.Rajasthan.News.in

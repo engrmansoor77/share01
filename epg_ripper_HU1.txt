@@ -1,4 +1,4 @@
-202201240125
+202201250123
 
 
 -- epg_ripper_HU1 --
@@ -13,7 +13,9 @@ Aréna4.hu
 Arte.hu
 ATV.hu
 ATV.SPIRIT.hu
+AXN.Black.hu
 AXN.hu
+AXN.White.hu
 Babyfirst.hu
 Baby.TV.hu
 Balaton.TV.hu
@@ -98,16 +100,19 @@ Izaura.TV.hu
 JimJam.hu
 Jocky.TV.hu
 Kika.hu
+Kölcsey.TV.hu
 LifeTv.hu
 Love.Nature.hu
 m1.HD.hu
 m2.HD.hu
+M3.hu
 m4.hu
 m4sport+.hu
 m5.hu
 MEZZOHD.hu
 MEZZO.hu
 Minimax.hu
+Miskolc.TV.hu
 Mozi+.hu
 Moziverzum.hu
 MR1-Kossuth.hu

@@ -1,4 +1,4 @@
-202202070109
+202202080119
 
 
 -- epg_ripper_AL1 --
@@ -1767,6 +1767,75 @@ TCM-on-White_EN.bein
 Travel-Channel-HD_EN.bein
 Trt_worls_blk_EN.bein
 UPDATEz_EN.bein
+
+
+-- epg_ripper_BG1 --
+
+24.Kitchen.bg
+7/8.TV.bg
+Animal.Planet.bg
+AXN.bg
+AXN.Black.bg
+AXN.White.bg
+Bloomberg.TV.bg
+BNT.2.bg
+BNT.3.bg
+BNT.4.bg
+BNT.bg
+bTV.Action.bg
+bTV.bg
+bTV.Cinema.bg
+bTV.Comedy.bg
+BTV.Lady.bg
+Bulgaria.ON.AIR.bg
+Cartoon.Network.bg
+CBS.Reality.bg
+Cinemax.bg
+Comedy.Central.bg
+Da.Vinci.Learning.bg
+Diema.bg
+Diema.Family.bg
+Diema.Sport.2.bg
+Diema.Sport.3.bg
+Diema.Sport.bg
+Discovery.Channel.bg
+Discovery.Science.bg
+Disney.Channel.bg
+Eurocom.bg
+Eurosport.2.bg
+Eurosport.bg
+Film.Box.bg
+Film.Plus.bg
+FOX.Channel.bg
+FOX.Crime.bg
+FOX.Life.bg
+HBO.2.bg
+HBO.bg
+History.Channel.bg
+Hobby.TV.bg
+KinoNova.bg
+Max.Sport.1.bg
+Max.Sport.2.bg
+Max.Sport.3.bg
+MovieStar.bg
+Nat.Geo.Wild.bg
+National.Geographic.bg
+Nova.News.bg
+Nova.Sport.bg
+Nova.TV.bg
+ORT.bg
+Planeta.bg
+Ring.BG.bg
+SKAT.bg
+TLC.bg
+Travel.Channel.bg
+TV1000.bg
+TV1.bg
+TV+.bg
+Viasat.Explore.bg
+Viasat.History.bg
+Viasat.Nature.bg
+Vivacom.Arena.bg
 
 
 -- epg_ripper_BR1 --
@@ -7098,8 +7167,8 @@ KBS.KIDS.kr
 KBS.LIFE.kr
 KBS.Story.kr
 K?쇳?.kr
-?쇳????.kr
 ?몃????.kr
+?쇳????.kr
 ???.kr
 ????쇰?.kr
 ????댄?.kr
@@ -7177,8 +7246,8 @@ TVCHOSUN3.kr
 TV.CHOSUN.kr
 ?고??댁?TV.kr
 ?대??쇰━TV.kr
-????댁?TV.kr
 ????대?TV.kr
+????댁?TV.kr
 ?????TV.kr
 ???TV.kr
 tvN.DRAMA.kr

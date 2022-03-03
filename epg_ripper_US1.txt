@@ -1,4 +1,4 @@
-202203020131
+202203030121
 
 
 -- epg_ripper_US1 --
@@ -138,13 +138,21 @@ ESPN-2.HDTV.Alternate.Programming.(ESNAHD).us
 ESPN2.HDTV.(ESPN2HD).us
 ESPN.Alternate.Programming.HDTV.(ESNAHD).us
 ESPN.College.Extra.1.(ESCE1).us
+ESPN.College.Extra.1.HDTV.(ECE1D).us
 ESPN.College.Extra.2.(ESCE2).us
+ESPN.College.Extra.2.HDTV.(ECE2D).us
 ESPN.College.Extra.3.(ESCE3).us
+ESPN.College.Extra.3.HDTV.(ECE3D).us
 ESPN.College.Extra.4.(ESCE4).us
+ESPN.College.Extra.4.HDTV.(ECE4D).us
 ESPN.College.Extra.5.(ESCE5).us
+ESPN.College.Extra.5.HDTV.(ECE5D).us
 ESPN.College.Extra.6.(ESCE6).us
+ESPN.College.Extra.6.HDTV.(ECE6D).us
 ESPN.College.Extra.7.(ESCE7).us
+ESPN.College.Extra.7.HDTV.(ECE7D).us
 ESPN.College.Extra.8.(ESCE8).us
+ESPN.College.Extra.8.HDTV.(ECE8D).us
 ESPN.College.Extra.HD.DirecTV.(ESPN).us
 ESPN.Deportes.HDTV.(EDEPHD).us
 ESPN.HDTV.(ESPNHD).us

@@ -1,4 +1,4 @@
-202203150130
+202203160129
 
 
 -- epg_ripper_AL1 --
@@ -7756,6 +7756,7 @@ SBS.9.nl
 ShortsTV.nl
 Spike.nl
 Stingray.Classica.nl
+Stingray.Lite.TV.nl
 TLC.nl
 TRT.World.nl
 TV.538.nl

@@ -1,4 +1,4 @@
-202203190130
+202203200126
 
 
 -- epg_ripper_AL1 --
@@ -7041,8 +7041,8 @@ KBS.KIDS.kr
 KBS.LIFE.kr
 KBS.Story.kr
 K?쇳?.kr
-?쇳????.kr
 ?몃????.kr
+?쇳????.kr
 ???.kr
 ????쇰?.kr
 ????댄?.kr
@@ -14791,11 +14791,6 @@ Z.Living.(WOCK-CD3).Chicago,.IL.us
 Z.Living.(WSKC-CD4).Atlanta,.GA.us
 ZWTV.(KFUL-DT9).San.Luis.Obipso,.CA.us
 ZWTV.(KJLA-DT9).Los.Angeles,.CA.us
-
-
--- epg_ripper_viva-russia.ru --
-
-VIVARussia.ru
 
 
 -- epg_ripper_VN1 --

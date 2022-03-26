@@ -1,4 +1,4 @@
-202203220123
+202203260122
 
 
 -- epg_ripper_HU1 --
@@ -105,7 +105,6 @@ LifeTv.hu
 Love.Nature.hu
 m1.HD.hu
 m2.HD.hu
-M3.hu
 m4.hu
 m4sport+.hu
 m5.hu
@@ -120,6 +119,7 @@ MR2-Petőfi.hu
 MR3-Bartók.hu
 MR4-Nemzetiségi.hu
 MR6-Dankó.hu
+MTV.00's.hu
 MTV.80's.hu
 MTV.90's.hu
 MTV.Euro.hu
@@ -156,7 +156,7 @@ RTL+.hu
 RTL.hu
 RTL.Klub.hu
 SAT.1.hu
-Slager.TV.hu
+Sláger.TV.hu
 Smile.of.a.Child.hu
 Sony.Max.hu
 Sony.Movie.Channel.hu
@@ -191,11 +191,13 @@ TV2.Séf.hu
 TV4.hu
 TV5.hu
 TVE.hu
+TVM3.hu
 TV.Paprika.hu
-VH1.hu
+Viasat.2.hu
 Viasat.3.hu
 Viasat6.hu
 Viasat.Explore.hu
+Viasat.Film.hu
 Viasat.History.hu
 Viasat.Nature.hu
 Vox.hu

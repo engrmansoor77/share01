@@ -1,4 +1,4 @@
-202204050111
+202204060104
 
 
 -- epg_ripper_CA1 --
@@ -290,7 +290,6 @@ Disney.Junior.Canada.HD.(DISJRH).ca
 Disney.XD.Canada.HD.(DISXDH).ca
 Documentary.Canada.(Doc).ca
 Documentary.Canada.HDTV.(DOCHD).ca
-Do.It.Yourself.Canada.(DIY).ca
 Dorcel.TV.(English).(DORCL).ca
 Dorcel.TV.(French).(DRCLF).ca
 DTour.(DTOUR).ca
@@ -425,6 +424,7 @@ Ligue.Nationale.de.Hockey.2.(LNHHD2).ca
 Local.Programming.(Generic).(CATV-90).ca
 Love.Nature.(NATUR).ca
 LS.Times.TV.(LSTTV).ca
+Magnolia.Network.ca
 Makeful.(MAKFL).ca
 MAX.(MAX).ca
 Mediaset.Italia.Canada.(MEDITACA).ca
